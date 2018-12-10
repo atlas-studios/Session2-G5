@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2340,6 +2340,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180811T195503Z" creationid="Joey" creationdate="20180811T195503Z">
         <seg>"Me?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“战无双，你还不动手帮他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T052856Z" creationid="niz_ang" creationdate="20181210T052856Z">
+        <seg>The Prowess, help him now! Why are you hesitating? </seg>
       </tuv>
     </tu>
     <tu>
@@ -8008,6 +8016,15 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T153923Z" creationid="Joey" creationdate="20180922T153923Z">
         <seg>After fighting for five minutes, Yi Lingxue's entire body was covered in sweat, allowing her perfect bodily figure to come to light. However, she remained totally unaware of this. Instead, with a delicate shout, she sent both her fists flying like a thunderstorm, leaving the air filled with the silhouettes of fists, numbering ten of such figures, within a split second. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>战无双摇了摇头，身子纹丝不动，瞥了江逸一眼淡淡笑了起来：“再说了……你不是说这人实力比我还强？谁能伤他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T052722Z" creationid="niz_ang" creationdate="20181210T052722Z">
+        <seg>  
+  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15347,6 +15364,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>那边站立的黑衣少女看到江逸有危险，立即冷面朝战无双说道，两人接到钱万贯的传信一直关注着江逸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T053430Z" creationid="niz_ang" creationdate="20181210T053430Z">
+        <seg>Seeing that Jiang Yi was in danger, the girl in black turned to face Zhan Wushuang immediately and said the two of them had been paying close attention to Jiang Yi after receiving Qian Wanguan's spread of rumours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>那铸鼎境界三重旁系子弟江如鹰立即朝前走了两步，蹲了一个马步，满脸嘲弄的伸手指着胯下道：“来吧！钻过去。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T111825Z" creationid="Joey" creationdate="20180917T111825Z">
@@ -15849,6 +15874,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180921T051609Z" creationid="Joey" creationdate="20180921T051609Z">
         <seg>Black essence force could increase his power by two times. At the moment, with the boundary of his power-level at the second stage of the Cast Tripod Realm, after merging with some black essence force, his power-level could hit the fourth stage of the Cast Tripod Realm, equivalent to four horsepower worth of strength. Besides being compatible with and increasing his ability of sight, his mixed martial arts techniques and strategies certainly allowed him to be on par with any typical martial artists with a power level at the fourth stage of the Cast Tripod Realm. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣少女气鼓鼓的转过身子去，眼睛死死盯着江逸。她那天说江逸比战无双实力强大，毕竟只是一种感觉，还有气气战无双的想法，心底倒是不认为江逸能赢战无双，毕竟战无双是战神一族这一代的传人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T052736Z" creationid="niz_ang" creationdate="20181210T052736Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
