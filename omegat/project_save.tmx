@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8184,6 +8184,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072531Z" creationid="niz_ang" creationdate="20181210T072531Z">
         <seg>A smile appeared on the bronze-colored face of Zhao Wushuang, where he reached out his hand to touch the head of the girl in black, only to be faced with the rejection of the girl, where she dodged his hand. To this, his smile remained unwavered, nodded his head and spoke," The person is considered an eccentric talent since he managed to portray himself at the fifth stage of the Cast Tripod Realm on the surface. If he can enter the institution, I'll let him live and learn with me. I'll take care of him." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>战无双摇了摇头，身子纹丝不动，瞥了江逸一眼淡淡笑了起来：“再说了……你不是说这人实力比我还强？谁能伤他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T082101Z" creationid="niz_ang" creationdate="20181210T082101Z">
+        <seg>Zhan Wushuang shaked his head, and without moving his body, </seg>
       </tuv>
     </tu>
     <tu>
