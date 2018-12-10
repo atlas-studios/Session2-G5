@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="ZH-CN">
         <seg>“不是我不懂知恩图报，我们战家一直中立，如此场合要是出手了，日后肯定非常麻烦，还会影响高层的博弈。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T054257Z" creationid="niz_ang" creationdate="20181210T054241Z">
-        <seg>"It's not that I'm ungrateful,it's just that the Zhan Family has always been neutral. If we reach out and help under such circumstances, there will definitely be great trouble in the future. It may even affect future battles. "</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T054530Z" creationid="niz_ang" creationdate="20181210T054241Z">
+        <seg>"It's not that I'm ungrateful,it's just that the Zhan Family has always been neutral. If we reach out and help under such circumstance, there will definitely be great trouble in the future, which may even affect future battles. "</seg>
       </tuv>
     </tu>
     <tu>
@@ -8199,6 +8199,14 @@ In other words, other people could beat you up as they fancied. You could always
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>接下来的场景，让战无双和黑衣少女还有躲在灌木丛中的小胖子惊呆了。江逸突然拍出一掌，一股强大的元力爆炸开来，那铸鼎境九重的武者竟一招都挡不住，直接被炸得半死。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T060004Z" creationid="niz_ang" creationdate="20181210T055650Z">
+        <seg>The scene that came after shocked Zhan Wushuang, the girl in black as well as the rotund fatty hiding in the shrubs. This was so as Jiang Yi suddenly exhibited a mighty and powerful force from his palms, and the warrior of the Cast Tripod Realm was unable to protect himself from such explosion of Jiang Yi's inner force, resulting in his immediate explosive demise.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>接待他的还是上次的刘管事，刘管事客气的将江逸带进雅阁内，招来侍女奉上香茗后，才微笑问道：“公子，您这次是又准备出售丹药吗？难道有好货色？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T143349Z" creationid="USER" creationdate="20180813T080736Z">
@@ -15374,8 +15382,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>那边站立的黑衣少女看到江逸有危险，立即冷面朝战无双说道，两人接到钱万贯的传信一直关注着江逸。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T053430Z" creationid="niz_ang" creationdate="20181210T053430Z">
-        <seg>Seeing that Jiang Yi was in danger, the girl in black turned to face Zhan Wushuang immediately and said the two of them had been paying close attention to Jiang Yi after receiving Qian Wanguan's spread of rumours.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T054510Z" creationid="niz_ang" creationdate="20181210T053430Z">
+        <seg>Seeing that Jiang Yi was in danger, the girl in black turned to face Zhan Wushuang immediately and said the two of them had been paying close attention to Jiang Yi after hearing Qian Wanguan's rumours.</seg>
       </tuv>
     </tu>
     <tu>
