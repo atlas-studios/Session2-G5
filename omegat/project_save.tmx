@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -400,6 +400,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
 "Even if they don't use any essence force, they can easily beat you to a pulp just by relying on their reaction speed and martial arts techniques alone. Yesterday, my cousin, whose power level is at the third stage of the Cast Tripod Realm, went to be a sparring partner for a day, but in the end, he left the place crawling.
 
 "At this moment he is still healing his injuries at home! Those young masters and young mistresses are too ruthless in their combat actions! This money is not easy to earn at all..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你父亲很强大，但他当年抛弃了夫人，不是他夫人也不会死，所以……不到万不得已，我不想去找他，甚至我都不想看到他，否则我怕我会拼了命也要刺杀他的！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T074125Z" creationid="AoIeongFamily" creationdate="20181210T074125Z">
+        <seg>"Your father was very powerful, but he abandoned madame, if not for him madame wouldn't have died, so...unless necessary, I don't want to find him, I even don't want to see him, because I'm afraid I'll risk my life to kill him no matter what!" </seg>
       </tuv>
     </tu>
     <tu>
