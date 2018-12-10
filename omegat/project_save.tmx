@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2378,8 +2378,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“战无双，你还不动手帮他？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T054416Z" creationid="niz_ang" creationdate="20181210T052856Z">
-        <seg>Zha Wushuang, help him now! Why are you hesitating? </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072630Z" creationid="niz_ang" creationdate="20181210T052856Z">
+        <seg>"Zhan Wushuang, why are you not helping him?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,6 +8136,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T153923Z" creationid="Joey" creationdate="20180922T153923Z">
         <seg>After fighting for five minutes, Yi Lingxue's entire body was covered in sweat, allowing her perfect bodily figure to come to light. However, she remained totally unaware of this. Instead, with a delicate shout, she sent both her fists flying like a thunderstorm, leaving the air filled with the silhouettes of fists, numbering ten of such figures, within a split second. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>战无双古铜色的脸上露出一丝笑意，伸手摸了摸黑衣少女的头，不料她却躲避开去，他脸上的笑容不减，点头道：“这人也算是个怪才，表面竟然只有铸鼎境五重？如果他能进学院的话，就让他跟我混吧，我罩着他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072531Z" creationid="niz_ang" creationdate="20181210T072531Z">
+        <seg>A smile appeared on the bronze-colored face of Zhao Wushuang, where he reached out his hand to touch the head of the girl in black, only to be faced with the rejection of the girl, where she dodged his hand. To this, his smile remained unwavered, nodded his head and spoke," The person is considered an eccentric talent since he managed to portray himself at the fifth stage of the Cast Tripod Realm on the surface. If he can enter the institution, I'll let him live and learn with me. I'll take care of him." </seg>
       </tuv>
     </tu>
     <tu>
@@ -15566,8 +15574,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>那边站立的黑衣少女看到江逸有危险，立即冷面朝战无双说道，两人接到钱万贯的传信一直关注着江逸。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T054510Z" creationid="niz_ang" creationdate="20181210T053430Z">
-        <seg>Seeing that Jiang Yi was in danger, the girl in black turned to face Zhan Wushuang immediately and said the two of them had been paying close attention to Jiang Yi after hearing Qian Wanguan's rumours.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072710Z" creationid="niz_ang" creationdate="20181210T053430Z">
+        <seg>   Seeing that Jiang Yi was in danger, the girl in black turned to face Zhan Wushuang immediately and said the two of them had been paying close attention to Jiang Yi after hearing Qian Wanguan's rumours.</seg>
       </tuv>
     </tu>
     <tu>
