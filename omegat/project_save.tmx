@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8337,8 +8337,8 @@ In other words, other people could beat you up as they fancied. You could always
       <tuv lang="ZH-CN">
         <seg>接下来的场景，让战无双和黑衣少女还有躲在灌木丛中的小胖子惊呆了。江逸突然拍出一掌，一股强大的元力爆炸开来，那铸鼎境九重的武者竟一招都挡不住，直接被炸得半死。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T061224Z" creationid="niz_ang" creationdate="20181210T055650Z">
-        <seg>The scene that came after shocked Zhan Wushuang, the girl in black as well as the rotund fatty hiding in the shrubs. This was so as Jiang Yi suddenly exhibited a mighty and powerful force from his palms, and the warrior of the ninth stage of Cast Tripod Realm was unable to protect himself from such explosion of Jiang Yi's inner force, resulting in his immediate explosive demise.  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T073240Z" creationid="niz_ang" creationdate="20181210T055650Z">
+        <seg>the scene that came after shocked Zhan Wushuang, the girl in black as well as the rotund fatty hiding in the shrubs. This was so as Jiang Yi suddenly exhibited a mighty and powerful force from his palms, and the warrior of the ninth stage of Cast Tripod Realm was completely unable to protect himself from such explosion of Jiang Yi's inner force, resulting in his immediate explosive demise.  </seg>
       </tuv>
     </tu>
     <tu>
