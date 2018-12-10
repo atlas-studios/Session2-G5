@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1674,8 +1674,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“夫人和那个人如此强大，少主的资质怎么会差？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T072936Z" creationid="AoIeongFamily" creationdate="20181210T072936Z">
-        <seg>"Madame and that person were so powerful, how can young master's </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T073417Z" creationid="AoIeongFamily" creationdate="20181210T072936Z">
+        <seg>"Madame and that person were so powerful, how can young master's natural prowess be low?"</seg>
       </tuv>
     </tu>
     <tu>
