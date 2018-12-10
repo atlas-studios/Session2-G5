@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15398,8 +15398,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯的话刚刚说完，江逸就一脚猛然踹在他身上，将他身子踹出去足足一丈之远，他满脸都是怒容，冷喝道：“钱万贯，耍我很好玩？世子这词能乱叫？你是想让我被满门抄斩吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T054054Z" creationid="AoIeongFamily" creationdate="20181210T053014Z">
-        <seg>Qian Wan guan had just finished speaking, Jiang Yi suddenly kicked his body a full ten feet away, his face ablaze with anger, </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T055559Z" creationid="AoIeongFamily" creationdate="20181210T053014Z">
+        <seg>Qian Wan guan had just finished speaking, Jiang Yi suddenly kicked his body a full ten feet away, his face ablaze with anger. "Qian Wan guan, you think fooling me is funny? The phrase Royal Highness can be indiscriminately used? You want to get my entire clan exterminated?" Jiang Yi shouted. </seg>
       </tuv>
     </tu>
     <tu>
