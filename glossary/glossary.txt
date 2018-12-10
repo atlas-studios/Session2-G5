@@ -1,4 +1,4 @@
-好马不吃回头草	a good man doesn't backtrack
+﻿好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -1020,7 +1020,7 @@
 铸鼎境七重	seventh stage of Cast Tripod Realm
 武堂长老	Martial Court Elder
 战无双	Zhan Wushuang	Male
-钱万贯	Qian Wan guan
+钱万贯	Qian Wan Guan
 江云海	Jiang Yun Hai
 钱万贯	Qian Wan Guan
 江别离	Jiang Bie Li
