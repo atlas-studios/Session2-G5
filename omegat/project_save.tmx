@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13862,6 +13862,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>第十四章 看走眼了</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072820Z" creationid="niz_ang" creationdate="20181210T072742Z">
+        <seg>Chapter 14. Misjudgement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>第十天，杨管事依照约定给江逸预支了十两紫金，江逸拿到紫金之后，一刻也待不住了和杨管事告罪一声，火急火燎的朝风月楼冲去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T152748Z" creationid="Joey" creationdate="20180926T152748Z">
@@ -15582,8 +15590,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>那边站立的黑衣少女看到江逸有危险，立即冷面朝战无双说道，两人接到钱万贯的传信一直关注着江逸。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072710Z" creationid="niz_ang" creationdate="20181210T053430Z">
-        <seg>   Seeing that Jiang Yi was in danger, the girl in black turned to face Zhan Wushuang immediately and said the two of them had been paying close attention to Jiang Yi after hearing Qian Wanguan's rumours.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T073011Z" creationid="niz_ang" creationdate="20181210T053430Z">
+        <seg>   Seeing that Jiang Yi was in danger, the girl in black who was standing turned to face Zhan Wushuang immediately with an icy stare ,and said the two of them had been paying close attention to Jiang Yi after hearing Qian Wanguan's rumours.</seg>
       </tuv>
     </tu>
     <tu>
