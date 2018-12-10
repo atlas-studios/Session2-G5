@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3512,6 +3512,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T174511Z" creationid="tianqi" creationdate="20181024T174511Z">
         <seg>"Could such a bizarre thing really happen? Is it due to the black essence force?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这个女子的来历无人知晓，她被江别离带进王府住了两年，王府却没有给她任何名分，在江别离登上镇西王之位后还突然离开了。而在她离开后，江云海也告病回到了老家天羽城，据我们安排在镇西王府的内线传回的消息，那女子离开时肚子里已经有些孩子！江云海回到天羽城后一直呆在江家，三年后才突然离去抱回来两个婴儿，那就是你和你的侍女！既然江云海认你为少主，那么你的身份就再明显不过了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T065546Z" creationid="AoIeongFamily" creationdate="20181210T065546Z">
+        <seg>"This woman's past is very much unknown. Jiang Bie Li took her there to live for two years, but never gave her status, she even left abruptly after Jiang Bie Li became Western Garrison Liege Lord. After she left, Jiang Yun Hai reported sick and went back to TianYu City, according to our informant in that city, that woman was pregnant when she left! Jiang Yun Hai stayed in Jiang Clan after his return, only three years later did he suddenly left and brought back two baby, whom were you and your maidservant! Since Jiang Yun Hai believes you are the young master, then your origins is clear as day..." </seg>
       </tuv>
     </tu>
     <tu>
@@ -7462,6 +7470,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子哑然失笑，摇头道：“江逸，其实你应该猜到了一些吧？否则你不会如此暴怒！江云海曾经是王府的内院总管，有一次他因为做错了事情差点被杀了，是一位住在王府女子出言求情这才被免一死，不过最后还是被打瘸了腿，此事在镇西王府闹的很大，很多人都知道，他认这位女子为主也是情理之中的事情。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T064230Z" creationid="AoIeongFamily" creationdate="20181210T064208Z">
+        <seg>The Fatty can't help laughing, shaking his head, he said "Jiang Yi, you actually have guessed a little, or else you wouldn't be so infuriated! Jiang Yun Hai was the fore-overman of Western Garrison Liege Lord residence. Once he was almost killed for a wrongdoing, it was only due to the plead of a woman residing there that he was not dead, still he was beaten till he limped. This incident was a big thing in the Western Garrison Liege Lord residence, many knows that it would be natural for him to submit to her."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子望着江逸消失的方向眨了眨眼睛有些懊恼，这次他可是亏了，前方的战斗是输是赢这并不重要，重要的是他想通过江逸让战无双出手，结果不等战无双出手，江逸竟轻松重创了十人……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T070439Z" creationid="niz_ang" creationdate="20181210T070439Z">
@@ -10438,6 +10454,22 @@ He hoped to continue working long-term at the Alchemy Lab—which meant he did n
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180921T051028Z" creationid="Joey" creationdate="20180921T051028Z">
         <seg>Upon hearing the news, Jiang Yi felt more relaxes and less tense throughout his body. He knew that, at the very least, he would be safe before Jiang Rulong returned from the Martial Arts Hall. He could unhurriedly cultivate his power and continously break his seal, and in turn achieve the largest increase in his power-level stages in the Cast Tripod Realm in the shortest amount of time. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸听到这里脑袋如炸起一道雷霆般，他闭上了眼睛，脑袋内都是江云海曾经说过的话语。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T072307Z" creationid="AoIeongFamily" creationdate="20181210T072307Z">
+        <seg>Jiang Yi felt as if his head was blown by a thunder strike as he listened, he closed his eyes, and his mind was full of the words said by Jiang Yun Hai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸听着钱万贯的话，一句话没说但脸色阴沉的可怕，眸子内光芒闪烁，也不知道他在想些什么。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T070150Z" creationid="AoIeongFamily" creationdate="20181210T070150Z">
+        <seg>Jiang Yi listened, he did not say a word but his face was overcast with frightening gloom, his eyes glistening, and who knows what he is thinking. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15576,6 +15608,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T055559Z" creationid="AoIeongFamily" creationdate="20181210T053014Z">
         <seg>Qian Wan guan had just finished speaking, Jiang Yi suddenly kicked his body a full ten feet away, his face ablaze with anger. "Qian Wan guan, you think fooling me is funny? The phrase Royal Highness can be indiscriminately used? You want to get my entire clan exterminated?" Jiang Yi shouted. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯站了起来，沉默一阵，感慨道：“说起来那个女子也是奇人，没有人知道她叫什么，来自什么家族，只是知道她姓衣，此人不仅貌似天仙还实力奇高，甚至一开始都比江别离强很多！江别离据说非常爱这位女子，只是不知为何后来没有娶她？反而娶了长孙家的一位小姐，这女子也莫名其妙离开了王府……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T071900Z" creationid="AoIeongFamily" creationdate="20181210T071900Z">
+        <seg>Qian Wan Guan stood up, after being silent for a while he mused, "That woman is such an eccentric, no one knows what's her name, came from what family clan, we only know that her surname is Yi, she not only look like a Sky Immortal, her powers are abdominal, even stronger that Jiang Bie Li in the beginning! Jiang Bie Li was said to deeply love this woman, but I'm not sure why he didn't marry her later. Instead, he married a young lady from the ZhangSun family, and the woman inexplicably left..." </seg>
       </tuv>
     </tu>
     <tu>
