@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3384,6 +3384,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180828T105718Z" creationid="USER" creationdate="20180810T062103Z">
         <seg>"Idiot, quickly get me some coal and start the fire!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“行了，我们上山去学院吧！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T073847Z" creationid="niz_ang" creationdate="20181210T073734Z">
+        <seg>"Enough, let's move up the hill to the institution."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8185,6 +8193,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T052722Z" creationid="niz_ang" creationdate="20181210T052722Z">
         <seg>  
   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>战无双瞥了一眼战场，道：“钱万贯派出援兵了，这战斗也结束了，长孙吞龙竟然联合江麒麟这个蠢货，怎么会是钱万贯这个人精的对手？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T074319Z" creationid="niz_ang" creationdate="20181210T074319Z">
+        <seg>Zha Wushuang sideglanced the arena and said,"Qian Wanguan had sent rescue soldiers and this battle had ended. How can Changsun Tunlong compete with Qian Wanguan when he had actually collaborated with this imbecile Jiang Qilin?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15616,6 +15632,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063145Z" creationid="USER" creationdate="20180810T055440Z">
         <seg>At the other corner of the building, Jiang Yi referenced the book and carefully identified the various medicinal herbs. It took an entire hour before he managed to find all nine medicinal herbs that Elder Liu requested. He used a small scale to accurately measure the right amount of each ingredient. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那边的战斗果然呈现一边倒的趋势，灌木丛内隐藏的十多人突然出手，原本因江逸出手配合攻击那边就损失惨重，此刻更是溃败如山倒。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T074556Z" creationid="niz_ang" creationdate="20181210T074556Z">
+        <seg>The battle over there undoubtedly presented a one-sided scene. Over ten men suddenly emerged from the scrubs and attacked.This worsened the initial losses </seg>
       </tuv>
     </tu>
     <tu>
