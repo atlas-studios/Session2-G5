@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -968,6 +968,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180918T201742Z" creationid="Joey" creationdate="20180918T201742Z">
         <seg>"Oh no!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哎哟……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T055601Z" creationid="AoIeongFamily" creationdate="20181210T055601Z">
+        <seg>"Ouch!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12440,6 +12448,14 @@ Sighing deeply, he gritted his teeth and walked in the direction of the side doo
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸身子一颤，但还是很不相信，冷笑道：“证据呢？你凭什么说我是镇西王的儿子？我还说你是我的儿子呢！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T061708Z" creationid="AoIeongFamily" creationdate="20181210T061708Z">
+        <seg>Jiang Yi was shaken a little, but still doubtful. "Where's your prove? Why did you say that Im Western Garrison Liege Lord's son? I can say Im your son too!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸身子一颤，江小奴没有一点实力，居然妄图蜉蝣撼树？这要是给这护卫踹上一脚，不得活活踹死啊？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T061937Z" creationid="USER" creationdate="20180809T060006Z">
@@ -15416,6 +15432,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055405Z" creationid="Joey" creationdate="20180810T205747Z">
         <seg>That black essence force actually separated from the blue essence force and suddenly merged with the nearby elixir powers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯爬了起来，揉了揉胸口依旧没有生气，反而疑惑的望着江逸，看他不似作伪，这才问道：“江逸，江云海没有告诉你的身世？按我们钱家的情报推算，你绝对是镇西王的儿子，江逆流同父异母的弟弟！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T061045Z" creationid="AoIeongFamily" creationdate="20181210T061045Z">
+        <seg>Qian Wan guan climbed up and rubbed his chest, he was still not angry. Instead, he looked at Jiang Yi with a puzzled look, seeing that he is not acting dishonest. "Jiang Yi, Jiang Yun Hai never told you your origins? According to our clan's calculations, you are definitely Western Garrison Liege Lord's son, Jiang Ni Liu's half brother!" He then said. </seg>
       </tuv>
     </tu>
     <tu>
