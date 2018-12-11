@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6670,8 +6670,8 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       <tuv lang="ZH-CN">
         <seg>他没具体说是下面那张，因为正常人都不会把东西藏在上层床板的背面，那会让访客一目了然地看到。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T153830Z" creationid="wynixe" creationdate="20181211T153830Z">
-        <seg>He did not specifically mention that it was the bottom deck, as noone would normally put </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T154026Z" creationid="wynixe" creationdate="20181211T153830Z">
+        <seg>He did not specifically mention that it was the bottom deck, as no one would normally hide things at the back of the bed board on an upper deck. That would be too obvious for guests to notice at a glance. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16293,6 +16293,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T150424Z" creationid="wynixe" creationdate="20181211T141829Z">
         <seg>Gray-Eyed Policeman replied with a stern look,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>灰眸警官邓恩没有往前，抽了下嘴角道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T154131Z" creationid="wynixe" creationdate="20181211T154131Z">
+        <seg>Gray-Eyed Policeman did not move forward. He flinched and asked, </seg>
       </tuv>
     </tu>
     <tu>
