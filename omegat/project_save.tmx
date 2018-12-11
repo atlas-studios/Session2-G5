@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -526,6 +526,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180813T061713Z" creationid="USER" creationdate="20180812T050522Z">
         <seg>"What?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“什么？”克莱恩怔了一下。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T151015Z" creationid="AoIeongFamily" creationdate="20181211T151015Z">
+        <seg>"What?" Klein was startled for a bit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2836,6 +2844,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我一向谦虚，但有关梦境方面，还是有些信心的。”邓恩从容平静地回答，“不过，关键的、重要的事情，再确认一次也不错，更何况，她和我擅长的有很大不同，也许能帮助你恢复一定记忆。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T145204Z" creationid="AoIeongFamily" creationdate="20181211T145204Z">
+        <seg>"I'm quite humble usually, but I'm still confident for things related to dreams." Dunn calmly replied, "but, for key, important things, it's better to confirm again. Plus, her ability is much different from mine, maybe it can help you recover some of your memories."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我不是去面试，只是买个菜，准备转运仪式的材料而已……”忽然，他低声嘟囔，摇头失笑。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T022543Z" creationid="Jeremy" creationdate="20181208T031858Z">
@@ -3336,6 +3352,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T094803Z" creationid="Ho Jin Liang" creationdate="20181203T094121Z">
         <seg>"Competing martial arts? You bunch of good for nothings... When did you think you can win against me?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“毕竟你关系着那本安提哥努斯家族笔记的下落。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T150659Z" creationid="AoIeongFamily" creationdate="20181211T150659Z">
+        <seg>"After all you're connected to the whereabouts of that Antigonus family notebook."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5470,6 +5494,14 @@ If he had a large number of elixirs and continued relying on black essence force
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011755Z" creationid="Joey" creationdate="20180807T152503Z">
         <seg>He had no idea how long had passed when he heard an enraged roar ringing from the courtyard outside. Upon hearing that voice, Jiang Yi was immediately startled awake from his meditation. His heart beat rapidly; he knew something was amiss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不等克莱恩再说，他嗓音变沉：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T145329Z" creationid="AoIeongFamily" creationdate="20181211T145329Z">
+        <seg>Not waiting for Klein to reply, his voice turned deeper,</seg>
       </tuv>
     </tu>
     <tu>
@@ -17503,6 +17535,14 @@ When she saw Jiang Yi enter, she hurriedly and nervously asked, "Young Master, w
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063241Z" creationid="USER" creationdate="20180810T065358Z">
         <seg>After observing for an entire morning, Jiang Yi could understand more or less the steps involved in refining elixirs. The refinement of elixirs had three steps: smelting, forming, and melting down. What made him despair was that the first step of melting down the ingredients and the third step of reheating the elixirs were easy to do, but he could not understand the second step of forming the elixirs at all. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>结果会怎样无法想象！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T144000Z" creationid="AoIeongFamily" creationdate="20181211T144000Z">
+        <seg>The consequences are beyond imagination!</seg>
       </tuv>
     </tu>
     <tu>
