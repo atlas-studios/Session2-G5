@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4818,6 +4818,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那走吧。”邓恩的语气没有丝毫波澜。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T163204Z" creationid="AoIeongFamily" creationdate="20181211T163204Z">
+        <seg>"Then let's go." Dunn's tone remained indifferent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“邪门了，再看招……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180912T093449Z" creationid="Joey" creationdate="20180912T093449Z">
@@ -7624,6 +7632,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T021204Z" creationid="Jeremy" creationdate="20181207T105027Z">
         <seg>Klein's experience was still not something he needed to concern himself with. The true problem was to figure out the reason for his transmigration and if he could return!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩转身跟了两步，忽然停止道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T163459Z" creationid="AoIeongFamily" creationdate="20181211T163459Z">
+        <seg>Klein turned and followed two steps. He stopped and suddenly said,</seg>
       </tuv>
     </tu>
     <tu>
