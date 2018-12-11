@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2240,6 +2240,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180808T094505Z" creationid="Joey" creationdate="20180808T094500Z">
         <seg>"Alright then!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好吧，你就当是一种幽默的说法，第二，你是霍伊大学历史系的毕业生，这是我们非常需要的，虽然卢尔弥这个风暴之主的信徒对女性的态度让人厌恶，但他在社会、人文、经济和政治上的观点依然犀利，他说过，人才是保持竞争优势和良好发展的关键因素，这一点，我很认同。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T162621Z" creationid="niz_ang" creationdate="20181211T162621Z">
+        <seg>" All right, just treat this as a form of humorous saying. Secondly,you're a history graduate of Khoy University and this is what we desperately need. Although the believers under the Lord of the Storms-Lurmi- perceive women in a way that is loathsome,Lurmi's views regarding the society, humanity, economics and politics remain sharp. He said before that humans are key to sustaining healthy competition and good development, which a point that I very much agree with." </seg>
       </tuv>
     </tu>
     <tu>
@@ -8260,6 +8268,14 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T072307Z" creationid="Jeremy" creationdate="20181207T072307Z">
         <seg>He then touched his exposed skin. Beneath the slight coldness was flowing warmth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>发现克莱恩微微皱眉，他随口解释道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T163118Z" creationid="niz_ang" creationdate="20181211T163118Z">
+        <seg>Noticing Klein's furrowed eyebrows,Dunn casually explained,"</seg>
       </tuv>
     </tu>
     <tu>
@@ -16963,6 +16979,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T150053Z" creationid="jingh" creationdate="20181208T182221Z">
         <seg>Looking at the seemingly holographic sight, Zhou Mingrui reached out his right hand in a half-confused and half-exploring manner to try to touch a crimson 'star' that was seemingly floating on the surface. He was trying to find a way to leave this place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>看见克莱恩变得有些呆滞的表情，他微微笑道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T161422Z" creationid="niz_ang" creationdate="20181211T161422Z">
+        <seg>Seeing that Klein's expression has gone slack, Dunn smiled slightly.</seg>
       </tuv>
     </tu>
     <tu>
