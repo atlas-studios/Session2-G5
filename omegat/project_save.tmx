@@ -2812,6 +2812,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我们找到了一个马车夫，他证实你在27日，也就是韦尔奇先生和娜娅女士死亡的当天，去过韦尔奇先生的住所，而且还是韦尔奇先生帮你付的车钱。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T142324Z" creationid="wynixe" creationdate="20181211T142324Z">
+        <seg>"We found a cart driver. He witnessed that on the 27th, which is also the day when Mr Welch and Miss Nayer died, you went to Mr Welch's apartment. Furthermore, Mr Welch was the one who paid for your transportation fees." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我完不完不知道，不过……江豹今天你是肯定完了！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T013430Z" creationid="USER" creationdate="20180806T094834Z">
@@ -6342,8 +6350,8 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       <tuv lang="ZH-CN">
         <seg>他拉开房门，看见了昨天那位有着灰色眼眸的警官。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T141756Z" creationid="wynixe" creationdate="20181211T141711Z">
-        <seg>As he opened the door, the Gray-eyed Policeman whom he had met the day before stood in front of him.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T141834Z" creationid="wynixe" creationdate="20181211T141711Z">
+        <seg>As he opened the door, the Gray-Eyed Policeman whom he had met the day before stood in front of him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,8 +16003,8 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       <tuv lang="ZH-CN">
         <seg>灰眸警官表情严肃地回答：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T141829Z" creationid="wynixe" creationdate="20181211T141829Z">
-        <seg>Gray-Eyed Policeman：</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T141855Z" creationid="wynixe" creationdate="20181211T141829Z">
+        <seg>Gray-Eyed Policeman replied with a stern look：</seg>
       </tuv>
     </tu>
     <tu>
