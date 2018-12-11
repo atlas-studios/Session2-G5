@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“……好吧。”克莱恩沉默片刻，吐了口气。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T155049Z" creationid="AoIeongFamily" creationdate="20181211T155049Z">
+        <seg>"...Alright then." Klein went slient for a moment before replying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“……用左轮抵住太阳穴开了一枪？”前后线索霍然贯通，周明瑞大概明白克莱恩的死因了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T104346Z" creationid="Jeremy" creationdate="20181207T104346Z">
@@ -3802,8 +3810,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“现场没有那本第四纪遗留的笔记，整栋房屋里都没有，韦尔奇死了，娜娅死了，你是唯一的线索。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T152743Z" creationid="AoIeongFamily" creationdate="20181211T151533Z">
-        <seg>"On the scene there was no </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T154541Z" creationid="AoIeongFamily" creationdate="20181211T151533Z">
+        <seg>"On the scene there was not a single trace of that notebook from the Fourth Epoch. Welch is dead, Naya is dead, you are our only lead."</seg>
       </tuv>
     </tu>
     <tu>
