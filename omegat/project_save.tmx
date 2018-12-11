@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -660,6 +660,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T145032Z" creationid="jingh" creationdate="20181208T154439Z">
         <seg>"Why are you impersonating me again! It's my job to handle the divination for people!" a woman's voice growled angrily. "Return to your post quickly! You must remember that you're just an animal trainer!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你把门锁上，现在就和我去韦尔奇的住所，‘专家’在那里等着我们。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T155733Z" creationid="AoIeongFamily" creationdate="20181211T155733Z">
+        <seg>"Go lock your door and come with me to Welch's apartment, the 'expert' is waiting for us there."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6692,6 +6700,14 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他有心拒绝，甚至想要逃跑，但相信有了梦境的前车之辙，邓恩.史密斯肯定提高了戒备，而以正常人和非凡者的实力差距，强行去做不会有多少成功的可能。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T161139Z" creationid="AoIeongFamily" creationdate="20181211T161058Z">
+        <seg>He wants to refuse, even escape, but with what was learned in his dreams, Dunn Smith definitely raised his guard. And with the difference in strength between a normal human and a Beyonder, chances of success in forcing it is quite low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他正待询问其中一位红黄相间的小丑，身侧忽然传来一道沙哑的女声：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T052832Z" creationid="Jeremy" creationdate="20181208T052832Z">
@@ -7052,6 +7068,14 @@ He had only left his house and walked for several tens of feet when he froze and
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T155057Z" creationid="Joey" creationdate="20180922T155057Z">
         <seg>He used his Psychedelic Step technique and, instead of retreating, ran in a forward direction for a metre before suddenly bending his knees and bending his back backwards. This allowed his whole body so slide in the direction of his forward left-hand side, easuly avoiding Yi Lingxue's incoming attacks. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他身上肯定还有手枪……本身也应该是练习过很多次射击的那种……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T161313Z" creationid="AoIeongFamily" creationdate="20181211T161313Z">
+        <seg>He must have a revolver with him too... naturally the type with much shooting practice...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10940,6 +10964,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>我之前竟然完全没去想那本第四纪笔记的下落！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T155352Z" creationid="AoIeongFamily" creationdate="20181211T155307Z">
+        <seg>How did I not think about the whereabouts of that notebook from the Fourth Epoch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>我擦，我不会就这样英年早逝了吧？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T044308Z" creationid="Jeremy" creationdate="20181207T044308Z">
@@ -11418,6 +11450,14 @@ Despite this, after researching for a single day, no matter what ideas he could 
         <seg>Wu Ming sighed. "If you want to fight, Old Fart Undying, you will need to expend half of all the Netherworld's military might before you can take down the three-layered protective array of the Heavenly Court. 
 
 “How long can you withstand the array? Ten days? Half a month? Even if you finally succeed in overrunning the area, you will only succeed in getting rid of me. After that, how much blood do you need to shed in order to recover your strength and military might. I am actually vexed over that…" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>无声吸了口气，克莱恩心头打鼓，忐忑不安。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T160009Z" creationid="AoIeongFamily" creationdate="20181211T160009Z">
+        <seg>Klein breathed in sliently, feeling apprehensive and nervous.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19704,6 +19744,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T142905Z" creationid="AoIeongFamily" creationdate="20181211T142905Z">
         <seg>Dunn placed a hand in his pocket and walked slowly towards Klein, the surrounding darkness became tranquil and gentle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>邓恩微不可见地点头，一边越过克莱恩，一边开口道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T155544Z" creationid="AoIeongFamily" creationdate="20181211T155544Z">
+        <seg>Dunn nodded slightly, walking pass Klein and says,</seg>
       </tuv>
     </tu>
     <tu>
