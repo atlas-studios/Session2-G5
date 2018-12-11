@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="ZH-CN">
         <seg>6月27日那天，原主果然还是去了韦尔奇的住所，回来的当天夜里就自杀身亡，和韦尔奇、娜娅一模一样！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T144825Z" creationid="wynixe" creationdate="20181211T144825Z">
-        <seg>On 27th June, he indeed still went to Mr Welch's apartment. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T150111Z" creationid="wynixe" creationdate="20181211T144825Z">
+        <seg>On 27th June, he indeed still went to Mr Welch's apartment.  </seg>
       </tuv>
     </tu>
     <tu>
