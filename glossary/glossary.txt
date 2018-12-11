@@ -634,3 +634,6 @@
 作业	assignment
 非凡之力	Power of Beyond
 灰眸警官	Gray-Eyed Policeman
+韦尔奇先生	Mr Welch
+娜娅女士	Miss Nayer
+住所	Apartment
