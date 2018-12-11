@@ -7070,8 +7070,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩忍不住倒退了一步，一时不知道自己是醒着，还是依旧在梦里。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T091606Z" creationid="AoIeongFamily" creationdate="20181211T091606Z">
-        <seg>Klein cannot help taking a step back. For a moment he was not sure whether he is awake or still in his dreams.</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T091703Z" creationid="AoIeongFamily" creationdate="20181211T091606Z">
+        <seg>Klein cannot help but take a step back. For a moment he was not sure whether he was awake or still in his dreams.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18986,6 +18986,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T053417Z" creationid="USER" creationdate="20180803T065817Z">
         <seg>The runic patterns surfaced from all directions, flashing blinding lights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那人影取下黑色礼帽，幅度很小地鞠了一躬，低沉微笑道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T092503Z" creationid="AoIeongFamily" creationdate="20181211T092503Z">
+        <seg>The silhouette took down his black top hat and bowed a little, and said with a </seg>
       </tuv>
     </tu>
     <tu>
