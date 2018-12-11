@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -274,8 +274,8 @@ Zhou Mingrui guessed as he turned around and walked towards a cracked dressing m
       <tuv lang="ZH-CN">
         <seg>“不弄清楚这个，怎么可能做出加入的决定？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T145855Z" creationid="niz_ang" creationdate="20181211T145855Z">
-        <seg>"If you don't get this understood, how is it possible for you to make a decision to join us?"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T150648Z" creationid="niz_ang" creationdate="20181211T145855Z">
+        <seg>"If I don't get this understood, how is it possible for me to make a decision to join in the organization?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -444,8 +444,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“为什么？”听到邓恩的话语，克莱恩心头顿时掀起了惊涛骇浪，本能就脱口而出。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T143406Z" creationid="niz_ang" creationdate="20181211T143406Z">
-        <seg>"Why?" asked Klein instinctively after listening to Dunn's speech, a wave of tumultuous emotions summoned in his heart. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T150050Z" creationid="niz_ang" creationdate="20181211T143406Z">
+        <seg>"Why?" asked Klein instinctively after listening to Dunn's speech, a wave of tumultuous emotions rose up in his heart. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7286,8 +7286,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩一阵哑然，跟随坐下，半是好笑半是不解地问道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T145738Z" creationid="niz_ang" creationdate="20181211T145738Z">
-        <seg>Klein went silent for a moment, after which he sat down and questioned in a tone that was half dubious and half laughable.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T150614Z" creationid="niz_ang" creationdate="20181211T145738Z">
+        <seg>Klein went silent for a moment, after which he sat down and questioned in a tone that was half dubious and half laughable</seg>
       </tuv>
     </tu>
     <tu>
@@ -17783,6 +17783,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>而不加入，又无法了解，这就成死循环了……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T150832Z" creationid="niz_ang" creationdate="20181211T150038Z">
+        <seg>Yet, not joining would meant Klein could not understand the potential danger presented. This would end up in a deadlock... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>而与此同时，班森供职的进出口公司受南大陆局势的影响，无论利润，还是业务量，都大幅度缩水，不得不裁员超过三分之一，班森为了保住工作，维持生活，只能接受更加繁重的任务，必须经常加班，或是前往环境恶劣的地方出差，就像这几天一样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T013354Z" creationid="Jeremy" creationdate="20181208T013354Z">
@@ -19860,8 +19868,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>非凡者有严重的隐患？以至于教会内部的审判机关，处理邪异事件的非凡者，也容易出问题？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T145204Z" creationid="niz_ang" creationdate="20181211T144537Z">
-        <seg>The Extraordinary has serious potential danger? To the point where problem easily arose from the internal adjustment mechanism of the Church and the Extraordinary who handled evil matters?  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T150114Z" creationid="niz_ang" creationdate="20181211T144537Z">
+        <seg>The Extraordinary has serious potential danger?   To the point where problem easily arose from the internal adjustment mechanism of the Church and the Extraordinary who handled evil matters?  </seg>
       </tuv>
     </tu>
     <tu>
