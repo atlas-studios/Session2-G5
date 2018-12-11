@@ -4860,6 +4860,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“韦尔奇先生丢失了一把左轮手枪，我想我应该能在这里找到他，对吧，克莱恩先生？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T152949Z" creationid="wynixe" creationdate="20181211T152949Z">
+        <seg>"Mr Welch lost a revolver. I guess... I should be able to find it here. Right? Mr Klein?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“领个屁丹药！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055704Z" creationid="Joey" creationdate="20180811T194308Z">
@@ -11724,6 +11732,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180807T052912Z" creationid="USER" creationdate="20180807T052912Z">
         <seg>True enough...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>果然……克莱恩总算弄清楚了左轮手枪的来历，脑海念头如闪电跳跃般转动，瞬间做出了决断。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T153033Z" creationid="wynixe" creationdate="20181211T153033Z">
+        <seg>Indeed...... Klein finally understood how the revolver appeared </seg>
       </tuv>
     </tu>
     <tu>
@@ -19470,8 +19486,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩.史密斯没有立刻回应，视线扫了房间一圈才慢悠悠道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T152412Z" creationid="wynixe" creationdate="20181211T152104Z">
-        <seg>Dunn Smith did not give an immediate response. He glanced around the room, then said slowly, "Mr Welch lost a revolver. I guess... I should be able to find it here. Right? Mr Klein?" </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T152941Z" creationid="wynixe" creationdate="20181211T152104Z">
+        <seg>Dunn Smith did not give an immediate response. He glanced around the room, then said slowly,  </seg>
       </tuv>
     </tu>
     <tu>
