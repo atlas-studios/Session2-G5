@@ -637,3 +637,6 @@
 韦尔奇先生	Mr Welch
 娜娅女士	Miss Nayer
 住所	Apartment
+第四纪	The Fourth Epoch
+韦尔奇	Welch
+娜娅	Naya
