@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10108,8 +10108,8 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>往前走了两步，他忽然又停顿下来，因为窗外血月的光芒相对黯淡，不足以支撑“认真检查”这件事情。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="cktalon" changedate="20181211T020832Z" creationid="Jeremy" creationdate="20181207T072506Z">
-        <seg>He took two steps forward and suddenly paused. The moonlight of the sanguine moon was relatively dark, so it was insufficient for his 'serious inspection.'</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T110654Z" creationid="Jeremy" creationdate="20181207T072506Z">
+        <seg>He took two steps forward and suddenly paused. The moonlight of tanguine mhe soon was relatively dark, so it was insufficient for his 'serious inspection.'</seg>
       </tuv>
     </tu>
     <tu>
