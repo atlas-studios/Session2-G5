@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -458,6 +458,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“也就是说，只要成为你们的文职人员，就可以了解相关的秘密，弄清楚非凡者的隐患和可能遭遇的危险，之后再考虑是否成为非凡者的问题？”克莱恩边整理思路，边用自己的话语重新描述了一遍对方的意思。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152641Z" creationid="niz_ang" creationdate="20181211T151836Z">
+        <seg>"That means,as long as I become one of your civilian staffs,I can understand the secrets in the loop and figure out the potential danger posed by The Extraordinary and the possible peril faced. After which, I can decide whether I want to become The Extraordinary or not," Klein said as he reorganized his thoughts and restated Dunn's meaning in his own words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“也许是因为我在祈求着，期待着这样的力量来帮助我。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T141634Z" creationid="AoIeongFamily" creationdate="20181211T141634Z">
@@ -592,6 +600,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181018T171529Z" creationid="tianqi" creationdate="20181018T171529Z">
         <seg>"You..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你大概误会了，我们的一员包括文职者。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T151702Z" creationid="niz_ang" creationdate="20181211T151702Z">
+        <seg>"You most likely misunderstood. A member of us includes civilian staffs."</seg>
       </tuv>
     </tu>
     <tu>
@@ -19420,6 +19436,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>邓恩.史密斯再次拿出烟斗，就这样放在鼻端吸了一口：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T151259Z" creationid="niz_ang" creationdate="20181211T151259Z">
+        <seg>Dunn Smith took out his cigarette pipe once again, placed it against his nose and took a breath.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>邓恩.史密斯步入车厢，坐到之前的位置，表情和语气都保持着平常：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T144545Z" creationid="niz_ang" creationdate="20181211T144545Z">
@@ -19956,8 +19980,10 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>非凡者有严重的隐患？以至于教会内部的审判机关，处理邪异事件的非凡者，也容易出问题？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T150114Z" creationid="niz_ang" creationdate="20181211T144537Z">
-        <seg>The Extraordinary has serious potential danger?   To the point where problem easily arose from the internal adjustment mechanism of the Church and the Extraordinary who handled evil matters?  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152651Z" creationid="niz_ang" creationdate="20181211T144537Z">
+        <seg>The Extraordinary has serious potential danger?  
+
+To the point where problem easily arose from the internal adjustment mechanism of the Church and The Extraordinary who handled evil matters? </seg>
       </tuv>
     </tu>
     <tu>
