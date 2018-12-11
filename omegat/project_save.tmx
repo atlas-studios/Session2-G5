@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -402,6 +402,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不，人类的愚蠢超乎你的想象，这反而会导致更多的模仿，更大的混乱和更严重的事件。”邓恩.史密斯摇头回答。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T175434Z" creationid="niz_ang" creationdate="20181211T175434Z">
+        <seg>"No,humans' stupidity has exceeded your imagination. It actually causes greater imitation, chaos and more serious events,"Dunn Smith shaked his head and said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不，你还是得跟我去见一下‘专家’。”他嘴角礼貌性上翘。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T143333Z" creationid="AoIeongFamily" creationdate="20181211T143333Z">
@@ -620,6 +628,14 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你们为什么要这么严格保密？很多事情公布出去，流传出去，让更多的人知道，不是可以避免相同的错误再次发生吗？最大的恐惧来自未知，我们可以让未知变成已知。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T174909Z" creationid="niz_ang" creationdate="20181211T174909Z">
+        <seg>"Why are y'all so strict at keeping confidentiality? Aren't many of the things that are publicly announced,circulated, known to more people preventive of similar mistakes from happening again? The greatest fear is uncertainty, we can make the uncertain known."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你大概误会了，我们的一员包括文职者。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T151702Z" creationid="niz_ang" creationdate="20181211T151702Z">
@@ -640,6 +656,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T151910Z" creationid="wynixe" creationdate="20181211T151910Z">
         <seg>"You should be able to hear my sincerity." Klein looked him straight in the eye and said. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你应该能够想象得出，我们会经常接触第四纪乃至更早的文献和物品，不少邪教和诸多异端都试图从这些东西那里获得力量，有的时候，它们本身也会导致诡异可怕的事情。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T165218Z" creationid="niz_ang" creationdate="20181211T165218Z">
+        <seg>" You should be able to envisage, we'll often be in contact with documents and objects from The Fourth Epoch or even earlier. Many cults and heresies have tried to gain power from those things. Sometimes, the presence of these cults and heresies alone can cause weird and scary events."   </seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4674,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这就是第三，也是最后最重要的一点，你已经接触到类似的事件，邀请你不存在违反保密条款的问题，而另外发展别人，如果失败，我会承担隐秘泄露的责任。我们的队员，我们的文职者，绝大部分都来自于教会内部。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T173539Z" creationid="niz_ang" creationdate="20181211T173539Z">
+        <seg>" This is the third point, which is the last and most important point. You've already been through similar ordeal,so inviting you to join us doesn't breach confidentiality. Most of our members and civilian staffs come from the internal departments of the organization." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这就是紫金？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180812T114459Z" creationid="USER" creationdate="20180812T113958Z">
@@ -4814,6 +4846,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180919T054017Z" creationid="Joey" creationdate="20180919T054017Z">
         <seg>"Retreat, fall back! We retreat!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那你们之前怎么不直接，嗯，发展一位？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T171515Z" creationid="niz_ang" creationdate="20181211T171515Z">
+        <seg>"Then why don't y'all directly, um, nurture one?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,6 +5040,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T095048Z" creationid="USER" creationdate="20180804T040425Z">
         <seg>"Your Majesty, do we still attack?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“除了特殊领域的非凡者，我们大多并不擅长学习，或者说已经过了那个年龄。”讲到这里，邓恩.史密斯指了指自己的脑袋，嘴角微勾如在自嘲般道，“那些枯燥的、乏味的知识总是让人想要睡觉，哪怕不眠者，也无法抗拒。在以往，我们会找历史学家、考古学家合作，但这会有隐秘外泄的风险，也可能给教授副教授先生们带去不好的遭遇，所以，有位专业人士加入，成为我们的一员，是件难以拒绝的好事。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T170627Z" creationid="niz_ang" creationdate="20181211T170627Z">
+        <seg>" Besides The Extraordinaries in the special field,many of us are not adept at learning, or we have passed the age of learning." Speaking of which, Dunn Smith pointed at his own brain, and the corner of his mouth turned up as if he was mocking himself. He then spoke,"Those boring knowledge makes people want to sleep, even for those who don't sleep.In the past, we'll find historians or archaeologist to work with, but this has a risk of leakage of secrets and brings unfavorable situations to the head and vice professors. Thus, the addition of a professional and him becoming one of us is definitely irresistible." </seg>
       </tuv>
     </tu>
     <tu>
@@ -7700,6 +7748,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>克莱恩轻轻点头，接受了邓恩的说法，并思维发散地问道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T171421Z" creationid="niz_ang" creationdate="20181211T171421Z">
+        <seg>Dunn nodded his head slightly, accepted Klein's saying, thought deeper and asked,"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>免费？免费的东西才是最贵的！周明瑞无声嘀咕，打算等下不管有什么附加服务，都坚定拒绝。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T024337Z" creationid="jingh" creationdate="20181208T050547Z">
@@ -8346,8 +8402,8 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       <tuv lang="ZH-CN">
         <seg>发现克莱恩微微皱眉，他随口解释道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T163118Z" creationid="niz_ang" creationdate="20181211T163118Z">
-        <seg>Noticing Klein's furrowed eyebrows,Dunn casually explained,"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T163131Z" creationid="niz_ang" creationdate="20181211T163118Z">
+        <seg>Noticing Klein's slightly furrowed eyebrows,Dunn casually explained,"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10068,6 +10124,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T043724Z" creationid="Jeremy" creationdate="20181208T043724Z">
         <seg>Feeling secure, he who knew a little of everything suddenly had a worry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>安静听完，克莱恩好奇道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T173649Z" creationid="niz_ang" creationdate="20181211T173649Z">
+        <seg>After Klein finished listening silently, he asked," </seg>
       </tuv>
     </tu>
     <tu>
@@ -19920,6 +19984,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152714Z" creationid="niz_ang" creationdate="20181211T152714Z">
         <seg>Dunn smiled. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>邓恩自顾自地继续说道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T172611Z" creationid="niz_ang" creationdate="20181211T172513Z">
+        <seg>Self-contained, Dunn continued saying,"</seg>
       </tuv>
     </tu>
     <tu>
