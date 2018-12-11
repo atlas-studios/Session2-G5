@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -430,6 +430,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180909T091618Z" creationid="USER" creationdate="20180812T045114Z">
         <seg>"The elixir pattern is no use. The pattern does not add any addition ability to the elixir medical efficacy itself."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“为什么？”克莱恩又一次陷入疑惑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T153959Z" creationid="niz_ang" creationdate="20181211T153959Z">
+        <seg>"Why?" Klein asked as he was once again grappled by doubt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2332,6 +2340,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“如果是你，那应该没什么问题。”邓恩眼睛半闭，神情略微舒展地嗅着烟斗，但并未点燃烟丝。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T153851Z" creationid="niz_ang" creationdate="20181211T153851Z">
+        <seg>" If it's you, there shouldn't be any problem," said Dunn with half-closed eyelids, partially relaxed countenance, as he smelt from the unlit cigarette pipe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“姬听雨？这聚珍阁果然是姬家的商号，这位看来是城主家的小姐了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180909T204719Z" creationid="USER" creationdate="20180812T092228Z">
@@ -3192,6 +3208,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180813T141627Z" creationid="Joey" creationdate="20180813T141627Z">
         <seg>"That's right!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“是这样，除了一点，那就是并非你考虑成为非凡者，就一定能成为，在这方面，各大教会都同样的严格。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T153059Z" creationid="niz_ang" creationdate="20181211T152921Z">
+        <seg>"Yes, this is the case. Except that the wish of becoming The Extraordinary is not always granted, because every organization will be equally strict in this aspect."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +4714,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那文职人员呢？这应该也很严格吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T153458Z" creationid="niz_ang" creationdate="20181211T153458Z">
+        <seg>"What about civilian staffs? It should be quite strict as well right?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那算了。”周明瑞将手掌插回口袋，按住左轮和纸币，弯腰穿出了帐篷。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T024655Z" creationid="jingh" creationdate="20181208T155826Z">
@@ -5460,6 +5492,14 @@ He always felt that the greatest motivation for him—the reason why he could en
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T051958Z" creationid="Jeremy" creationdate="20181207T051958Z">
         <seg>Subconsciously, he looked up and shifted his gaze up bit by bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不严格才奇怪……克莱恩腹诽了一句，用加强语气的手势道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T153416Z" creationid="niz_ang" creationdate="20181211T153028Z">
+        <seg>It had be a wonder if the organizations are not strict... Klein cursed silently, with a hand sign that intensified his tone and added,"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19540,6 +19580,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>邓恩笑了笑道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152714Z" creationid="niz_ang" creationdate="20181211T152714Z">
+        <seg>Dunn smiled. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>那个人终于出现了！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T070951Z" creationid="USER" creationdate="20180803T100254Z">
@@ -20028,10 +20076,10 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>非凡者有严重的隐患？以至于教会内部的审判机关，处理邪异事件的非凡者，也容易出问题？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152651Z" creationid="niz_ang" creationdate="20181211T144537Z">
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152945Z" creationid="niz_ang" creationdate="20181211T144537Z">
         <seg>The Extraordinary has serious potential danger?  
 
-To the point where problem easily arose from the internal adjustment mechanism of the Church and The Extraordinary who handled evil matters? </seg>
+To the point where problem easily arose from the internal adjustment mechanism of the organization and The Extraordinary who handled evil matters? </seg>
       </tuv>
     </tu>
     <tu>
