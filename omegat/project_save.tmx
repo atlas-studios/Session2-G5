@@ -890,8 +890,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“前晚半夜醒来，我发现自己趴在书桌上，旁边是左轮手枪，墙脚有子弹，看起来像是经历了一场自杀，只是也许没经验，没用过手枪，或者最后关头害怕了，总之，子弹没达到预想的效果，我的脑袋还完好，我活到了现在。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T154542Z" creationid="wynixe" creationdate="20181211T154542Z">
-        <seg>“Yesterday, when I woke up in the middle of the night, I realised I am lying on my desk with a revolver beside me. There is a bullet at the corner of the room. It is as if I had committed suicide. But due to a lack of experience and never having used a gun, or maybe I was scared at the last moment.. Anyway, the bullet did not achieve the desired result, my mind is still perfect. I am still alive now.”</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T155648Z" creationid="wynixe" creationdate="20181211T154542Z">
+        <seg>“Yesterday, when I woke up in the middle of the night, I realised I was laying on my desk with a revolver beside me. There is a bullet at the corner of the room. It was as if I had committed suicide. But due to a lack of experience and never having used a gun, or maybe I was too scared at the final moment.. Anyway, the bullet did not achieve the desired result, my mind is still perfect. I am still alive now.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11674,6 +11674,14 @@ Was this the good-for-nothing that they usually beat up like a dog in the past? 
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T021943Z" creationid="Jeremy" creationdate="20181208T012925Z">
         <seg>Having suffered from a lack of culture, Benson, who knew the importance of education, supported his sister’s dreams just like how he supported Klein's university education. After all, Tingen Technical School was only considered secondary education. There was no need for her to attend language school or a public school for more knowledge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>机会！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T155512Z" creationid="wynixe" creationdate="20181211T155512Z">
+        <seg>An opportunity!</seg>
       </tuv>
     </tu>
     <tu>
