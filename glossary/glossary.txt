@@ -641,3 +641,4 @@
 韦尔奇	Welch
 娜娅	Naya
 邓恩	Dunn
+“双剑交叉、簇拥王冠”	"Double Cross Swords, Escort The Crown"
