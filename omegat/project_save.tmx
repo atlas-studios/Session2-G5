@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4016,6 +4016,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“第一，能在这种事件里，不靠我们的帮助存活下来，这说明你有着不同于其他人的优点，比如，幸运，而幸运的人，总是很受欢迎。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T161000Z" creationid="niz_ang" creationdate="20181211T161000Z">
+        <seg>"Firstly,to be able to survive without our help under such situation means that you have merits that surpass others. For instance, luck. Lucky people are always more welcomed"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“等等！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180813T060812Z" creationid="Joey" creationdate="20180813T060812Z">
@@ -5802,6 +5810,14 @@ He had just the right time to carefully research the black essence force.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T012441Z" creationid="Jeremy" creationdate="20181208T011142Z">
         <seg>Compared to Sunday school that only cost a copper penny a week, a public primary school's cost of three pence a week appeared rather expensive. However, the former only provided education every Sunday, whereas the latter provided six days of classes a week. In conclusion, the price was so low that it was almost free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>与此同时，他在心里自我调侃了起来：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T155047Z" creationid="niz_ang" creationdate="20181211T155047Z">
+        <seg>At the same time,he jested,"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19692,6 +19708,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>邓恩睁开半闭的眼睛，灰眸如同之前一样的幽邃：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T160138Z" creationid="niz_ang" creationdate="20181211T160138Z">
+        <seg>Dunn opened his half-closed eyelids, his silver-colored eyes reflecting the same tranquility as before.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>邓恩笑了笑道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152714Z" creationid="niz_ang" creationdate="20181211T152714Z">
@@ -20166,6 +20190,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
         <seg>Vaguely, he heard Jiang Xiaonu explaining things in a low volume, as well as Chief Rong's rage-filled shouts of stern rebuke. 
 
 After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master, Chief Rong has left. However, he said that he wants you to find him tomorrow morning and account for the medicinal herbs at the Western Hills." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>难道我的特殊，我的穿越者光环，就像黑夜里的萤火虫，那样的鲜明，那样的出众？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T155647Z" creationid="niz_ang" creationdate="20181211T155647Z">
+        <seg>"So my specialness and transmigration are akin to the fireflies in the night, every so bright and magnificent?" </seg>
       </tuv>
     </tu>
     <tu>
