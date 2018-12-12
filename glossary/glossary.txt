@@ -1,4 +1,4 @@
-好马不吃回头草	a good man doesn't backtrack
+﻿好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -632,7 +632,7 @@
 非凡者	Beyonder
 值夜者	Night-Watchman
 作业	assignment
-非凡之力	Power of Beyond
+非凡之力	power of Beyond
 灰眸警官	Gray-Eyed Policeman
 韦尔奇先生	Mr Welch
 娜娅女士	Miss Nayer
