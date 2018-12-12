@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4044,6 +4044,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T154541Z" creationid="AoIeongFamily" creationdate="20181211T151533Z">
         <seg>"On the scene there was not a single trace of that notebook from the Fourth Epoch. Welch is dead, Naya is dead, you are our only lead."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“理论上是这样，我们会从别的途径去找那本笔记，只要还存在，就能被发现。当然，在这个之前，我们会确认你身上没有诅咒，没有遗留的恶灵味道，没有对应的心理问题，能平安地、健康地迎接将来的人生。”邓恩.史密斯露出一抹笑容，略显古怪的笑容。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181212T101831Z" creationid="AoIeongFamily" creationdate="20181212T101831Z">
+        <seg>"In theory, yes we will use other means to find that notebook. As long as it exists, it can be found. Of course, before that, we will have to make sure you are not cursed, not left with any scent of cacodemon and also without related psychological problems. So that you can embrace the rest of your life peacefully and healthily."</seg>
       </tuv>
     </tu>
     <tu>
