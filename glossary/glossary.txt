@@ -632,7 +632,7 @@
 非凡者	Beyonder
 值夜者	Night-Watchman
 作业	assignment
-非凡之力	power of Beyond
+非凡之力	power of Beyonders
 灰眸警官	Gray-Eyed Policeman
 韦尔奇先生	Mr Welch
 娜娅女士	Miss Nayer
