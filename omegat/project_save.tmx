@@ -492,8 +492,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“之后，随着你资历的提升和相应的功劳获得，薪水会逐步增长。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T043619Z" creationid="niz_ang" creationdate="20181212T043619Z">
-        <seg>" Then after, your salary will rise according to your experience and credit gained." </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T043658Z" creationid="niz_ang" creationdate="20181212T043619Z">
+        <seg>" Then after, your salary will gradually rise according to your experience and credit gained." </seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,6 +2592,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T141022Z" creationid="Joey" creationdate="20180814T065735Z">
         <seg>"Oh yes, I have consumed all of my black essence force. I have to hurry and refine more, so I can use it at any time. Additionally, I consumed too much blue essence force during the reheating yesterday—I have to make up for that loss." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对于文职人员，我们一般是五年契约，五年后如果你不愿意做了，可以正常离职，只是必须再补签一份终生保密条款，不得到我们的批准不能离开廷根，搬迁去别的城市也需要第一时间找当地值夜者登记。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T044518Z" creationid="niz_ang" creationdate="20181212T044518Z">
+        <seg>" As for civilian staffs, the contract is often five years. After five years, you can quit normally if you're no longer willing to do the job. However, you have to sign another document that ensures your strict adherence to confidentiality and you're not allowed to leave Tingen until permission is given. If you want to move to another city, the first thing you have to do is to find the local Night Watchman to register." </seg>
       </tuv>
     </tu>
     <tu>
