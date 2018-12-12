@@ -20164,6 +20164,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>邓恩刚说完，马车停了下来，克莱恩一家居住的公寓出现在侧方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T050251Z" creationid="niz_ang" creationdate="20181212T050102Z">
+        <seg>Just as Dunn finished speaking, the horse carriage pulled to a stop. The apartment that Klein and his family resided in appeared on the side.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>邓恩单手插袋，缓步走了过来，周围的黑夜变得宁静而轻柔。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T142905Z" creationid="AoIeongFamily" creationdate="20181211T142905Z">
@@ -20854,8 +20862,8 @@ To the point where problem easily arose from the internal adjustment mechanism o
       <tuv lang="ZH-CN">
         <seg>马蹄矫捷，车轮滚动，铁十字街遥遥在望，邓恩打破了突如其来的沉默，正式邀请道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T035917Z" creationid="niz_ang" creationdate="20181212T035917Z">
-        <seg>As the horse galloped with strong heels, car wheels reeled on ahead with the Iron Cross Street in sight, Dunn broke the sudden silence and formally invited Klein saying,"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T050121Z" creationid="niz_ang" creationdate="20181212T035917Z">
+        <seg>As the horse galloped with strong heels, the wheels of the horse carriage reeled on ahead with the Iron Cross Street in sight, Dunn broke the sudden silence and formally invited Klein saying,"</seg>
       </tuv>
     </tu>
     <tu>
