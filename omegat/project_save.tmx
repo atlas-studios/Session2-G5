@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -854,8 +854,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你怎么会半夜去盥洗室，里面有马桶啊？而且你不是擅长一觉睡到天亮吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T032506Z" creationid="niz_ang" creationdate="20181213T032506Z">
-        <seg>" Why would you go to the bathroom in the middle of the night? Is there a toilet bowl inside? Don't you always sleep through the night?"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T155838Z" creationid="niz_ang" creationdate="20181213T032506Z">
+        <seg>" Why would you go to the bathroom in the middle of the night? Is there a toilet bowl inside? Aren't you good at sleeping till dawn?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9122,8 +9122,8 @@ Should he ever dare to head up the Western Hills, he would have no other future 
       <tuv lang="ZH-CN">
         <seg>作为一名在机械方面动手能力差的男孩子，他小时候拼个四驱车都要死要活。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T031107Z" creationid="niz_ang" creationdate="20181213T030838Z">
-        <seg>As a boy with poor skills at machinery assemblance, he encountered great trouble even with assembling a four-wheel car. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T155156Z" creationid="niz_ang" creationdate="20181213T030838Z">
+        <seg>As a boy with poor skills at machinery assemblance, he encountered great difficulties even with assembling a four-wheel drive. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13551,8 +13551,8 @@ Similarly, I could not fork out anything that could pique their interest.  </seg
       <tuv lang="ZH-CN">
         <seg>房间内的气氛突然沉凝了一下，梅丽莎的嗓音幽幽如同绯红轻纱般响起：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T032152Z" creationid="niz_ang" creationdate="20181213T032152Z">
-        <seg>Instantly, the atmosphere in the room took a great plunge, leaving behind an air of graveness for a while. Then, Melissa's voice, slightly akin to a hidden crimson wire gauze, sounded,"  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T155635Z" creationid="niz_ang" creationdate="20181213T032152Z">
+        <seg>Instantly, the atmosphere in the room took a great plunge, leaving behind an air of graveness for a while. Then, faintly, Melissa replied,"  </seg>
       </tuv>
     </tu>
     <tu>
@@ -14739,8 +14739,8 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
       <tuv lang="ZH-CN">
         <seg>梅丽莎一下怔住，过了几秒，才张开嘴巴，准备解释。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T034034Z" creationid="niz_ang" creationdate="20181213T032715Z">
-        <seg>Melissa was taken aback momentarily. It was only after a few seconds, that started to explain.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T155930Z" creationid="niz_ang" creationdate="20181213T032715Z">
+        <seg>Melissa was taken aback momentarily. It was only after a few seconds, before she opened her mouth, prepared to explain.</seg>
       </tuv>
     </tu>
     <tu>
