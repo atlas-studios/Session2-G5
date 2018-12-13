@@ -9373,8 +9373,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩吐出口浊气，慢悠悠转身，边享受着夜晚的宁静和舒爽的凉风，边踱步靠近公寓门口。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T005942Z" creationid="niz_ang" creationdate="20181213T005942Z">
-        <seg>Klein let out a foul breath, turned slowly and  leisurely,enjoying the peaceful and relaxing breeze while pacing back and nearing his apartment.  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T152236Z" creationid="niz_ang" creationdate="20181213T005942Z">
+        <seg>Klein let out a foul breath. He slowly turned around and enjoyed the cool breeze and tranquility of the night, whilst walking closer and closer to the apartment door.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10876,8 +10876,8 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       <tuv lang="ZH-CN">
         <seg>呼，总算过了通灵者那一关……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T005023Z" creationid="niz_ang" creationdate="20181213T005023Z">
-        <seg>Hmmm, finally got through the round under the Psychic.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T151950Z" creationid="niz_ang" creationdate="20181213T005023Z">
+        <seg>Hmmm, I finally got through the round of the Psychic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20275,6 +20275,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181210T085017Z" creationid="Jeremy" creationdate="20181110T065248Z">
         <seg>Chapter 16: Danger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十六章 狗拿耗子</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T151926Z" creationid="niz_ang" creationdate="20181213T151926Z">
+        <seg>Chapter 16 The Play of the Dogs' 'prey'</seg>
       </tuv>
     </tu>
     <tu>
