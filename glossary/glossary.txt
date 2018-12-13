@@ -656,3 +656,4 @@
 黑暗圣徽	Dark Sacred Emblem
 查尼斯门	Chanis Door
 圣赛琳娜教堂	Saint Selena Cathedral
+黑荆棘安保公司	Black Thorn Security Company
