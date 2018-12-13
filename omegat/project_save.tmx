@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3267,8 +3267,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“尸体能告诉我们的，比你想象的更多，可惜，韦尔奇和娜娅确实是自杀的，只能说，影响他们的力量让人畏惧，一点痕迹也没有留下。”戴莉站起身，将手伸向那根蜡烛，“我要休息了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T105532Z" creationid="wynixe" creationdate="20181213T105532Z">
-        <seg>"The corpses can tell us a lot more than you can imagine. It's such a pity that Welch and Naya had indeed committed suicide. So, the force that drove them is to be feared. Not a single trace was left behind." Darley stood up and pointed at the candle. "Time for a break." </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T125647Z" creationid="wynixe" creationdate="20181213T105532Z">
+        <seg>"The corpses can tell us a lot more than you can imagine. It's such a pity that Welch and Naya had indeed committed suicide. So, the force that drove them to it is to be feared. Not a single trace was left behind." Darley stood up and pointed at the candle. "Time for a break." </seg>
       </tuv>
     </tu>
     <tu>
@@ -5828,8 +5828,8 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“这瓶叫做‘灵之眼’，用龙纹树和白杨树的树皮、叶子日晒七天，煎煮三次，浸泡于朗齐酒制成，当然，中间会有几句咒文的配合……”琥珀色的液体伴随着“通灵者”戴莉的描述，滴在了艳蓝的烛火上。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T092235Z" creationid="wynixe" creationdate="20181213T091755Z">
-        <seg>"This bottle is called the Eye of the Spirit. Barks and leaves of drago and poplar trees are sun-dried for seven days and decocted thrice. Then, they are immersed in Lynx Wine. Of course, we've got do some chantings and curse some spells while we're at it..." As "Psychic" Darley described, the amber substance dripped onto the bright blue candle flame. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T130833Z" creationid="wynixe" creationdate="20181213T091755Z">
+        <seg>"This bottle is called the Eye of the Spirit. Barks and leaves of drago and poplar trees are sun-dried for seven days and decocted thrice. Then, they are immersed in Lynx Wine. Of course, we've got do some chantings and curse some spells while we're at it..." As "Psychic" Darley described, the amber substance dripped onto the cobalt blue candle flame. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9435,8 +9435,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩闻到了酒香，空灵飘忽的酒香，他看见烛火摇晃得厉害，看见戴莉蓝色的眼影和腮红闪烁着诡异的光泽，甚至出现了重影。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T093217Z" creationid="wynixe" creationdate="20181213T093217Z">
-        <seg>Upon smelling the aroma of the wine essence, the ethereal aroma of the wine essence, Klein noticed that the candle flame was dancing wildly. The luster of Darley's blue eyeshadow and blush shone oddly, even to the extent of him seeing double. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T130953Z" creationid="wynixe" creationdate="20181213T093217Z">
+        <seg>Upon smelling the aroma of the wine essence, the ethereal aroma of the wine essence, Klein noticed that the candle flame was dancing wildly. The luster of Darley's blue eyeshadow and blush shone oddly, even to the extent of him seeing double.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,8 +20978,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>艳蓝光芒消失，房屋内瞬间被迷离的绯红涌入。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T125638Z" creationid="wynixe" creationdate="20181213T125638Z">
-        <seg>The </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T130823Z" creationid="wynixe" creationdate="20181213T125638Z">
+        <seg>The cobalt blue glow vanished. </seg>
       </tuv>
     </tu>
     <tu>
