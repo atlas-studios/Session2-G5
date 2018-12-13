@@ -3847,6 +3847,14 @@ If you want to move to another city, the first thing you have to do is to find t
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我真没想到你们会用‘黑荆棘安保公司’来遮掩。”他随口笑道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T213107Z" creationid="AoIeongFamily" creationdate="20181213T213107Z">
+        <seg>"I can't believe you guys would use 'Black Thorn Security Company' as disguise." He laughs and said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我要杀了你，杀了你……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T154106Z" creationid="Ho Jin Liang" creationdate="20181203T154106Z">
@@ -9705,8 +9713,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩敏锐注意到，墙上每隔一段距离就有一枚“黑暗圣徽”，那是黑夜女神的象征——“深黑为底，璀璨点缀，簇拥着刚好一半的绯红之月。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T171530Z" creationid="AoIeongFamily" creationdate="20181213T171423Z">
-        <seg>Klein noticed sharply that there is a "Dark Sacred Emblem" every few metres, that is the symbol of the Evernight Goddess - "An atrous foundation, sparkling embellishment, escorting the precisely half crimson moon."</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T212815Z" creationid="AoIeongFamily" creationdate="20181213T171423Z">
+        <seg>Klein noticed sharply that there is a "Dark Sacred Emblem" every few metres, that is the symbol of the Evernight Goddess - "An atrous foundation, a sparkling embellishment, escorting the precisely half crimson moon."</seg>
       </tuv>
     </tu>
     <tu>
