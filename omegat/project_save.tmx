@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6538,8 +6538,8 @@ He then spoke,"Those boring knowledge always makes people want to sleep, even if
       <tuv lang="ZH-CN">
         <seg>……罗塞尔大帝说的？穿越者前辈真是三百六十度无死角地不给后来者留装逼机会啊……克莱恩一时间竟不知该怎么接话。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T180215Z" creationid="niz_ang" creationdate="20181211T180215Z">
-        <seg>...Emperor Roselle said that?</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T141712Z" creationid="niz_ang" creationdate="20181211T180215Z">
+        <seg>...Emperor Roselle said that? Predecessors of transmigrators really did not give the 'latecomers' any chance to show off... Klein did not know how to continue afterwards.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23035,8 +23035,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩笑了笑道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152714Z" creationid="niz_ang" creationdate="20181211T152714Z">
-        <seg>Dunn smiled. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T140544Z" creationid="niz_ang" creationdate="20181211T152714Z">
+        <seg>Dunn smiled and said,". </seg>
       </tuv>
     </tu>
     <tu>
@@ -23059,8 +23059,9 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩转头望了眼马车外面，路灯的昏黄交织成了文明的光辉。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T180717Z" creationid="niz_ang" creationdate="20181211T180717Z">
-        <seg>Dunn turned his head and watched the horse carriage from outside. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T142121Z" creationid="niz_ang" creationdate="20181211T180717Z">
+        <seg>Dunn turned his head and gazed at the outside of the horse carriage. The dim yellowish light of the street lamps intertwined to become the glory of civilization.
+ </seg>
       </tuv>
     </tu>
     <tu>
