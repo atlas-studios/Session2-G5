@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3316,6 +3316,14 @@ If you want to move to another city, the first thing you have to do is to find t
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“希望能有这个荣幸，但最终还得看史密斯先生怎么说。”克莱恩打量着封闭的四周，只觉两人开始进入地底——石壁渗透出冰冷的湿意，驱散了夏日的炎热。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T162248Z" creationid="AoIeongFamily" creationdate="20181213T161517Z">
+        <seg>"I hope to have the honor, still we have to see what Mr Smith got to say." Klein said as he sized up the enclosed surroundings, he felt that they were going underground - dampness seeps out from the stone walls, dispelling the summer heat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“幻影拳！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T084406Z" creationid="USER" creationdate="20180808T080824Z">
@@ -4011,6 +4019,14 @@ If you want to move to another city, the first thing you have to do is to find t
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074845Z" creationid="wynixe" creationdate="20181213T074212Z">
         <seg>“Don't worry. Actually, Darley seldom does this. She just wants to use these methods to calm you down. She prefers corpses over men.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“放心，能让你直接来这里，说明队长同意了，我一直都有点怕队长，虽然他很和蔼，很照顾人，给我父亲的感觉，但不知为什么，就是害怕。”罗珊说话的嗓音就像含了一块糖。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T162908Z" creationid="AoIeongFamily" creationdate="20181213T162908Z">
+        <seg>"Don't worry, the fact that you came so far here mean the team leader have agreed. I am afraid of him a little, even though he was amiable, a fatherly figure, I don't know why but I'm still afraid."</seg>
       </tuv>
     </tu>
     <tu>
