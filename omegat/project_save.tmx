@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6205,6 +6205,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“队长……好的，你在这里等一等，我去问下他。”女孩慌忙起身，从旁边的房门进入了里间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T132418Z" creationid="AoIeongFamily" creationdate="20181213T132418Z">
+        <seg>"The team leader... alright, you wait here for a while. I'll go ask him." The girl scurried up and went inside through the side door. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“陛下，我们还要不要杀进去……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T095048Z" creationid="USER" creationdate="20180804T040425Z">
@@ -7347,6 +7355,14 @@ He had just the right time to carefully research the black essence force.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180802T015640Z" creationid="cktal" creationdate="20180802T015640Z">
         <seg>Nine Yang Celestial Thearch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>也不说倒杯水什么的……服务意识堪忧啊……克莱恩微微一笑，等待在原地，没去沙发和椅子那边。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T132857Z" creationid="AoIeongFamily" creationdate="20181213T132857Z">
+        <seg>And she didn't serve a cup of water or something... the level of service awareness is worrying... Klein smiled faintly as he waited on the spot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21791,6 +21807,14 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T013647Z" creationid="USER" creationdate="20180806T131241Z">
         <seg>Those who had attained the Cast Tripod Realm could look within their bodies. Jiang Yi fixed his eyes on the mysterious strand of essence force. It was like an inch-long hair strand that sat quietly within his dantian. The more he looked at it, the more adorable he found it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>过了两三分钟，棕发女孩推门出来，笑容甜美地说道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T133058Z" creationid="AoIeongFamily" creationdate="20181213T133058Z">
+        <seg>After two three minutes, the brown-haired girl opened the door and came out. She said with a sweet smile,</seg>
       </tuv>
     </tu>
     <tu>
