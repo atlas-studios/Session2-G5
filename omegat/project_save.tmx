@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -792,6 +792,15 @@ Zhou Mingrui could not help but frown.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“你得去香槟街转，不过到了那里，走去贝西克街只要十分钟左右。”车夫解释着路线问题。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095908Z" creationid="niz_ang" creationdate="20181213T095908Z">
+        <seg>“You have to go to Champagne Street but when you get there,it takes about ten minutes to walk to Besik Street,” explained the coachman to Klein ,with regard to the route problem faced.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“你怎么会半夜去盥洗室，里面有马桶啊？而且你不是擅长一觉睡到天亮吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T032506Z" creationid="niz_ang" creationdate="20181213T032506Z">
@@ -1212,6 +1221,16 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040147Z" creationid="wynixe" creationdate="20181213T040147Z">
         <seg>“To the pier outside the city." Klein reached out his hand and hopped onto one of the carriages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“去贝西克街。”克莱恩对车夫说道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095857Z" creationid="niz_ang" creationdate="20181213T095857Z">
+        <seg>“Go to Besik Street,” told Klein to the coachman.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2634,6 +2653,16 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T024859Z" creationid="Jeremy" creationdate="20181208T024859Z">
         <seg>"Alright."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好的。”克莱恩从兜里掏出4个铜便士，递给了对方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100010Z" creationid="niz_ang" creationdate="20181213T100010Z">
+        <seg>“Okay,” Klein fished out four copper coins from his pocket and handed it to the other party.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,6 +5217,27 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“超过4公里了，4便士。”车夫旁边一个脸庞白净的青年摊出手道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095943Z" creationid="niz_ang" creationdate="20181213T095943Z">
+        <seg>“It’s more than four kilometers, four pence”, said a young man with a fair and clean face, as he extended his hand.
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“身上只有3便士了，回来得靠走啊……”克莱恩按了下帽子，稳稳坐好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100030Z" creationid="niz_ang" creationdate="20181213T100030Z">
+        <seg>“I only have three pence on me now, so I can only walk when I go back...” 
+Klein pressed his hat and sat down firmly.
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“轰！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065347Z" creationid="USER" creationdate="20180803T073510Z">
@@ -5637,6 +5687,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062937Z" creationid="Joey" creationdate="20180813T145559Z">
         <seg>"Alright then, off you go. Work at the alchemy lab in peace. The family will not treat you unfairly either—I will report this to the chief supervisor and grant you a salary increase of one fold." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那就去香槟街。”克莱恩点头认同。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095921Z" creationid="niz_ang" creationdate="20181213T095921Z">
+        <seg>“Let’s go to Champagne Street then,” nodded Klein in approval.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,6 +6303,16 @@ He always felt that the greatest motivation for him—the reason why he could en
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一站一站又一站，他终于听到了“香槟街”这几个单词。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100116Z" creationid="niz_ang" creationdate="20181213T100105Z">
+        <seg>Stations after stations, he finally heard the few words “Besik Street”.
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一股清幽迷人的香味钻入了克莱恩的鼻子，他的情绪不再紧绷，他的心灵迅速平和，仿佛在夜深人静时俯视着黑暗。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T075102Z" creationid="wynixe" creationdate="20181213T075102Z">
@@ -6467,6 +6535,16 @@ He always felt that the greatest motivation for him—the reason why he could en
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T012343Z" creationid="Joey" creationdate="20180807T153437Z">
         <seg>in the next instant, he was astonished to see that the black essence force cultivated from the nameless chant collided with the blue essence force cultivated from the Jiang Water Art. However, instead of throwing his body into disorder as he imagined, the two types of essence force mixed perfectly together like water and milk. They freely circulated through his arteries without even a tussle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>下了马车，沿路打听，他很快来到贝西克街，看见了画着棕黄猎犬标志的酒馆。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100131Z" creationid="niz_ang" creationdate="20181213T100131Z">
+        <seg>After alighting the horse carriage,he inquired along the way and soon reached Besik Street, where he saw the pub with the brownish-yellow hound logo.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -7762,6 +7840,14 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他是负责收钱的工作人员。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095955Z" creationid="niz_ang" creationdate="20181213T095955Z">
+        <seg>He was a worker responsible for money collection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他暗暗告诉自己要镇定，抬头望着那管事，漠然说道：“你要什么说法？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062428Z" creationid="USER" creationdate="20180809T100637Z">
@@ -8144,6 +8230,15 @@ As such, he risked coming here, in the hopes of seeing if he could possibly find
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040424Z" creationid="wynixe" creationdate="20181213T040424Z">
         <seg>He thought that it was weird. He was rather clear-minded in his dream, he was even able to think calmly!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他走上马车，发现乘坐者并不多，即使第一层也还有好几个空位。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100019Z" creationid="niz_ang" creationdate="20181213T100019Z">
+        <seg>He walked up into the carriage and found that there were not many passengers. Even on the first floor , there were a few vacancies.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,6 +8982,16 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T171421Z" creationid="niz_ang" creationdate="20181211T171421Z">
         <seg>Dunn nodded his head slightly, accepted Klein's saying, thought deeper and asked,"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩闭上眼睛养精蓄锐，没去管身边乘客的来来往往。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100056Z" creationid="niz_ang" creationdate="20181213T100056Z">
+        <seg>Klein shutted his eyes and conserved his energy, unable to care about the coming and going of passengers around him.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -10657,6 +10762,15 @@ Even splitting entire mountains, flying freely in the sky, and becoming virtuall
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T171703Z" creationid="Joey" creationdate="20180916T171433Z">
         <seg>After being viciously scolded by Chief Rong at the Housekeeping Chamber, Jiang Yi walked out of the Western Door in a quick pace and headed up the Western Hills to take stock of the medicinal plants there. Thankfully, this time he was once again tasked with doing odd jobs around the medicinal plantations of the Western Hills, and Chief Rong had not mentioned anything about the command token. Additionally, while he was heading up the Western Hills, as the clan guardsmen at the foot of the hills recognised him, they did not require him to reveal his command token. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>在这一层的男士女士们多是正装端坐，也有穿工作服和悠闲看报纸的，但几乎没什么人说话，相当安静。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100046Z" creationid="niz_ang" creationdate="20181213T100046Z">
+        <seg>On this floor, the men and women were mostly well-dressed although there were a few clothed in their work clothes and leisurely reading newspapers. Little people talked and it was quite quiet .
+</seg>
       </tuv>
     </tu>
     <tu>
