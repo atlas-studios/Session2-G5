@@ -2817,6 +2817,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好的，麻烦你了。”克莱恩礼貌回道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T200155Z" creationid="AoIeongFamily" creationdate="20181213T200155Z">
+        <seg>"Alright, thank you." Klein replied politely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好神奇……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180807T053143Z" creationid="USER" creationdate="20180807T053143Z">
@@ -4332,8 +4340,8 @@ If you want to move to another city, the first thing you have to do is to find t
       <tuv lang="ZH-CN">
         <seg>“查尼斯门。”罗珊提了一句，指着旁边的房间道，“队长在里面，你自己进去吧。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T200033Z" creationid="AoIeongFamily" creationdate="20181213T195943Z">
-        <seg>"Chanis Door" Rozanne reminded and pointed at the room beside, "The squad leader is inside, please enter yourself." </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T200228Z" creationid="AoIeongFamily" creationdate="20181213T195943Z">
+        <seg>"Chanis Door" Rozanne reminded and pointed at the room beside and said, "The squad leader is inside, please enter yourself." </seg>
       </tuv>
     </tu>
     <tu>
@@ -20900,6 +20908,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T055726Z" creationid="Jeremy" creationdate="20181208T054826Z">
         <seg>Roselle also invented tarot divination. He also established the contemporary system of paper-based cards and their playstyles. There were many familiar styles that Zhou Mingrui was familiar with, such as Upgrade, Fighting Landlord, Texas Poker, and Quint…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>罗珊所指的房间就在“查尼斯门”前面一点，窗户敞开，有灯光照出，克莱恩吸了口气，沉稳屈指。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T200538Z" creationid="AoIeongFamily" creationdate="20181213T200220Z">
+        <seg>The room Rozanne was referring to is just a little in front of the "Chanis Door". The windows were opened and it is lit inside.</seg>
       </tuv>
     </tu>
     <tu>
