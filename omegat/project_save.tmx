@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6738,6 +6738,14 @@ He always felt that the greatest motivation for him—the reason why he could en
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一眼晃过，克莱恩竟然发现了位熟人：那天来搜查自己家的年轻警官，黑发碧眼，有诗人浪漫气质的那位。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T140338Z" creationid="AoIeongFamily" creationdate="20181213T140338Z">
+        <seg>On a glance Klein actually found a familiar figure: the young officer that investigated his apartment, with black hair and blue eyes, the one with a romantic vibe of a poet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一站一站又一站，他终于听到了“香槟街”这几个单词。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100116Z" creationid="niz_ang" creationdate="20181213T100105Z">
@@ -8417,6 +8425,14 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T021139Z" creationid="Jeremy" creationdate="20181207T104421Z">
         <seg>He was in no hurry to verify his guess. Instead, he seriously wiped away the blood stains and cleaned up the 'scene.' Following that, he took the bullet and returned to the side of his desk. He opened the revolver's cylinder and poured out the rounds inside.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他没穿正装，白色的衬衣也未扎进裤子，一副放浪不羁的模样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T140624Z" creationid="AoIeongFamily" creationdate="20181213T140624Z">
+        <seg>He was not in official wear, white collar shirt was not tucked in too, such an unruly appearance. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13382,6 +13398,14 @@ Similarly, I could not fork out anything that could pique their interest.  </seg
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T035949Z" creationid="wynixe" creationdate="20181213T035949Z">
         <seg>He shoved. He dodged. He escaped frantically towards the other end of the street.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>或许他真是位诗人……克莱恩颔首致意，对方回以微笑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T140757Z" creationid="AoIeongFamily" creationdate="20181213T140757Z">
+        <seg>Maybe he really is a poet... Klein nodded in greeting and was greeted with a smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22259,6 +22283,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>这些办公室有的紧锁，有的敞开，能看见里面的人正用沉重的机械打字机哒哒哒敲个不停。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T135848Z" creationid="AoIeongFamily" creationdate="20181213T135848Z">
+        <seg>Some of these offices were locked tight, while some were opened, revealing people on the inside who types non-stop on their heavy mechanical typewriter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这些年来，江家和马家子弟经常冲突，江逸在去年就曾见过江如龙和马家一位少爷各自带着数十名子弟混战，还把马家两名子弟活活打成了活死人，据说此刻还瘫痪在床。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181020T162214Z" creationid="tianqi" creationdate="20181017T144930Z">
@@ -22805,6 +22837,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180924T015912Z" creationid="Joey" creationdate="20180924T015912Z">
         <seg>Through the skylight on the ceiling of the Great Hall, one could see the colours of the sky gradually turn darker over time. Jiang Yi had also decided to stop power cultivation and instead out of curiosity started to look around at his surroundings. He saw from time to time some young masters and mistresses walking in and out of the surrounding Technique Practising Rooms. He had also observed how occassionally some sparring partners crawled out of the rooms, vomiting blood from their injuries due to the fight, yet their partnering young masters and mistresses simply coldly walked past them and left...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>通过隔断，映入他眼睛的首先是一条不长的走廊，左右也就各三间办公室的样子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T135431Z" creationid="AoIeongFamily" creationdate="20181213T135431Z">
+        <seg>Going through the partition, the first thing he saw was a small corridor, with only three offices on each side.</seg>
       </tuv>
     </tu>
     <tu>
