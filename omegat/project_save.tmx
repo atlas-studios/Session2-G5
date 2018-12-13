@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5791,8 +5791,8 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“这就是第三，也是最后最重要的一点，你已经接触到类似的事件，邀请你不存在违反保密条款的问题，而另外发展别人，如果失败，我会承担隐秘泄露的责任。我们的队员，我们的文职者，绝大部分都来自于教会内部。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134832Z" creationid="niz_ang" creationdate="20181211T173539Z">
-        <seg>" This is the third point, also the final and most important point. You've already been through similar ordeal,so inviting you doesn't violate the confidentiality clause.  To develop othersMost of our members and civilian staffs come from the internal departments of the organization."
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T135147Z" creationid="niz_ang" creationdate="20181211T173539Z">
+        <seg>" This is the third point, also the final and most important point. You've already been through similar ordeal,so inviting you doesn't violate the confidentiality clause. With regard to developing others, I will bear the responsibility of secret disclosure if it fails. Most of our team members, our civilian staffs, come from the internal departments of the Church."
 
 This is the third and final most important point. You have been exposed to similar incidents, inviting you to not violate the confidentiality clause, and to develop others. If it fails, I will bear the responsibility of secret disclosure. Most of our team members, our civilians, come from within the church
 
@@ -6039,8 +6039,8 @@ This is the third and final most important point. You have been exposed to simil
       <tuv lang="ZH-CN">
         <seg>“那你们之前怎么不直接，嗯，发展一位？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134504Z" creationid="niz_ang" creationdate="20181211T171515Z">
-        <seg>"Then why don't y'all directly, um, develop and nurture one?"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134859Z" creationid="niz_ang" creationdate="20181211T171515Z">
+        <seg>"Then why don't y'all directly, um, develop one?"</seg>
       </tuv>
     </tu>
     <tu>
