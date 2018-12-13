@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8956,8 +8956,8 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       <tuv lang="ZH-CN">
         <seg>原主遗忘的知识不算多，也绝对不少，后天就要面试了，哪有时间补得上来……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T134535Z" creationid="wynixe" creationdate="20181211T133432Z">
-        <seg>The amount of content Klein had forgotten was not too much, yet it was definitely not little as well. The interview is in two days, how will he find time to make up for it?</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T034749Z" creationid="wynixe" creationdate="20181211T133432Z">
+        <seg>The amount of content Klein had forgotten was not too much, yet it was definitely not little as well. The interview is in two days, how will he find time to make up for it...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10532,8 +10532,8 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>妹，咱能不能不要哪壶不开提哪壶……克莱恩暗自吐槽，只觉脑袋又开始一抽一抽地痛。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T132242Z" creationid="wynixe" creationdate="20181211T131220Z">
-        <seg>Melissa, can you not rub my nose in it..... Klein muttered inwardly. He felt a throbbing pain in his head.  </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T034729Z" creationid="wynixe" creationdate="20181211T131220Z">
+        <seg>Melissa, can you not rub my nose in it... Klein muttered inwardly. He felt a throbbing pain in his head.   </seg>
       </tuv>
     </tu>
     <tu>
