@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -602,6 +602,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“人的思维非常广阔，藏着很多隐秘，看，那片大海，我们自己能够了解的只有露出于海面的岛屿，但实际上，在海面之下，岛屿还有更大的部分，但实际上，除了岛屿，还有整片的大海，还有象征着灵界的无边无际天空……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T101359Z" creationid="wynixe" creationdate="20181213T101359Z">
+        <seg>"Humans have broad thinking. Many secrets are hidden within the mind. Look at the ocean, what we know about it is all on the superficial level. But in reality, deep in the ocean, there is a larger unseen portion. In reality, other than islands, there is the entire ocean. There is the boundless sky that symbolises the spirit world..."  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“人类从历史中学到的唯一教训就是，人类无法从历史中学到任何教训，总是重复同样的悲剧。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T175801Z" creationid="niz_ang" creationdate="20181211T175546Z">
@@ -829,6 +837,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T193315Z" creationid="AoIeongFamily" creationdate="20181211T102510Z">
         <seg>"You can control dreams? You just made me dream of that?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你是身体的灵，你不仅知道露出于海面的岛屿，还知道岛屿藏在海下的部分，知道整片大海……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T101459Z" creationid="wynixe" creationdate="20181213T101459Z">
+        <seg>“You are the soul of your body. Not only do you know of the islands above, you also know of the hidden treasures in the sea... the entire ocean..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -21437,6 +21453,14 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T062021Z" creationid="Jeremy" creationdate="20181207T062021Z">
         <seg>This… Zhou Mingrui immediately drew a gasp as many helpless and confused guesses surfaced in his mind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这……我还是能冷静理智地思考啊……就像‘转运仪式’和“聚会”时一样……克莱心念一动，故意表现出浑浑噩噩的状态：“你好……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T100742Z" creationid="wynixe" creationdate="20181213T100742Z">
+        <seg>I can still... have rational thoughts... it's like when I was at that "luck enhancement ritual" and that "meeting"... A sudden thought crosse Klein's mind, intentionally he behaved muddled and said, "Hello there..." </seg>
       </tuv>
     </tu>
     <tu>
