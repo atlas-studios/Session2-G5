@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18295,6 +18295,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>真正的通灵者……克莱恩默念着这个描述，没有再开口，跟随邓恩.史密斯走下了马车。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T070815Z" creationid="wynixe" creationdate="20181213T070815Z">
+        <seg>The real psychic... Klein said inwardly, and never spoke again. He followed Dunn Smith down the chariot. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>眼前的黑暗染着光明带来的深红，周明瑞脑海里的念头纷纷涌涌，难以平息。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T173624Z" creationid="jingh" creationdate="20181208T173624Z">
@@ -18877,6 +18885,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181210T072820Z" creationid="niz_ang" creationdate="20181210T072742Z">
         <seg>Chapter 14. Misjudgement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十四章 通灵者</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T070840Z" creationid="wynixe" creationdate="20181213T070840Z">
+        <seg>Chapter 14: The Psychic </seg>
       </tuv>
     </tu>
     <tu>
@@ -21856,6 +21872,14 @@ To the point where problem easily arose from the internal adjustment mechanism o
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T045903Z" creationid="Jeremy" creationdate="20181208T045903Z">
         <seg>The owner of the bakery was a seventy-plus year old granny, named Wendy Smyrin. Her hair was completely grayish-white and she always wore a genial smile. From the beginning of Klein's memories, she had been here selling bread and pastries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>韦尔奇在廷根的住所是一幢有花园的独栋房屋，镂空的铁门外是能让四辆马车同时行驶的道路，道路两侧每隔五十米就有一个路灯，它们与克莱恩上辈子见过的不同，属于煤气灯，柱子高度略等于成年男子，方便点火照明。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T070848Z" creationid="wynixe" creationdate="20181213T070848Z">
+        <seg>Welch's place in Tingen is a detached house with a garden. The road outside the fretwork gates could allow four chariots to go at once. Street lamps lined up both sides of the road every fifty metres. They looked different from the ones Klein had seen in his previous life. They were considered gas lamps and the height of every lamp was about that of an adult male. It was convenient to light the lamps up. </seg>
       </tuv>
     </tu>
     <tu>
