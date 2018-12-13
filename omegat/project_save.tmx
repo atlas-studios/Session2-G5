@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9547,6 +9547,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181212T102032Z" creationid="AoIeongFamily" creationdate="20181212T102032Z">
         <seg>Klein caught on to this point sharply, and promptly inquired,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩敏锐注意到，墙上每隔一段距离就有一枚“黑暗圣徽”，那是黑夜女神的象征——“深黑为底，璀璨点缀，簇拥着刚好一半的绯红之月。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T171423Z" creationid="AoIeongFamily" creationdate="20181213T171423Z">
+        <seg>Klein noticed sharply that there is a "Dark Sacred Emblem", that is the symbol of the Evernight Goddess - "An atrous foundation, sparkling embellishment, escorting the precisely half crimson moon."</seg>
       </tuv>
     </tu>
     <tu>
@@ -21797,6 +21805,14 @@ Both his palms produced terrifying black discs, which he viciously unleashed on 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>说话间，两人走完了盘旋往下的阶梯，来到石板铺成的平地。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T164127Z" creationid="AoIeongFamily" creationdate="20181213T164116Z">
+        <seg>As they spoke, the two finished walking down the stairs and walked on stone-paved floor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>说话间，她将炉子从角落搬出，借着余炭生火，煮了一壶热水。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T024316Z" creationid="Jeremy" creationdate="20181208T024316Z">
@@ -22617,6 +22633,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T042303Z" creationid="niz_ang" creationdate="20181212T042303Z">
         <seg>This is a serious question...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这是一条长长的过道，两侧墙壁上同样镶嵌着金属栅格围出的煤气灯，光芒挥洒于下，将克莱恩和罗珊的影子拖得老长。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T165851Z" creationid="AoIeongFamily" creationdate="20181213T165851Z">
+        <seg>This is a long aisle, both sides of the wall were mounted with gas lamps surrounded by metal gratings. The shadows of Klein and Rozanne were elongated under the lamp lights.</seg>
       </tuv>
     </tu>
     <tu>
