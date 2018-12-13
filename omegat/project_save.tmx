@@ -867,8 +867,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你说得我像是个变态。”“通灵者”戴莉微笑插嘴道。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074833Z" creationid="wynixe" creationdate="20181213T074833Z">
-        <seg>“You make me sound psychotic”,“psychic" Darley said with a smile.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074852Z" creationid="wynixe" creationdate="20181213T074833Z">
+        <seg>“You make me sound psychotic”, “Psychic" Darley said with a smile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,8 +3682,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“放心，戴莉其实很少这么做，她只是想通过这种方式让你平静和放松下来，她喜欢尸体更胜过男人。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074212Z" creationid="wynixe" creationdate="20181213T074212Z">
-        <seg>“Don't worry. Actually, Darley seldom does this. She just wants to use these methods to calm you down. She prefer corpses over men.”</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074845Z" creationid="wynixe" creationdate="20181213T074212Z">
+        <seg>“Don't worry. Actually, Darley seldom does this. She just wants to use these methods to calm you down. She prefers corpses over men.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -10782,6 +10782,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T144837Z" creationid="jingh" creationdate="20181208T064212Z">
         <seg>Then, she picked the third card and put it on the right side of Zhou Mingrui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她打开其中一个小瓶子，往艳蓝色的烛焰里洒了几滴：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074913Z" creationid="wynixe" creationdate="20181213T074913Z">
+        <seg>She opened one of the little bottles and dripped a few drops onto the bright blue candle flame. </seg>
       </tuv>
     </tu>
     <tu>
