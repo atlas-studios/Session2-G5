@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3485,6 +3485,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T223512Z" creationid="Joey" creationdate="20180916T223512Z">
         <seg>"What's the matter? Are you scared?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“恭喜你，你可以回家了，但必须记住，不能把这件事情告诉家人和朋友，必须保证。”邓恩领着克莱恩一路走向大门。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T132806Z" creationid="wynixe" creationdate="20181213T132806Z">
+        <seg>“Congrats. You can return home now. But do remember, do not reveal this incident to your loved ones. You have to promise." Dunn said as he led Klein out of the main door. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12362,6 +12370,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T022145Z" creationid="Jeremy" creationdate="20181208T023407Z">
         <seg>At that moment, a bell chimed from a faraway cathedral. It chimed six times, sounding distant and ethereal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在这时，他的视线被一双晶莹如同绿宝石的眼眸吸引了，穿黑袍的戴莉坐在模糊的“沙发”上，目光诡异地集中于克莱恩的头顶，嗓音温柔地笑道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T132626Z" creationid="wynixe" creationdate="20181213T132626Z">
+        <seg>Just then, his vision was locked onto a pair of eyes that were as crystal clear as emerald. On a blurry "sofa" sat Darley in a black coat. Eccentrically, she concentrated on the tip of Klein's head. She smiled and in a gentle voice, said </seg>
       </tuv>
     </tu>
     <tu>
