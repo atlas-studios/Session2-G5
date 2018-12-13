@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -476,8 +476,10 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“不，人类的愚蠢超乎你的想象，这反而会导致更多的模仿，更大的混乱和更严重的事件。”邓恩.史密斯摇头回答。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T175434Z" creationid="niz_ang" creationdate="20181211T175434Z">
-        <seg>"No,humans' stupidity has exceeded your imagination. It actually causes greater imitation, chaos and more serious events,"Dunn Smith shaked his head and said.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T140218Z" creationid="niz_ang" creationdate="20181211T175434Z">
+        <seg>"No,humans' stupidity is beyond your imagination. It actually causes greater imitation, chaos and more serious events,"Dunn Smith shook his head and replied.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +778,10 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你们为什么要这么严格保密？很多事情公布出去，流传出去，让更多的人知道，不是可以避免相同的错误再次发生吗？最大的恐惧来自未知，我们可以让未知变成已知。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T174909Z" creationid="niz_ang" creationdate="20181211T174909Z">
-        <seg>"Why are y'all so strict at keeping confidentiality? Aren't many of the things that are publicly announced,circulated, known to more people preventive of similar mistakes from happening again? The greatest fear is uncertainty, we can make the uncertain known."</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T135935Z" creationid="niz_ang" creationdate="20181211T174909Z">
+        <seg>"Why are y'all so strict at keeping confidentiality? With many of the things publicly announced,circulated, known to more people, isn't that  capable of preventing similar mistakes from happening again? The greatest fear comes from the unknown, we can make the unknown become known."
+
+</seg>
       </tuv>
     </tu>
     <tu>
