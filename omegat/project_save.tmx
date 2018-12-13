@@ -3677,8 +3677,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“我可以考虑一下吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T040622Z" creationid="niz_ang" creationdate="20181212T040622Z">
-        <seg>" Can I have consider this?"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T143626Z" creationid="niz_ang" creationdate="20181212T040622Z">
+        <seg>" Can I consider this?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4678,8 +4678,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“没问题，周日之前给我答复就行了。”邓恩点了下头，“当然，记住保密，不能将韦尔奇相关的事件告诉别人，包括你的哥哥和妹妹，一旦违反，不仅会给他们带来麻烦，还可能导致你上特殊法庭。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T041849Z" creationid="niz_ang" creationdate="20181212T041647Z">
-        <seg>" No problem, just give me the answer before Sunday," Dunn nodded his head," Of course, remember to keep this a secret and don't tell  Welch's related matters to others, including your brother and sister. Once you go against this, you'll not only bring them troubles, but also cause yourself to be presented at the Special Court."  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T144157Z" creationid="niz_ang" creationdate="20181212T041647Z">
+        <seg>" No problem, just give me a reply before Sunday," Dunn nodded and added," Of course, remember to keep this a secret and don't tell others any matters relating to Welch , including your brother and sister. Once this is violated, it'll not only bring them troubles, but also cause yourself to be presented at the Special Court." </seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,8 +4822,10 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“相信和恐惧带来麻烦，更多的相信和恐惧带来更大的麻烦……”克莱恩默念着这句话，不是太能够理解，然后因不是太理解的未知感觉恐惧，仿佛外面路灯的阴影里，没有光照的黑暗中，藏着一双双充满恶意的眼睛和一张张打开的嘴巴。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T142946Z" creationid="niz_ang" creationdate="20181212T032533Z">
-        <seg>"Belief and fear bring troubles, more faith and more fear bring more troubles..." Klein recited silently,yet not really understanding it .What followed next was the fear of uncertainty that came from not understanding. It was like the dark shadows formed by the street lights outside. In the darkness without light, there seemed pairs of callous-looking eyes and wide-opened mouths. 
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T143713Z" creationid="niz_ang" creationdate="20181212T032533Z">
+        <seg>"Belief and fear bring troubles, more faith and more fear bring more troubles..." Klein recited silently,yet not really understanding it .
+
+What followed next was the fear of uncertainty that came from not understanding. It was like the dark shadows formed by the street lights outside. In the darkness without light, there seemed pairs of callous-looking eyes and wide-opened mouths. 
  </seg>
       </tuv>
     </tu>
@@ -5812,8 +5814,10 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“这就是第三，也是最后最重要的一点，你已经接触到类似的事件，邀请你不存在违反保密条款的问题，而另外发展别人，如果失败，我会承担隐秘泄露的责任。我们的队员，我们的文职者，绝大部分都来自于教会内部。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T135510Z" creationid="niz_ang" creationdate="20181211T173539Z">
-        <seg>" This is the third point, also the final and most important point. You've already been through similar ordeal,so inviting you doesn't violate the confidentiality clause. With regard to developing others, I will bear the responsibility of secret disclosure if it fails. Most of our team members, our civilian staffs, come from within the Church."
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T143735Z" creationid="niz_ang" creationdate="20181211T173539Z">
+        <seg>" This is the third point, also the final and most important point. You've already been through similar ordeal,so inviting you doesn't violate the confidentiality clause. 
+
+With regard to developing others, I will bear the responsibility of secret disclosure if it fails. Most of our team members, our civilian staffs, come from within the Church."
 
 
  </seg>
