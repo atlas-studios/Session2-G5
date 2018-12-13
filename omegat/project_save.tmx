@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8208,8 +8208,8 @@ Should he ever dare to head up the Western Hills, he would have no other future 
       <tuv lang="ZH-CN">
         <seg>作为穿越人员，神秘聚会的发起人“愚者”，自己身上有着不少的秘密，长期晃荡于黑夜女神教会专门处理超凡事件的队伍眼皮底下，风险不小；</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T040517Z" creationid="niz_ang" creationdate="20181213T040517Z">
-        <seg> Being a transmigrator, "The Imbecile" who was the founder-member of the secret organization, I already had multiple secrets. To work freely for a long period, under the eyes of the Evernight Goddess Organization's group, which specifically settled problems regarding the Beyonders, was a major risk. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T040640Z" creationid="niz_ang" creationdate="20181213T040517Z">
+        <seg>I, being a transmigrator, "The Imbecile" who was the founder-member of the secret organization, already had multiple secrets. To work freely for a long period, under the eyes of the Evernight Goddess Organization's group, which specifically settled problems regarding the Beyonders, was a major risk. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9348,6 +9348,14 @@ As they walked, the guard consoled him by saying, "Don't worry; the Martial Arts
         <seg>Only he knew why Elder Liu had suddenly died. This Elder Liu was the textbook example for a paranoiac and a person crazy for refining elixirs. 
 
 It was definitely the case that as he could not identify the additional ingredients mysteriously included in that earth-grade elixir pill, he had spent several days researching non-stop without any rest and, as a result, died from over-exertion...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>只要加入邓恩.史密斯他们，自己的目标肯定会是成为非凡者，以此掩盖从“聚会”里获得的好处，而成为正式成员，自由必定会受到限制，就像文职人员离开廷根都要申报一样，不能想去哪里去哪里，想做什么做什么，会错过很多机会；</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T041233Z" creationid="niz_ang" creationdate="20181213T041233Z">
+        <seg>As long as I joined Dunn Smith and his group, my target would certainly be, to become the Beyonder. Using this, I could hide the fact that I was gaining benefits from the "Organization". Yet, to become a formal member would entail much restriction in freedom, just like how a civilian staff had to report his leaving of Tingen. No longer would I be able to go wherever I wanted to go, do whatever I wanted to do, and I would miss many opportunities. </seg>
       </tuv>
     </tu>
     <tu>
