@@ -643,3 +643,5 @@
 邓恩	Dunn
 “双剑交叉、簇拥王冠”	"Double Cross Swords, Escort The Crown"
 阿霍瓦郡	Awwa County
+恩马特港口	Eunmatt Harbour
+普利兹	Pulitzer
