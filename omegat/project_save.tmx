@@ -4330,6 +4330,14 @@ If you want to move to another city, the first thing you have to do is to find t
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“查尼斯门。”罗珊提了一句，指着旁边的房间道，“队长在里面，你自己进去吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T200033Z" creationid="AoIeongFamily" creationdate="20181213T195943Z">
+        <seg>"Chanis Door" Rozanne reminded and pointed at the room beside, "The squad leader is inside, please enter yourself." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“柳长老。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180813T102557Z" creationid="Joey" creationdate="20180813T102557Z">
