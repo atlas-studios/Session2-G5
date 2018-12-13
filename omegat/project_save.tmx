@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T034429Z" creationid="Jeremy" creationdate="20181208T034429Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“30，32，34……这里。”他数着门牌号，走进了楼梯。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105512Z" creationid="niz_ang" creationdate="20181213T105512Z">
+        <seg>“30,32,34...here,” he counted the house number and walked in, to the stairs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -949,6 +957,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040327Z" creationid="wynixe" creationdate="20181213T040327Z">
         <seg>“You...!" Klein was flustered. Everything suddenly became a blur and he instantly sat up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“佣兵小队？你活在冒险故事里吗？早就没这东西了！”酒保插嘴笑道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105148Z" creationid="niz_ang" creationdate="20181213T105148Z">
+        <seg>“The Mercenary Squad? Are you living in an story of adventure? This hasn’t been around for a long time!” the bartender interrupted and smiled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2057,6 +2073,15 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“唔，谁啊……”一道含含糊糊的嗓音冒出，吧台后面站起了一个醉醺醺的老者。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105051Z" creationid="niz_ang" creationdate="20181213T105051Z">
+        <seg>“Oh,who’s that...” An ambiguous voice sounded, and a drunk old man stood up from behind the bar.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“唰！唰！唰！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T101804Z" creationid="Joey" creationdate="20180922T101804Z">
@@ -3029,6 +3054,15 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“小伙子，你找我？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105106Z" creationid="niz_ang" creationdate="20181213T105106Z">
+        <seg>“Young man, are you looking for me?”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小奴！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T082140Z" creationid="USER" creationdate="20180807T063924Z">
@@ -3607,6 +3641,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我找莱特先生。”克莱恩直截了当地开口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105021Z" creationid="niz_ang" creationdate="20181213T105021Z">
+        <seg>“I came here for Mr Wright,”said Klein directly and bluntly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我数三声还不滚，你就准备……用手爬着回去吧！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T141502Z" creationid="Joey" creationdate="20180814T213457Z">
@@ -3635,6 +3677,15 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T050654Z" creationid="niz_ang" creationdate="20181212T050654Z">
         <seg>"I get it now," Klein turned his body and walked down the horse carriage. He stopped at the side and asked," By the way Mr Smith, where do I find you after I've come to my decision?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我明白了，其实……佣兵小队还存在的，只是换了个形式，换了个更贴近现在社会的名字，你去佐特兰街36号2楼可以找到一个。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105358Z" creationid="niz_ang" creationdate="20181213T105237Z">
+        <seg>"I see. Actually, the Mercenary Squad still exists. It’s just in another form, with a name that is closer to current society . You can find it on the second floor, of Number 36 Zouteland Street.”
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,6 +5115,16 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“老头，有人找你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105039Z" creationid="niz_ang" creationdate="20181213T105039Z">
+        <seg>“Old Man, somebody’s looking for you.”
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“老朋友，今生没能带你进入仙域，我很抱歉……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005919Z" creationid="USER" creationdate="20180804T033149Z">
@@ -5196,6 +5257,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T060259Z" creationid="Joey" creationdate="20180813T033001Z">
         <seg>"Their medical efficacy did indeed increase by a lot!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“莱特先生，我想雇个佣兵小队做任务。”克莱恩按照邓恩的吩咐回答道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105121Z" creationid="niz_ang" creationdate="20181213T105121Z">
+        <seg>“Mr Wright, I would like to hire a mercenary squad to do the task,” replied Klein, according to what Dunn had instructed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5407,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“谁告诉你来这里找的？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105212Z" creationid="niz_ang" creationdate="20181213T105212Z">
+        <seg>“Who told you to come here and find it ?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“谁啊？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T141013Z" creationid="wynixe" creationdate="20181211T141013Z">
@@ -5358,6 +5435,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T080148Z" creationid="wynixe" creationdate="20181213T073710Z">
         <seg>“Thank you.” Klein nodded, took a few steps over and sat down humbly. His heart raced uncontrollably. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“谢谢您。”克莱恩诚恳道谢，转身挤出了酒吧。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105403Z" creationid="niz_ang" creationdate="20181213T105403Z">
+        <seg>“Thank you,” thanked Klein sincerely before he turned and squeezed out of the pub.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5411,6 +5496,14 @@ Klein pressed his hat and sat down firmly.
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065347Z" creationid="USER" creationdate="20180803T073510Z">
         <seg>"Boom!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“输了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105450Z" creationid="niz_ang" creationdate="20181213T105450Z">
+        <seg>“Defeated...”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5845,10 +5938,27 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“道格竟然输了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105436Z" creationid="niz_ang" creationdate="20181213T105436Z">
+        <seg>”Douglas was actually defeated...” 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“道格道格！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T101012Z" creationid="niz_ang" creationdate="20181213T101012Z">
         <seg>“Douglas, Douglas!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“邓恩，邓恩.史密斯。”克莱恩如实回答。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105223Z" creationid="niz_ang" creationdate="20181213T105223Z">
+        <seg>“Dunn. Dunn Smith,”replied Klein in all honesty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7557,6 +7667,15 @@ Jiang Yi shut his eyes again and looked inward. He trembled more and more violen
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他临出门前，围在一块的酒客们突然安静了下来，只剩一阵喃喃低语：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105422Z" creationid="niz_ang" creationdate="20181213T105422Z">
+        <seg>Before he went out the pub, the alcoholic customers who surrounded him suddenly quieted down, leaving behind some whispers,”
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他五岁那年，和族里的其他孩子一样锻炼基础武技。那时候的他显露出惊人的武学悟性，各种复杂繁琐的基础招式一看便会，打得还有模有样，这让他一跃成为江家声名远播的天才童子。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010353Z" creationid="cktal" creationdate="20180802T014950Z">
@@ -8025,6 +8144,15 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T015203Z" creationid="niz_ang" creationdate="20181213T015203Z">
         <seg>He took out his keys,inserted it in and turned it gently, allowing the black </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他揉了揉眼睛，看向克莱恩道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105059Z" creationid="niz_ang" creationdate="20181213T105059Z">
+        <seg>He rubbed his eyes, shifted his glance to Klein and asked,”
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -9085,6 +9213,15 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T100301Z" creationid="niz_ang" creationdate="20181213T100301Z">
         <seg>Giving a curious glance, Klein found two dogs caged inside. One was black and white,similar to the husky found on the Earth. The other was wholly black, with shiny fur, and was healthy and fierce.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩好笑摇头，快步离开，问路到了附近的佐特兰街。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105503Z" creationid="niz_ang" creationdate="20181213T105503Z">
+        <seg>Klein smiled and shook his head. Then he left quickly and got his way to the nearby Zoeterland Street after asking around.
 </seg>
       </tuv>
     </tu>
@@ -20323,6 +20460,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>绕过拐角，逐阶往上，他看见了竖直的招牌，看见了所谓佣兵小队现在的名字：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105540Z" creationid="niz_ang" creationdate="20181213T105540Z">
+        <seg>Going round the corner and slowly climbing up the stairs, he saw the vertical sign with the current name of the so-called Mercenary Squad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>罗塞尔还发明了塔罗占卜，并奠定了当前纸牌的组成和玩法，这里面就有周明瑞熟悉的几种类型，比如升级、斗地主、德州、昆特……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T055726Z" creationid="Jeremy" creationdate="20181208T054826Z">
@@ -20883,6 +21028,22 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T061437Z" creationid="Joey" creationdate="20180813T141140Z">
         <seg>Chief Rong snorted loudly, directly interrupting him. "What are you doing here, since you're not done counting? Is this a place you can even come in? Hurry up and run back to the Western Hills for accounting!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莱特沉默了几秒钟道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105157Z" creationid="niz_ang" creationdate="20181213T105157Z">
+        <seg>Wright went silent for a few second before saying,”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>莱特顿时呵呵发笑：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105241Z" creationid="niz_ang" creationdate="20181213T105241Z">
+        <seg>Instantly, Wright broke out in giggles and replied,”</seg>
       </tuv>
     </tu>
     <tu>
@@ -22907,6 +23068,16 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055405Z" creationid="Joey" creationdate="20180810T205747Z">
         <seg>That black essence force actually separated from the blue essence force and suddenly merged with the nearby elixir powers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>酒保吹了声口哨，对旁边喊道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105029Z" creationid="niz_ang" creationdate="20181213T105029Z">
+        <seg>The bartender whistled and shouted to the side,”
+
+</seg>
       </tuv>
     </tu>
     <tu>
