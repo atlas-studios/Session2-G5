@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3400,6 +3400,14 @@ If you want to move to another city, the first thing you have to do is to find t
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T151845Z" creationid="wynixe" creationdate="20181211T151845Z">
         <seg>"You sure have a great mental state." the Gray-Eyed Policeman Dunn Smith said while nodding. There was not a trace of anger, nor was he smiling. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“忘记自我介绍了，我叫罗珊，父亲是值夜者正式队员，五年前牺牲在了一次意外里。以后我们应该就是同事了，呃，应该用‘同事’这个词吧……还不能算队友，毕竟我们都不是非凡者。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T160939Z" creationid="AoIeongFamily" creationdate="20181213T160939Z">
+        <seg>"I've forgotten to introduce myself, I'm Rozanne. My father was a team member of the Night-Watchman, who sacrificed in an accident five years ago. We are </seg>
       </tuv>
     </tu>
     <tu>
@@ -14872,8 +14880,8 @@ With that thought, Zhou Mingrui went closer.</seg>
       <tuv lang="ZH-CN">
         <seg>棕发女孩走在前方，盯着脚边，走得小心翼翼：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T142438Z" creationid="AoIeongFamily" creationdate="20181213T142438Z">
-        <seg>The brown-haired girl walked in front, staring at her feet walking carefully.</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T160954Z" creationid="AoIeongFamily" creationdate="20181213T142438Z">
+        <seg>The brown-haired girl walked in front, staring at her feet while walking carefully.</seg>
       </tuv>
     </tu>
     <tu>
