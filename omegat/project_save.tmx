@@ -2417,6 +2417,22 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“回去吧……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T103130Z" creationid="wynixe" creationdate="20181213T103130Z">
+        <seg>“Leave...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“回去吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T103121Z" creationid="wynixe" creationdate="20181213T103121Z">
+        <seg>“Leave.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“回长老，我知道什么回事！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T161003Z" creationid="Ho Jin Liang" creationdate="20181203T161003Z">
@@ -2615,6 +2631,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T145943Z" creationid="jingh" creationdate="20181208T064445Z">
         <seg>"Alright, which card would you like to see first?" The fortune-teller raised her head up after completing her placement of the cards and gazed deeply at Zhou Mingrui with her grayish-blue eyes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好了，到这里结束，回去吧。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T103116Z" creationid="wynixe" creationdate="20181213T103116Z">
+        <seg>“Okay. We shall end here. You may leave.”</seg>
       </tuv>
     </tu>
     <tu>
