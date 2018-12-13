@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8206,6 +8206,14 @@ Should he ever dare to head up the Western Hills, he would have no other future 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>作为穿越人员，神秘聚会的发起人“愚者”，自己身上有着不少的秘密，长期晃荡于黑夜女神教会专门处理超凡事件的队伍眼皮底下，风险不小；</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T040517Z" creationid="niz_ang" creationdate="20181213T040517Z">
+        <seg> Being a transmigrator, "The Imbecile" who was the founder-member of the secret organization, I already had multiple secrets. To work freely for a long period, under the eyes of the Evernight Goddess Organization's group, which specifically settled problems regarding the Beyonders, was a major risk. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>作为罪魁祸首的江逸自此不再受到江家高层待见，即便他始终坚持修炼，在大长老失踪这六年里将自己的元力从零苦苦提升到铸鼎境一重，他在族里的地位依旧是一降再降。不但在两年前被挤兑搬出江家后院，住进家将仆人所在的西院，甚至前些天还让他提早半年就接手只有年满十六周岁，最终确认不能修炼到铸鼎境三重的家族废材子弟才会负责的比如清点家族药田收成这样的杂活工作。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="Joey" creationdate="20180803T101759Z">
@@ -8300,6 +8308,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T060948Z" creationid="Joey" creationdate="20180813T102753Z">
         <seg>Elder Liu sat on the ground in the side chamber, his back facing Jiang Yi. He wrapped the remaining black elixir pill in the red essence force released from his hand. With his full attention on research, he completely ignored Jiang Yi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>做值夜者队伍的文职人员，坏处非常明显：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T034725Z" creationid="niz_ang" creationdate="20181213T034725Z">
+        <seg>Being a Night-Watchman's civilian staff had its apparent disadvantages:</seg>
       </tuv>
     </tu>
     <tu>
