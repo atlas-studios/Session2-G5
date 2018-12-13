@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -572,8 +572,10 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“也就是说，只要成为你们的文职人员，就可以了解相关的秘密，弄清楚非凡者的隐患和可能遭遇的危险，之后再考虑是否成为非凡者的问题？”克莱恩边整理思路，边用自己的话语重新描述了一遍对方的意思。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T152641Z" creationid="niz_ang" creationdate="20181211T151836Z">
-        <seg>"That means,as long as I become one of your civilian staffs,I can understand the secrets in the loop and figure out the potential danger posed by The Extraordinary and the possible peril faced. After which, I can decide whether I want to become The Extraordinary or not," Klein said as he reorganized his thoughts and restated Dunn's meaning in his own words.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T125816Z" creationid="niz_ang" creationdate="20181211T151836Z">
+        <seg>"In other words, as long as I become your civilian staff member, I will be able to understand the relevant secrets, figure out the hidden dangers of the Beyonder and the dangers that may be encountered, as well as consider whether I want to become the Beyonder or not later,"Klein reorganized his thoughts and re-described the meaning of the other party with his own words."
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -4055,8 +4057,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“是这样，除了一点，那就是并非你考虑成为非凡者，就一定能成为，在这方面，各大教会都同样的严格。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T153059Z" creationid="niz_ang" creationdate="20181211T152921Z">
-        <seg>"Yes, this is the case. Except that the wish of becoming The Extraordinary is not always granted, because every organization will be equally strict in this aspect."</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T130237Z" creationid="niz_ang" creationdate="20181211T152921Z">
+        <seg>"Yes, this is the case. Except for one point, that is, you considering to become the Beyonder may not always be granted, because every church will be equally strict in this respect."</seg>
       </tuv>
     </tu>
     <tu>
