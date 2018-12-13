@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -808,8 +808,12 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你应该能够想象得出，我们会经常接触第四纪乃至更早的文献和物品，不少邪教和诸多异端都试图从这些东西那里获得力量，有的时候，它们本身也会导致诡异可怕的事情。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T165218Z" creationid="niz_ang" creationdate="20181211T165218Z">
-        <seg>" You should be able to envisage, we'll often be in contact with documents and objects from The Fourth Epoch or even earlier. Many cults and heresies have tried to gain power from those things. Sometimes, the presence of these cults and heresies alone can cause weird and scary events."   </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T132910Z" creationid="niz_ang" creationdate="20181211T165218Z">
+        <seg>" You should be able to imagine that we'll often come into contact with The Fourth Epoch or even documents and objects from earlier. Many cults and heretics have tried to gain power from these things. Sometimes, they themselves can lead to strange and terrible things."
+
+
+
+ </seg>
       </tuv>
     </tu>
     <tu>
