@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7761,10 +7761,10 @@ As such, he decided to keep the fact that his power was improving by leaps and b
       <tuv lang="ZH-CN">
         <seg>从“转运仪式”等遭遇看，自己不会是邓恩口中百分之八十的幸运儿，后续必然会有诡异的事件落到身上，充满危险，只有成为非凡者或者加入值夜人，才具备抗衡的能力；</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T044210Z" creationid="niz_ang" creationdate="20181213T042750Z">
-        <seg>Judging from the situation of luck enhancement ritual, Klein decided that he would not be amongst the eighty percent of lucky people. In the future, there would bound to be some bizarre events happening on him, increasing the peril. 
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T162559Z" creationid="niz_ang" creationdate="20181213T042750Z">
+        <seg>Judging from the situation of the luck enhancement ritual, Klein decided that he would not be amongst the 80 percent of lucky people. In the future, there would bound to be some bizarre events happening on him, increasing the danger. 
 
-Only by becoming one of the Beyonders or joining the Night-Watchman would he be equipped with the ability to contend.  </seg>
+Only by becoming one of the Beyonders or by joining the Night-Watchman, could he be equipped with the ability to contend.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -12996,10 +12996,10 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>当然，也可以去找去加入邓恩口中吐露的“心理炼金会”这种被各大教会压制围杀的组织，可成为他们的一员，同样会失去自由，甚至时刻得担惊受怕，更重要的一个问题是，自己根本不知道去哪里找他们，即使从“倒吊人”口中套出了对应情报，贸贸然接触也会有生命危险；</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095146Z" creationid="niz_ang" creationdate="20181213T095138Z">
-        <seg>Of course, I could also go to the “Psychological Alchemy Association” confided by Dunn, one that was suppressed and sought to be killed by many major organisations,and become a member of it. 
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T163755Z" creationid="niz_ang" creationdate="20181213T095138Z">
+        <seg>Of course, I could also go to the “Psychological Alchemy Association” confided by Dunn, one that was suppressed and sought to be killed by many major organizations,and become a member of it. 
 
-Yet i’ll also lose my freedom, and even be in a constant state of fear and anxiety. However, one important question was I didn’t even know where to look for them. Even if I managed to gain corresponding information from “The Hanged Man”, my rash contact with them could put my life at risk.
+Yet I’ll also lose my freedom, and even, be in a constant state of fear and anxiety. However, a more important question would be I didn’t even know where to look for them. Even if I managed to gain the corresponding information from “The Hanged Man”, my rash contact with them could put my life at risk.
 </seg>
       </tuv>
     </tu>
@@ -13338,12 +13338,12 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>想成为非凡者，光靠“聚会”是办不到的，魔药配方问题不大，可对应的材料从哪里寻找，怎么获取，如何调制，以及非凡者日常修行的常识，自己都存在严重的障碍，不可能事事都问“正义”和“倒吊人”，物物都找他们换取，这不仅会损害“愚者”的形象，让对方怀疑，而且还没那么多的时间交流如此细碎的问题，同样的，自身也拿不出什么他们感兴趣的东西；</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T044138Z" creationid="niz_ang" creationdate="20181213T044124Z">
-        <seg>The wish to become a Beyonder was not solely reliant on the "Organization". Potion recipe was not a major problem, but where could we find the corresponding materials, how do we get and modulate them? 
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T163158Z" creationid="niz_ang" creationdate="20181213T044124Z">
+        <seg>The wish to become a Beyonder was not solely reliant on the "Gathering". The potion formula was not a major problem, but where could we find the corresponding materials, how do we get and modulate them? 
 
-Not forgetting the nous of daily practice, we ourselves had serious obstacles! It was just not possible to consult "Justice" and "The Hanged Man" on every matter and exchange every object with them. This would not only hurt the image of "The Imbecile", arose their suspicions, and there was simply inadequate time to communicate on such minor issues. 
+Not forgetting the nous of daily practice, we ourselves had serious obstacles! It was just not possible to consult "Justice" and "The Hanged Man" on every matter and exchange every object with them. This would not only hurt the image of "The Imbecile", arose the other party's suspicions, there was also inadequate time to communicate on such minor ad fragmented issues. 
 
-Similarly, I could not fork out anything that could pique their interest.  </seg>
+On the same issue, I could not fork out anything that could pique their interest.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -21106,8 +21106,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>而加入“值夜者”，必然能接触到神秘世界的常识和相关的渠道，积累起足够多的对应人脉，以此为支点，方能撬动“聚会”，从“正义”和“倒吊人”那里获得最大的收益，这反向则又提升现实状态，获得更多的资源，形成良性循环；</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095128Z" creationid="niz_ang" creationdate="20181213T095128Z">
-        <seg>By joining the “Night-Watchman”, there would definitely be contact with the common knowledge of the mysterious world and the related channels. This could accumulate sufficient corresponding human capital and be used as a fulcrum, destabilise the “Organization”,and in turn gain the greatest benefits from “The Justice” and “The Hanged Man”. This reversal raised current state in reality and obtained more resources, forming a virtuous cycle</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T163351Z" creationid="niz_ang" creationdate="20181213T095128Z">
+        <seg>By joining the “Night-Watchman”, there would definitely be contact with the common knowledge of the mysterious world and the related channels. This could accumulate sufficient corresponding human capital and be used as a fulcrum, destabilize the “Gathering”,and in turn gain the greatest benefits from “The Justice” and “The Hanged Man”. In reality, this reversal actually raised the current state and obtained more resources, forming a virtuous cycle</seg>
       </tuv>
     </tu>
     <tu>
