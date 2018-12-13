@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5791,8 +5791,12 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“这就是第三，也是最后最重要的一点，你已经接触到类似的事件，邀请你不存在违反保密条款的问题，而另外发展别人，如果失败，我会承担隐秘泄露的责任。我们的队员，我们的文职者，绝大部分都来自于教会内部。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T173539Z" creationid="niz_ang" creationdate="20181211T173539Z">
-        <seg>" This is the third point, which is the last and most important point. You've already been through similar ordeal,so inviting you to join us doesn't breach confidentiality. Most of our members and civilian staffs come from the internal departments of the organization." </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134832Z" creationid="niz_ang" creationdate="20181211T173539Z">
+        <seg>" This is the third point, also the final and most important point. You've already been through similar ordeal,so inviting you doesn't violate the confidentiality clause.  To develop othersMost of our members and civilian staffs come from the internal departments of the organization."
+
+This is the third and final most important point. You have been exposed to similar incidents, inviting you to not violate the confidentiality clause, and to develop others. If it fails, I will bear the responsibility of secret disclosure. Most of our team members, our civilians, come from within the church
+
+ </seg>
       </tuv>
     </tu>
     <tu>
@@ -6035,8 +6039,8 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“那你们之前怎么不直接，嗯，发展一位？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T171515Z" creationid="niz_ang" creationdate="20181211T171515Z">
-        <seg>"Then why don't y'all directly, um, nurture one?"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134504Z" creationid="niz_ang" creationdate="20181211T171515Z">
+        <seg>"Then why don't y'all directly, um, develop and nurture one?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -6271,8 +6275,11 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       <tuv lang="ZH-CN">
         <seg>“除了特殊领域的非凡者，我们大多并不擅长学习，或者说已经过了那个年龄。”讲到这里，邓恩.史密斯指了指自己的脑袋，嘴角微勾如在自嘲般道，“那些枯燥的、乏味的知识总是让人想要睡觉，哪怕不眠者，也无法抗拒。在以往，我们会找历史学家、考古学家合作，但这会有隐秘外泄的风险，也可能给教授副教授先生们带去不好的遭遇，所以，有位专业人士加入，成为我们的一员，是件难以拒绝的好事。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T170627Z" creationid="niz_ang" creationdate="20181211T170627Z">
-        <seg>" Besides The Extraordinaries in the special field,many of us are not adept at learning, or we have passed the age of learning." Speaking of which, Dunn Smith pointed at his own brain, and the corner of his mouth turned up as if he was mocking himself. He then spoke,"Those boring knowledge makes people want to sleep, even for those who don't sleep.In the past, we'll find historians or archaeologist to work with, but this has a risk of leakage of secrets and brings unfavorable situations to the head and vice professors. Thus, the addition of a professional and him becoming one of us is definitely irresistible." </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134038Z" creationid="niz_ang" creationdate="20181211T170627Z">
+        <seg>" Except for the Beyonder in special fields,most of us are not adept at learning, or have passed that age." Having said that, Dunn Smith pointed to his own head, and the corner of his mouth turned up slightly as if he was mocking himself. 
+
+He then spoke,"Those boring knowledge always makes people want to sleep, even if they don't sleep, they can't resist. In the past, we'll find historians or archaeologist to work with, but this risk a leakage of secrets and may bring unfavorable experiences professors and associate professors. Thus, the addition of a professional, and him becoming one of us is a good thing that is hard to refuse."
+ </seg>
       </tuv>
     </tu>
     <tu>
@@ -9533,8 +9540,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩轻轻点头，接受了邓恩的说法，并思维发散地问道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T171421Z" creationid="niz_ang" creationdate="20181211T171421Z">
-        <seg>Dunn nodded his head slightly, accepted Klein's saying, thought deeper and asked,"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134426Z" creationid="niz_ang" creationdate="20181211T171421Z">
+        <seg>Dunn nodded lightly and accepted Klein's statement. In a state where he had divergent thoughts, he asked,"</seg>
       </tuv>
     </tu>
     <tu>
@@ -22937,8 +22944,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩自顾自地继续说道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T172611Z" creationid="niz_ang" creationdate="20181211T172513Z">
-        <seg>Self-contained, Dunn continued saying,"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T134549Z" creationid="niz_ang" creationdate="20181211T172513Z">
+        <seg>Saying to himself,Dunn continued,"</seg>
       </tuv>
     </tu>
     <tu>
