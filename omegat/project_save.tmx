@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3891,6 +3891,17 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T034111Z" creationid="Jeremy" creationdate="20181208T034111Z">
         <seg>"Mrs. Smyrin, you seem to be a young and energetic woman today." All Zhou Mingrui could do was respond with a dry smile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“新面孔？”酒保边擦杯子边抬头看了他一眼，“黑麦啤酒1便士一杯，恩马特啤酒2便士，南威尔啤酒4便士，或者你想来一杯纯麦芽酿的朗齐？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105004Z" creationid="niz_ang" creationdate="20181213T105004Z">
+        <seg>“A new face?” said the bartender as he spared Klein a glance while wiping the cups. He continued,”One cup of rye beer,one penny of Enmat beer, four pence of Southville beer,or do you want a cup of malt Lynx Wine?”
+
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -9115,6 +9126,16 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T143839Z" creationid="wynixe" creationdate="20181211T143839Z">
         <seg>Klein was startled. He did not feel a tinge of fear or guilt as if his lies were being exposed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩摇了摇头，好笑退开，从边缘绕过挤一块的酒客们，来到了吧台前方。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T101116Z" creationid="niz_ang" creationdate="20181213T101116Z">
+        <seg>Klein shook his head, laughing as he backtracked,and circled along the edge of the alcoholic customers and reached the front of the bar.
+
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -21593,6 +21614,16 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>还真有特色啊……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T101059Z" creationid="niz_ang" creationdate="20181213T101059Z">
+        <seg>That’s really unique...
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这……周明瑞惶恐莫名，猛地站起，可双腿还未完全打直，脑袋又是一阵抽痛，这让他短暂失去力量，重心不由自主下坠，屁股狠狠地撞击在了硬木所制的椅面上。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T052632Z" creationid="Jeremy" creationdate="20181207T052409Z">
@@ -22259,8 +22290,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>这里的赌博项目竟然是押哪条狗抓的老鼠更多……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T101030Z" creationid="niz_ang" creationdate="20181213T101030Z">
-        <seg>The gambling item here was actually to bet which dog could catch more rats...</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T101207Z" creationid="niz_ang" creationdate="20181213T101030Z">
+        <seg>The thing to be gambled here was actually which dog could catch more rats...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23105,6 +23136,14 @@ People held wooden wine glasses and surrounded it, sometimes discussing loudly w
         <seg>Vaguely, he heard Jiang Xiaonu explaining things in a low volume, as well as Chief Rong's rage-filled shouts of stern rebuke. 
 
 After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master, Chief Rong has left. However, he said that he wants you to find him tomorrow morning and account for the medicinal herbs at the Western Hills." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>难怪铁十字街那边一直有人收购活老鼠……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T101051Z" creationid="niz_ang" creationdate="20181213T101051Z">
+        <seg>No wonder there were people purchasing live rats at Iron Cross Street...</seg>
       </tuv>
     </tu>
     <tu>
