@@ -3388,6 +3388,14 @@ If you want to move to another city, the first thing you have to do is to find t
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“往左通向圣赛琳娜教堂，往右是武器、材料和文献库，直行是查尼斯门。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T172716Z" creationid="AoIeongFamily" creationdate="20181213T172716Z">
+        <seg>"To the left, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“很厉害啊。”克莱恩由衷赞道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T025959Z" creationid="niz_ang" creationdate="20181213T025928Z">
