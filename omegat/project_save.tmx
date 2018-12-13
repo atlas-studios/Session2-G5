@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5378,6 +5378,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
         <seg>"The medicinal power of this essence force elixir can't be this weak, can it? Huh..." 
 
 Jiang Yi was rendered speechless, as he found something wrong with a strand of blank essence force right when he was prepared to withdraw it. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这和我之前做‘转运仪式’时的感觉类似啊，但没有那种让人疯狂，让人想要爆炸的味道……”克莱恩看着这一切，疑惑想道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T100056Z" creationid="wynixe" creationdate="20181213T100056Z">
+        <seg>"This felt like when I did the luck enhancement ritual before... but it does not make me feel like I'm going crazy, nor does it make me feel like exploding..." Klein looked around and thought questioningly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19715,6 +19723,14 @@ When she saw Jiang Yi enter, she hurriedly and nervously asked, "Young Master, w
       </tuv>
       <tuv lang="EN-US" changeid="jingh" changedate="20181208T174147Z" creationid="jingh" creationdate="20181208T174147Z">
         <seg>Immediately after, a low whisper could be heard beside his ears that sounded at times real, at times sharp, at times imaginary, at times alluring, at times maniacal, and at times crazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>红的更红，蓝的更蓝，黑的更黑，色彩混杂如同印象派油画，迷离而梦幻，而周围细碎重叠的呢喃一阵阵传来，像是有数不清的无形之人在议论。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T095910Z" creationid="wynixe" creationdate="20181213T095910Z">
+        <seg>Colours blended like an impressionist painting, appearing more defined than usual. It was dreamy and hazy.  Distinct murmurs from the surroundings came through as if hundreds and thousands of people who cannot be seen were arguing. </seg>
       </tuv>
     </tu>
     <tu>
