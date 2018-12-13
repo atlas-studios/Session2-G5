@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18377,6 +18377,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>突然，他看到走廊尽头的窗户前站了一道人影。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040510Z" creationid="wynixe" creationdate="20181213T040510Z">
+        <seg>Suddenly, he noticed a silhouette outside the window at the end of the aisle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>突然，他脑海内闪过一个念头，眸子一下亮若星辰，他的黑色元力可以增强药效？刚才那人阶上品灵神丹，就很有可能是因为黑色元力使得药力增强，变成了地阶丹药的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T060915Z" creationid="Joey" creationdate="20180813T092309Z">
@@ -21286,10 +21294,34 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>那人影半融入于黑暗里，沐浴着清冷的绯红月华。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040532Z" creationid="wynixe" creationdate="20181213T040532Z">
+        <seg>That silhouette was partly camouflaged in the darkness, bathing in the crimson moonlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>那人影取下黑色礼帽，幅度很小地鞠了一躬，低沉微笑道：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T092630Z" creationid="AoIeongFamily" creationdate="20181211T092503Z">
         <seg>The silhouette took down his black top hat and bowed a little, and he said with a smile, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那人影穿着比长袍短、比正装长的黑色类风衣服饰，</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040521Z" creationid="wynixe" creationdate="20181213T040521Z">
+        <seg>That silhouette was wearing a black windbreaking that was shorter than a coat, but longer than a jacket. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>那人影缓缓转过了身体，眼眸深邃、灰暗、冷漠。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040547Z" creationid="wynixe" creationdate="20181213T040547Z">
+        <seg>That silhouette turned around slowly. His eyes deep, gray, and cold.</seg>
       </tuv>
     </tu>
     <tu>
