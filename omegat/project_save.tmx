@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5361,6 +5361,14 @@ What followed next was the fear of uncertainty that came from not understanding.
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180919T050619Z" creationid="Joey" creationdate="20180917T050416Z">
         <seg>"Brother Hu!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“虽然经常会走这里，但我还是害怕，总担心摔倒，咕噜咕噜滚下去，你不知道，伦纳德就干过这种蠢事，他在成为‘不眠者’的第一天，在没完全掌握本身力量的第一天，就试图以冲刺的速度跑下去，然后，然后他就变成了车轮，哈哈，想到就好笑，嗯，就是刚才和你打招呼的那个家伙，这都是三年前的事情了，说起来，我加入值夜者都五年了，那时候我才十七岁……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T155044Z" creationid="AoIeongFamily" creationdate="20181213T155032Z">
+        <seg>"Although I walk here often, I am still constantly afraid of falling down, tumbling down like a barrel. You don't know, Leonard did such folly. On the first day of becoming 'Sleepless', the first day where he have not mastered his new powers, he tried to rush down the flight of stairs. And, and he became a cartwheel. Ha-ha, really funny. Oh yes, it was the guy that greeted you just now. This was all three years ago, speaking of it, I joined the Night-Watchman for 5 years, I was only seventeen then..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -11765,6 +11773,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>女孩边看路，边自来熟地说着，忽然，她隐蔽地拍了下额头道：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T155608Z" creationid="AoIeongFamily" creationdate="20181213T155608Z">
+        <seg>The girl watched her steps as she spoke. Suddenly, she smacked her forehead and said,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她内心的傲气被激起了，双腿一点，速度加快几分，再次运转幻灵手朝江逸点去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T110718Z" creationid="Joey" creationdate="20180926T110718Z">
@@ -14848,6 +14864,14 @@ With that thought, Zhou Mingrui went closer.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T141406Z" creationid="AoIeongFamily" creationdate="20181213T140827Z">
         <seg>The brown-haired girl pushed opened the office door at the most left-hand side. She pointed inside and chipped,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>棕发女孩走在前方，盯着脚边，走得小心翼翼：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T142438Z" creationid="AoIeongFamily" creationdate="20181213T142438Z">
+        <seg>The brown-haired girl walked in front, staring at her feet walking carefully.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23580,6 +23604,14 @@ People held wooden wine glasses and surrounded it, sometimes discussing loudly w
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180826T155401Z" creationid="USER" creationdate="20180809T104540Z">
         <seg>The problem was... he was so poor that he had not gotten new underwear for the past two years. What money could he possibly have?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>阶梯两侧的墙壁点着造型典雅的煤气灯，稳定的光芒驱散了黑暗，带来了平和。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T142146Z" creationid="AoIeongFamily" creationdate="20181213T142146Z">
+        <seg>The two sides of the stairs were lit up by gaslights. The stable glow dispelled darkness and brings harmony.</seg>
       </tuv>
     </tu>
     <tu>
