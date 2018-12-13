@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7181,8 +7181,8 @@ He had just the right time to carefully research the black essence force.</seg>
       <tuv lang="ZH-CN">
         <seg>与此同时，他在心里自我调侃了起来：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T155047Z" creationid="niz_ang" creationdate="20181211T155047Z">
-        <seg>At the same time,he jested,"</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T131034Z" creationid="niz_ang" creationdate="20181211T155047Z">
+        <seg>At the same time,he jested in his heart:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23427,8 +23427,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>难道我的特殊，我的穿越者光环，就像黑夜里的萤火虫，那样的鲜明，那样的出众？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T155647Z" creationid="niz_ang" creationdate="20181211T155647Z">
-        <seg>"So my specialness and transmigration are akin to the fireflies in the night, every so bright and magnificent?" </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T131152Z" creationid="niz_ang" creationdate="20181211T155647Z">
+        <seg>So my specialness and aura of a transmigrator [1. A person who transmigrates] are akin to the fireflies in the night, every so bright and outstanding? </seg>
       </tuv>
     </tu>
     <tu>
