@@ -4394,6 +4394,14 @@ If you want to move to another city, the first thing you have to do is to find t
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“欢迎，从现在开始，你就是我们的一员了，注意，合同也得保密。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T210715Z" creationid="AoIeongFamily" creationdate="20181213T210715Z">
+        <seg>"Welcome, from now on you are one of us, and please note that the contract is confidential as well."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“正式认识一下，我，‘通灵者’戴莉。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T075245Z" creationid="wynixe" creationdate="20181213T075245Z">
@@ -9430,6 +9438,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T024924Z" creationid="jingh" creationdate="20181208T164515Z">
         <seg>After readying everything, he finally took out the four loaves of rye bread. He placed one in the corner where a coal stove was originally, one at the bottom inner side of the dress mirror, one at the top of the cupboard where two walls met, and one at the right side of the study table where miscellaneous items were kept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>做完这一切，他站起身，一手递还一份合同，一手伸向了克莱恩：</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T210541Z" creationid="AoIeongFamily" creationdate="20181213T210541Z">
+        <seg>Having completed, he stood up and returned a contract with one hand, and reached for Klein with the other saying,</seg>
       </tuv>
     </tu>
     <tu>
