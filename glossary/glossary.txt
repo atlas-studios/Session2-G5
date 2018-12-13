@@ -648,3 +648,4 @@
 穿越人员	Transmigrator
 “愚者”	The Imbecile
 戴莉	Darley
+朗齐酒	Lynx Wine
