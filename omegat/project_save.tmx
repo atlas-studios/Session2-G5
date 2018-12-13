@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2798,8 +2798,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“好的。”克莱恩和煦迈步，心里则犯了嘀咕。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T133619Z" creationid="AoIeongFamily" creationdate="20181213T133619Z">
-        <seg>"Okay." Klein walked genially, but </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T134751Z" creationid="AoIeongFamily" creationdate="20181213T133619Z">
+        <seg>"Okay." Klein walked genially, but he mumbles to himself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,8 +4802,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“直通康斯顿城的蒸汽列车‘飞翔号’今日开通……真是的，什么时候才能直达迪西海湾，我可不想再坐船去，太难受了，非常难受……咦，你是谁？”棕发女孩装模作样地念了一通，发表了意见，而说着说着，她放低报纸，露出光洁的额头和浅棕色的眼眸，先是讨好继而错愕地望向克莱恩。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T130113Z" creationid="AoIeongFamily" creationdate="20181213T130113Z">
-        <seg>"The steam train 'Soaring Express' that reach Constant City directly starts operations today... oh come on, when will there be one that goes straight to Brindisi Bay. I really don't want to take the ship again, it's too awful, really awful... hey, who are you?" The girl with brown hair read pretentiously and gave her opinion. As she spoke, she lowered the newspaper and revealed her bright forehead and light-brown eyes, looking at Klein with a fawning and startled look.</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T134651Z" creationid="AoIeongFamily" creationdate="20181213T130113Z">
+        <seg>"The steam train service 'Soaring Express' that directly reaches Constant City is starting operations today... oh come on, when will there be one that goes straight to Brindisi Bay. I really don't want to take the ship there again, it's too awful, really awful... hey, who are you?" The girl with brown hair read pretentiously and gave her opinion. As she spoke, she lowered the newspaper and revealed her bright forehead and light-brown eyes, looking at Klein with a fawning and startled look.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14458,6 +14458,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T104732Z" creationid="Jeremy" creationdate="20181207T104732Z">
         <seg>Where did the gun come from?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>查尼斯门，那是什么？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T134852Z" creationid="AoIeongFamily" creationdate="20181213T134852Z">
+        <seg>Chanis Door, what could that be?</seg>
       </tuv>
     </tu>
     <tu>
