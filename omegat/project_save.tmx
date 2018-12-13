@@ -6196,8 +6196,8 @@ With regard to developing others, I will bear the responsibility of secret discl
       <tuv lang="ZH-CN">
         <seg>“那你看下这份契约，呵呵，现在大家喜欢叫合同。”邓恩拉开桌子抽屉，拿出了一式两份的契约。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T203048Z" creationid="AoIeongFamily" creationdate="20181213T203048Z">
-        <seg>"Then take a look at this deed, ho ho, now everyone likes to call it contract." Dunn pulled out the table drawer and took out a duplicated contract.</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T205936Z" creationid="AoIeongFamily" creationdate="20181213T203048Z">
+        <seg>"Then take a look at this deed, ho ho, now everyone likes to call it contract." Dunn pulled out the table drawer and took out two duplicated contract.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8242,6 +8242,14 @@ Jiang Yi ran like a madman for some time, before changing his direction and turn
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他因为还没有印章，最后只能按上指纹。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T210155Z" creationid="AoIeongFamily" creationdate="20181213T210155Z">
+        <seg>As he does not have a stamp yet, he can only use his fingerprints.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他在江逸那呼啸而来的六个拳影上感受到危险，马飞就在身后，他不敢乱来只能先抵挡一下。等所有护卫围上来，江逸就再也无法伤到马公子了。只要马公子安全，他们就能全力对付江逸。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181021T040300Z" creationid="tianqi" creationdate="20181020T162923Z">
@@ -9501,8 +9509,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩先用废纸试了试钢笔，接着隐蔽地吸了口气，在两份契约的对应位置都签上了自己的大名：克莱恩.莫雷蒂。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T205923Z" creationid="AoIeongFamily" creationdate="20181213T205923Z">
-        <seg>Klein used a waste paper to try out the pen, before breathing in silently and signed on both contracts with </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T210012Z" creationid="AoIeongFamily" creationdate="20181213T205923Z">
+        <seg>Klein used a waste paper to try out the pen, before breathing in silently and signed on both contracts with his name: Klein Moretti.</seg>
       </tuv>
     </tu>
     <tu>
