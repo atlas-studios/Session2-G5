@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8157,6 +8157,14 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他改敲为推，让缝隙变大，目光随之望入，看见了一组不知是不是接待用的古典沙发、软面靠椅和原木色茶几，看见了正对面的一张桌子，以及桌子背后脑袋低垂，一点一点的棕发女孩。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T104751Z" creationid="AoIeongFamily" creationdate="20181213T100425Z">
+        <seg>He turned to pushing the door, making the gap larger as he stared inside - a set of classic sofa which might be for serving guests, soft arm chair and burly wood coffee table. There was a girl with brown hair behind a table right opposite with her head drooped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他放下灵神丹盘坐入定，三个多时辰后准时清醒过来，立即吞服了一枚灵神丹，开始转修江水决。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T095442Z" creationid="Joey" creationdate="20180916T095442Z">
@@ -9189,6 +9197,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T035918Z" creationid="wynixe" creationdate="20181213T035918Z">
         <seg>Klein was just about to step forward, when an oyster seller grabbed a customer suddenly, and claimed that he was a thief. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>克莱恩又重复了一遍，依旧是同样的结果。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T100047Z" creationid="AoIeongFamily" creationdate="20181213T100047Z">
+        <seg>Klein repeats again, with the same outcome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10708,6 +10724,22 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T135729Z" creationid="wynixe" creationdate="20181211T135717Z">
         <seg>KNOCK!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>咚！咚！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T115306Z" creationid="AoIeongFamily" creationdate="20181213T115306Z">
+        <seg>KNOCK! KNOCK!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>咚！咚！咚！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T093624Z" creationid="AoIeongFamily" creationdate="20181213T093624Z">
+        <seg>KNOCK! KNOCK! KNOCK!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14582,6 +14614,14 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
         <seg>Melissa would definitely like it. However, how much is the entrance fee? 
 
 With that thought, Zhou Mingrui went closer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>棕发女孩一下坐直，双手猛地拿起面前摊开的报纸，挡住了脸庞。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T121310Z" creationid="AoIeongFamily" creationdate="20181213T121310Z">
+        <seg>The girl sat up immediately and swiftly took the newspaper in front of her, covering her face. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20468,6 +20508,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>缓慢而有节奏的敲门声回荡，屋内却没一点响应，只“哒哒哒”的动静隐约传出。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T095951Z" creationid="AoIeongFamily" creationdate="20181213T095531Z">
+        <seg>The sound echos slowly with rhythm, but there was no response, only a faint "Dadada" sound can be heard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>罗塞尔还发明了塔罗占卜，并奠定了当前纸牌的组成和玩法，这里面就有周明瑞熟悉的几种类型，比如升级、斗地主、德州、昆特……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T055726Z" creationid="Jeremy" creationdate="20181208T054826Z">
@@ -21044,6 +21092,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T105241Z" creationid="niz_ang" creationdate="20181213T105241Z">
         <seg>Instantly, Wright broke out in giggles and replied,”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>虽然“安保公司”的牌子只是伪装，但也未免太，太不“职业”了吧？这是多久没生意上门了？好吧，你们也不需要什么生意……克莱恩一边腹诽，一边靠拢，在桌子之上，在女孩耳边，又敲了两下。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T115304Z" creationid="AoIeongFamily" creationdate="20181213T115304Z">
+        <seg>Even though "Security Company" is just a guise, isn't this just... just too "unprofessional"? How long have there been no business here? Right, you guys doesn't need any business... Klein drawn closer as he grumbled silently and knocked on the table just beside the girl's ear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21795,6 +21851,14 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181207T044707Z" creationid="Jeremy" creationdate="20181207T044707Z">
         <seg>And it's really painful!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>还真是……不知道该怎么吐槽……他摇头失笑，拾级而上，伸出右手，轻敲了半掩的房门。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T100439Z" creationid="AoIeongFamily" creationdate="20181213T093159Z">
+        <seg>Man... how do I talk about it... he shook his head and laughed. He walked up the steps and knocked gently on the half-closed door with his right hand.</seg>
       </tuv>
     </tu>
     <tu>
