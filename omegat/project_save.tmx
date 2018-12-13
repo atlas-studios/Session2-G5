@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -778,6 +778,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T124816Z" creationid="niz_ang" creationdate="20181211T151702Z">
         <seg>"You probably misunderstood. A member of us includes civilian staffs."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你好，我是克莱恩.莫雷蒂，应邓恩.史密斯先生的邀请而来。”克莱恩取下礼帽，放于胸前，微微鞠躬。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T130555Z" creationid="AoIeongFamily" creationdate="20181213T130555Z">
+        <seg>"Hello, I am Klein Moretti, and I am here at the invitation of Dunn Smith." Klein said as he took down his hat to his chest and bowed slightly. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4748,6 +4756,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“直通康斯顿城的蒸汽列车‘飞翔号’今日开通……真是的，什么时候才能直达迪西海湾，我可不想再坐船去，太难受了，非常难受……咦，你是谁？”棕发女孩装模作样地念了一通，发表了意见，而说着说着，她放低报纸，露出光洁的额头和浅棕色的眼眸，先是讨好继而错愕地望向克莱恩。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T130113Z" creationid="AoIeongFamily" creationdate="20181213T130113Z">
+        <seg>"The steam train 'Soaring Express' that reach Constant City directly starts operations today... oh come on, when will there be one that goes straight to Brindisi Bay. I really don't want to take the ship again, it's too awful, really awful... hey, who are you?" The girl with brown hair read pretentiously and gave her opinion. As she spoke, she lowered the newspaper and revealed her bright forehead and light-brown eyes, looking at Klein with a fawning and startled look.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“相信和恐惧带来麻烦，更多的相信和恐惧带来更大的麻烦……”克莱恩默念着这句话，不是太能够理解，然后因不是太理解的未知感觉恐惧，仿佛外面路灯的阴影里，没有光照的黑暗中，藏着一双双充满恶意的眼睛和一张张打开的嘴巴。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T034727Z" creationid="niz_ang" creationdate="20181212T032533Z">
@@ -6422,6 +6438,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T180215Z" creationid="niz_ang" creationdate="20181211T180215Z">
         <seg>...Emperor Roselle said that?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>《廷根市老实人报》……好名字……克莱恩默念着报纸朝向自己那面的抬头。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T123535Z" creationid="AoIeongFamily" creationdate="20181213T123535Z">
+        <seg>&lt;&lt;Tingen City Honest Paper&gt;&gt;... good name... Klein silently read the page facing him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14624,6 +14648,14 @@ With that thought, Zhou Mingrui went closer.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T121310Z" creationid="AoIeongFamily" creationdate="20181213T121310Z">
         <seg>The girl sat up immediately and swiftly took the newspaper in front of her, covering her face. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>棕发女孩二十岁出头的样子，穿着浅绿色的鲁恩风格轻便长裙，袖口、领口、胸前等地方有着漂亮的蕾丝，衬托得她面容愈发姣好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T131932Z" creationid="AoIeongFamily" creationdate="20181213T130629Z">
+        <seg>The brown-haired girl looked in her early twenties, in a light green, Ruen-styled dress. She was set off with beautiful laces on her sleeves, collar and chest.</seg>
       </tuv>
     </tu>
     <tu>
