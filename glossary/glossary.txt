@@ -654,3 +654,5 @@
 迪西海湾	Brindisi Bay
 罗珊	Rozanne
 黑暗圣徽	Dark Sacred Emblem
+查尼斯门	Chanis Door
+圣赛琳娜教堂	Saint Selena Cathedral
