@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19939,6 +19939,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181211T133925Z" creationid="wynixe" creationdate="20181211T133549Z">
         <seg>Furthermore, he was involved in such strange paranormal activity, how will he have the heart to "revise"? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>而加入“值夜者”，必然能接触到神秘世界的常识和相关的渠道，积累起足够多的对应人脉，以此为支点，方能撬动“聚会”，从“正义”和“倒吊人”那里获得最大的收益，这反向则又提升现实状态，获得更多的资源，形成良性循环；</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T095128Z" creationid="niz_ang" creationdate="20181213T095128Z">
+        <seg>By joining the “Night-Watchman”, there would definitely be contact with the common knowledge of the mysterious world and the related channels. This could accumulate sufficient corresponding human capital and be used as a fulcrum, destabilise the “Organization”,and in turn gain the greatest benefits from “The Justice” and “The Hanged Man”. This reversal raised current state in reality and obtained more resources, forming a virtuous cycle</seg>
       </tuv>
     </tu>
     <tu>
