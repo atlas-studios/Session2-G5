@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3663,6 +3663,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我可以吗？”克莱恩顺着这句话就问道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T135452Z" creationid="wynixe" creationdate="20181213T134454Z">
+        <seg>"ME? I can?" Klein questioned instantly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“我可以考虑一下吗？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181212T040622Z" creationid="niz_ang" creationdate="20181212T040622Z">
@@ -6054,6 +6062,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那你可以考虑加入我们，做文职人员，这样一来，有什么先兆，我们能及时发现。”邓恩边靠近马车，边随口说道，“或者直接成为非凡者，毕竟我们不是你的保姆，不能整夜整夜地看守着你，连你和女人干什么都看着。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T135416Z" creationid="wynixe" creationdate="20181213T135416Z">
+        <seg>"Then you can consider becoming one of us. Be a civilian staff of us. This way, you will be able to gain an advantage. We will be able to notice anything wrong in time." Dunn said casually as he approached the chariot. "Or simply become a Beyonder. After all, we are not nannies. We can't "babysit" you all day long and even watch what you do with women."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那她实际上的身份呢？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181212T130550Z" creationid="AoIeongFamily" creationdate="20181212T130550Z">
@@ -6120,8 +6136,8 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“那还有百分之二十的倒霉蛋……”克莱恩可不敢拼“脸”。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T134450Z" creationid="wynixe" creationdate="20181213T134450Z">
-        <seg>"Then... there's still one fifth of those poor souls..." Klein did not dare to use the word "wretch". </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T134457Z" creationid="wynixe" creationdate="20181213T134450Z">
+        <seg>"Then... there's still one fifth of those poor souls..." Klein did not dare to use the word "wretches". </seg>
       </tuv>
     </tu>
     <tu>
@@ -12892,6 +12908,14 @@ Yet i’ll also lose my freedom, and even be in a constant state of fear and anx
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040127Z" creationid="wynixe" creationdate="20181213T040127Z">
         <seg>Of course, he could also get on a steam train, go eastward to the nearest Eunmatt Harbour and take the sea route to Pulitzer, then towards Backlund. 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>当然，他几乎没抱什么希望，毕竟怎么可能这么轻松就加入值夜者队伍，获得非凡之力！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T135922Z" creationid="wynixe" creationdate="20181213T135527Z">
+        <seg>Of course, he did not expect much. After all, how is it even possible to be a part of the Night-Watchman's clan so easily and obtain the Power of Beyonders?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23105,8 +23129,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>那可是非凡之力！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T075308Z" creationid="wynixe" creationdate="20181213T075302Z">
-        <seg>That is but the Power of Beyond!</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T135539Z" creationid="wynixe" creationdate="20181213T075302Z">
+        <seg>That is but the Power of Beyonders!</seg>
       </tuv>
     </tu>
     <tu>
