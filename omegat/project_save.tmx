@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20657,8 +20657,8 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       <tuv lang="ZH-CN">
         <seg>第十六章 狗拿耗子</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T151926Z" creationid="niz_ang" creationdate="20181213T151926Z">
-        <seg>Chapter 16 The Play of the Dogs' 'prey'</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T024023Z" creationid="niz_ang" creationdate="20181213T151926Z">
+        <seg>Chapter 16 The Play of the Dogs' 'Prey'</seg>
       </tuv>
     </tu>
     <tu>
