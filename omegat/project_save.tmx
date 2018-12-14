@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12025,8 +12025,8 @@ Even splitting entire mountains, flying freely in the sky, and becoming virtuall
       <tuv lang="ZH-CN">
         <seg>在所有人以为他要正式进入管理层，接手整个公司的时候，陈子新又突然辞职了，申请了出国留学。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T055822Z" creationid="niz_ang" creationdate="20181214T052327Z">
-        <seg>Just when everyone thought he would officially enter the The Management, and took over the whole company, Chen Zixing suddenly resigned and applied to study overseas. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061856Z" creationid="niz_ang" creationdate="20181214T052327Z">
+        <seg>Just when everyone thought he would officially enter the The Management and take over the whole company, Chen Zixing suddenly resigned and applied to study overseas. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14608,8 +14608,8 @@ In other words, other people could beat you up as they fancied. You could always
       <tuv lang="ZH-CN">
         <seg>打算到外面去进修，顺便学习更先进的企业管理理念。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052647Z" creationid="niz_ang" creationdate="20181214T052647Z">
-        <seg>He planned to advance his studies while conveniently acquiring greater knowledge on more advanced business management philosophy.   </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T062052Z" creationid="niz_ang" creationdate="20181214T052647Z">
+        <seg>He planned to advance his studies overseas while conveniently acquiring greater knowledge on the more advanced, business management philosophy.   </seg>
       </tuv>
     </tu>
     <tu>
