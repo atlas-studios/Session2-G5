@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11102,8 +11102,8 @@ Yet, to become a formal member would entail much restriction in freedom, just li
       <tuv lang="ZH-CN">
         <seg>可一想到余越寒的提醒，她咬了咬唇，只是抱紧了怀里的人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T050849Z" creationid="wynixe" creationdate="20181214T050836Z">
-        <seg>But at the thought of Yu Yuehan's reminder, she bit hit lip and hugged the person in her arms tightly. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T064702Z" creationid="wynixe" creationdate="20181214T050836Z">
+        <seg>But at the thought of Yu Yuehan's reminder, she bit her lip and hugged the person in her arms tightly. </seg>
       </tuv>
     </tu>
     <tu>
