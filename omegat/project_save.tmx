@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3093,6 +3093,14 @@ Although the believers under the Lord of the Storms (Lurmi) perceive women in a 
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181202T140514Z" creationid="Joey" creationdate="20180919T065312Z">
         <seg>"Right... report this to the Chief Supervisor, report to the Disciplinary Court, and punish Jiang Yi by giving him the death penalty..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对不起，你没事吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T053506Z" creationid="wynixe" creationdate="20181214T053506Z">
+        <seg>"I'm so sorry! Are you okay?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12306,10 +12314,26 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>她微微一怔，想到这里是上心的休息室，以为是来找上心的，连忙开口，“上心刚走。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T054100Z" creationid="wynixe" creationdate="20181214T054100Z">
+        <seg>Startled, she remembered that this was Shangxin's dressing room and thought that the man was here for Shangxin. She immediately said, "Shangxin had just left."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>她打开其中一个小瓶子，往艳蓝色的烛焰里洒了几滴：</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T074913Z" creationid="wynixe" creationdate="20181213T074913Z">
         <seg>She opened one of the little bottles and dripped a few drops onto the bright blue candle flame. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她抬起头，发现面前站着一个年轻的男子，二十多岁的模样，一身西装笔挺，短发飞扬，长相不算很英俊，却充满那种让人舒服的阳光的味道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T054001Z" creationid="wynixe" creationdate="20181214T054001Z">
+        <seg>She lifted her head up and noticed a young man in his twenties. Dressed in a neat suit, the man had short hair that danced around. He was not exactly charismatic, but he gave off a vibe that was as warm as sunshine. </seg>
       </tuv>
     </tu>
     <tu>
