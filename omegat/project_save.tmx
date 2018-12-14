@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -106,6 +106,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T080023Z" creationid="wynixe" creationdate="20181213T075336Z">
         <seg>“... It's not that you can't... It depends..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……可我只想要小斯哥哥。”上心一提起那个名字，刚收住的眼泪，又开始泛滥。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T051127Z" creationid="wynixe" creationdate="20181214T051127Z">
+        <seg>"But... I only want Brother Yuansi..." as Shangxin mentioned that name,  </seg>
       </tuv>
     </tu>
     <tu>
