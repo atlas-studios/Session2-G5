@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23197,8 +23197,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>这诡异的对比，这古怪的感受，让他身体绷紧，有寒气从尾椎往上。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T023549Z" creationid="wynixe" creationdate="20181213T071414Z">
-        <seg>This strange contrast, this peculiar feeling made him feel tensed. A chill ran up his spine.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T024855Z" creationid="wynixe" creationdate="20181213T071414Z">
+        <seg>This strange contrast, peculiar feeling made him tense up. A chill ran up his spine.</seg>
       </tuv>
     </tu>
     <tu>
