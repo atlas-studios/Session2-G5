@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9472,8 +9472,8 @@ Should he ever dare to head up the Western Hills, he would have no other future 
       <tuv lang="ZH-CN">
         <seg>休息室的门，重新被推开。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T051434Z" creationid="wynixe" creationdate="20181214T051434Z">
-        <seg>The door of the dressing room was pushed open once again. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T062629Z" creationid="wynixe" creationdate="20181214T051434Z">
+        <seg>The door of the dressing room was once again pushed opened. </seg>
       </tuv>
     </tu>
     <tu>
