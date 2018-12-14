@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7043,8 +7043,8 @@ He always felt that the greatest motivation for him—the reason why he could en
       <tuv lang="ZH-CN">
         <seg>一步步的通过自己的努力，短短几年，就成了那个部门的经理。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052110Z" creationid="niz_ang" creationdate="20181214T052110Z">
-        <seg>Step by step, he became the manager of that particular department through his own hard work, in the span of a few short years.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061740Z" creationid="niz_ang" creationdate="20181214T052110Z">
+        <seg>Step by step, he became the manager of that particular department in the span of a few short years, through sheer hard work. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8078,8 +8078,8 @@ As such, he decided to keep the fact that his power was improving by leaps and b
       <tuv lang="ZH-CN">
         <seg>人到中年，有些微胖，却很和蔼。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061047Z" creationid="niz_ang" creationdate="20181214T051034Z">
-        <seg>Middle-aged, the man was a little rotund but very harmonious. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061234Z" creationid="niz_ang" creationdate="20181214T051034Z">
+        <seg>Reaching middle-age, he was a little rotund but very harmonious. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13263,8 +13263,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>尤其提起自己宝贝儿子的时候，那双眼睛都快笑成了一条线，俨然一副好爸爸，以儿子为荣的感觉。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T051400Z" creationid="niz_ang" creationdate="20181214T051400Z">
-        <seg>This was especially so when his dear son was mentioned, where he would smile till his both of his eyes almost become one narrow slit. Very much like a good father, proud of his son. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061327Z" creationid="niz_ang" creationdate="20181214T051400Z">
+        <seg>This was especially so when his dear son was mentioned, where he would smile till his both of his eyes almost become one narrow slit. just like how a good father was proud of his son. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13557,8 +13557,8 @@ This meant his essence force refining speed was an entire thirty times slower th
       <tuv lang="ZH-CN">
         <seg>年小慕也因此听过一些关于陈子新的事情。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T060013Z" creationid="niz_ang" creationdate="20181214T051437Z">
-        <seg>Nian Xiaomu had therefore heard of matters relating to Chen Zixing. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061414Z" creationid="niz_ang" creationdate="20181214T051437Z">
+        <seg>Thus, Nian Xiaomu had heard of matters relating to Chen Zixing. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14706,8 +14706,8 @@ In other words, other people could beat you up as they fancied. You could always
       <tuv lang="ZH-CN">
         <seg>据说他刚成年，就被安排进盛达科技实习，原本是准备空降到某部门当副经理，最后他自己却找了陈总，要求从基层做起。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T051946Z" creationid="niz_ang" creationdate="20181214T051946Z">
-        <seg>It was said that when he just reached adulthood, he was arranged to work as an intern at Shengda Technology. By right, it was prepared for him to work as the deputy manager at some random department. Yet,in the end, he said he wanted to find Mr Chen and start from the most basic level.  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T061703Z" creationid="niz_ang" creationdate="20181214T051946Z">
+        <seg>It was said that when he just reached adulthood, he was arranged to work as an intern at Shengda Technology. By right, it was prepared for him to work directly as the deputy manager at a particular department. Yet,in the end, he said he wanted to find Director Chen and start from scratch.  </seg>
       </tuv>
     </tu>
     <tu>
