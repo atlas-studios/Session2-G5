@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="ZH-CN">
         <seg>6月27日那天，原主果然还是去了韦尔奇的住所，回来的当天夜里就自杀身亡，和韦尔奇、娜娅一模一样！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T035016Z" creationid="wynixe" creationdate="20181211T144825Z">
-        <seg>On 27th June, he indeed still went to Mr Welch's place. On the night that he returned, he killed himself, the exact same way as Welch and Naya did!  </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T014515Z" creationid="wynixe" creationdate="20181211T144825Z">
+        <seg>On 27th June, the former Klein had indeed went to Mr Welch's place. On the night that he returned, he killed himself, the exact same way as Welch and Naya did!  </seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,8 +1361,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“去韦尔奇的住所……”马车夫语气不见起伏地回答。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040248Z" creationid="wynixe" creationdate="20181213T040248Z">
-        <seg>"To Welch's place..." the charioteer answered monotonously. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013135Z" creationid="wynixe" creationdate="20181213T040248Z">
+        <seg>"To Welch's place..." the carriage driver answered monotonously. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2851,8 +2851,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“好的。”车夫扯起了缰绳。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040208Z" creationid="wynixe" creationdate="20181213T040208Z">
-        <seg>“Alrighty.” the charioteer tugged at the reins. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013135Z" creationid="wynixe" creationdate="20181213T040208Z">
+        <seg>“Alrighty.” the carriage driver tugged at the reins. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,8 +3470,8 @@ If you want to move to another city, the first thing you have to do is to find t
       <tuv lang="ZH-CN">
         <seg>“心理素质不错。”灰眸警官邓恩.史密斯不见愤怒也不见微笑地点了点头。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T151845Z" creationid="wynixe" creationdate="20181211T151845Z">
-        <seg>"You sure have a great mental state." the Gray-Eyed Policeman Dunn Smith said while nodding. There was not a trace of anger, nor was he smiling. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013153Z" creationid="wynixe" creationdate="20181211T151845Z">
+        <seg>"You sure have a great mental state." the gray-eyed police inspector Dunn Smith said while nodding. There was not a trace of anger, nor was he smiling. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3736,8 +3736,8 @@ If you want to move to another city, the first thing you have to do is to find t
       <tuv lang="ZH-CN">
         <seg>“我们找到了一个马车夫，他证实你在27日，也就是韦尔奇先生和娜娅女士死亡的当天，去过韦尔奇先生的住所，而且还是韦尔奇先生帮你付的车钱。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T034948Z" creationid="wynixe" creationdate="20181211T142324Z">
-        <seg>"We found a charioteer. He witnessed that on the 27th, which is also the day when Mr Welch and Miss Naya died, you went to Mr Welch's place. Furthermore, Mr Welch was the one who paid for your transportation fees." </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T014240Z" creationid="wynixe" creationdate="20181211T142324Z">
+        <seg>"We found a carriage driver. He witnessed that you had gone to Welch's place on the 27th—also the day when Mr Welch and Miss Naya died. Furthermore, Mr Welch was the one who paid for your transportation fees."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,8 +7927,8 @@ As such, he decided to keep the fact that his power was improving by leaps and b
       <tuv lang="ZH-CN">
         <seg>什么？克莱恩惊愕之中，马车夫转过身体，露出深邃冷漠的灰色眼眸，俨然便是邓恩.史密斯警官！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040323Z" creationid="wynixe" creationdate="20181213T040323Z">
-        <seg>WHAT?! Klein was at a loss for words. The charioteer turned around, exposing his cold gray eyes. It was Dunn Smith, the Gray-Eyed Policeman! </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013153Z" creationid="wynixe" creationdate="20181213T040323Z">
+        <seg>WHAT?! Klein was at a loss for words. The carriage driver turned around, exposing his cold gray eyes. It was Dunn Smith, the gray-eyed police inspector! </seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,8 +8542,8 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       <tuv lang="ZH-CN">
         <seg>他拉开房门，看见了昨天那位有着灰色眼眸的警官。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T141834Z" creationid="wynixe" creationdate="20181211T141711Z">
-        <seg>As he opened the door, the Gray-Eyed Policeman whom he had met the day before stood in front of him.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013116Z" creationid="wynixe" creationdate="20181211T141711Z">
+        <seg>He opened the door to see the gray-eyed police inspector whom he had met the day before standing in front of him.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9751,8 +9751,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>克莱恩怔了一下，丝毫没有谎言被揭穿的惊恐和心虚。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T143839Z" creationid="wynixe" creationdate="20181211T143839Z">
-        <seg>Klein was startled. He did not feel a tinge of fear or guilt as if his lies were being exposed.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T014320Z" creationid="wynixe" creationdate="20181211T143839Z">
+        <seg>Klein was startled. He did not feel a tinge of fear or guilt that one would expect from having his lies exposed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10569,8 +10569,8 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       <tuv lang="ZH-CN">
         <seg>原主遗忘的知识不算多，也绝对不少，后天就要面试了，哪有时间补得上来……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T034749Z" creationid="wynixe" creationdate="20181211T133432Z">
-        <seg>The amount of content Klein had forgotten was not too much, yet it was definitely not little as well. The interview is in two days, how will he find time to make up for it...?</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T012626Z" creationid="wynixe" creationdate="20181211T133432Z">
+        <seg>The amount of content Klein had forgotten was not too much, but neither was is negligible. The interview is in two days, so how could he find the time to make up for it...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11551,8 +11551,8 @@ Zhou Mingrui gulped a mouthful of saliva and smiled.</seg>
       <tuv lang="ZH-CN">
         <seg>因为他根本不是在撒谎，反倒感觉灰眸警官邓恩.史密斯提供的证据不出自身的预料。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T144007Z" creationid="wynixe" creationdate="20181211T144007Z">
-        <seg>It was because, he was not even lying. In fact, he was unsurpised by the evidence provided by Dunn Smith the Gray-Eyed Policeman.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T014359Z" creationid="wynixe" creationdate="20181211T144007Z">
+        <seg>It was because he was not even lying. In fact, he was surpised by the evidence provided by Dunn Smith.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14041,8 +14041,8 @@ In other words, other people could beat you up as they fancied. You could always
       <tuv lang="ZH-CN">
         <seg>扭开房门，他来到昏暗的过道上，就着微弱难辨的月光，脚步很轻地靠近公用盥洗室。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040457Z" creationid="wynixe" creationdate="20181213T040457Z">
-        <seg>He opened the door and walked along the dark aisle. Under the dim moonlight, he walked lightly towards the washroom.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T014012Z" creationid="wynixe" creationdate="20181213T040457Z">
+        <seg>He opened the door and walked along the dark corridor. Under the dim moonlight, he walked lightly towards the washroom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14305,8 +14305,8 @@ Despite this, after researching for a single day, no matter what ideas he could 
       <tuv lang="ZH-CN">
         <seg>敷衍了妹妹几句，克莱恩开始装模作样读书，梅丽莎搬了椅子，坐在旁边，借着煤气灯的光芒做起了作业。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T134939Z" creationid="wynixe" creationdate="20181211T134510Z">
-        <seg>Klein gave her sister a superficial response and began studying pretentiously. Melissa brought a chair over to sit beside him. With light shining from the gas lamp, she began on her assignments. </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T012939Z" creationid="wynixe" creationdate="20181211T134510Z">
+        <seg>Klein gave her sister a perfunctory response and began putting on the appearance of studying. Melissa moved a chair over to sit beside him. With light shining from the gas lamp, she began on her assignments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19466,24 +19466,24 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       <tuv lang="ZH-CN">
         <seg>灰眸警官表情严肃地回答：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T150424Z" creationid="wynixe" creationdate="20181211T141829Z">
-        <seg>Gray-Eyed Policeman replied with a stern look,</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013510Z" creationid="wynixe" creationdate="20181211T141829Z">
+        <seg>The gray-eyed police inspector replied with a stern look.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>灰眸警官邓恩安静听完，沉缓开口：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T035224Z" creationid="wynixe" creationdate="20181213T035224Z">
-        <seg>Gray-Eyed Policeman listened quietly, then began</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013153Z" creationid="wynixe" creationdate="20181213T035224Z">
+        <seg>gray-eyed police inspector listened quietly, then began</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>灰眸警官邓恩没有往前，抽了下嘴角道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T154131Z" creationid="wynixe" creationdate="20181211T154131Z">
-        <seg>Gray-Eyed Policeman did not move forward. He flinched and asked, </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013153Z" creationid="wynixe" creationdate="20181211T154131Z">
+        <seg>gray-eyed police inspector did not move forward. He flinched and asked, </seg>
       </tuv>
     </tu>
     <tu>
@@ -20235,8 +20235,8 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       <tuv lang="ZH-CN">
         <seg>突然，他看到走廊尽头的窗户前站了一道人影。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040510Z" creationid="wynixe" creationdate="20181213T040510Z">
-        <seg>Suddenly, he noticed a silhouette outside the window at the end of the aisle.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T013521Z" creationid="wynixe" creationdate="20181213T040510Z">
+        <seg>Suddenly, he noticed a silhouette outside the window at the end of the corridor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21426,8 +21426,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>而且还卷入了诡异恐怖的事件，怎么可能有心思去“复习”……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181211T133925Z" creationid="wynixe" creationdate="20181211T133549Z">
-        <seg>Furthermore, he was involved in such strange paranormal activity, how will he have the heart to "revise"? </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T012713Z" creationid="wynixe" creationdate="20181211T133549Z">
+        <seg>Furthermore, he was involved in such strange paranormal activity, so how was it possible of him to have the mood for "revision"? </seg>
       </tuv>
     </tu>
     <tu>
@@ -23337,14 +23337,6 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T073419Z" creationid="wynixe" creationdate="20181213T073419Z">
         <seg>Dunn Smith sighed,</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="ZH-CN">
-        <seg>邓恩.史密斯步入车厢，坐到之前的位置，表情和语气都保持着平常：</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181211T144545Z" creationid="niz_ang" creationdate="20181211T144545Z">
-        <seg> </seg>
       </tuv>
     </tu>
     <tu>
