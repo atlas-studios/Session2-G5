@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -364,6 +364,14 @@ Zhou Mingrui guessed as he turned around and walked towards a cracked dressing m
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T062722Z" creationid="USER" creationdate="20180803T030731Z">
         <seg>"Undying Netherworld King!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不用不用，这些事都是我应该做的……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053553Z" creationid="niz_ang" creationdate="20181214T053553Z">
+        <seg>" No need, no need. These are things that I'm supposed to do."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,6 +1199,14 @@ Zhou Mingrui could not help but frown.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181213T213215Z" creationid="AoIeongFamily" creationdate="20181213T213215Z">
         <seg>"Actually, we have other signboards." Dunn pulled out a piece of paper from the drawer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“其实，我是有私心的。”陈子新打断了她拒绝的话，往前走了一步。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053703Z" creationid="niz_ang" creationdate="20181214T053703Z">
+        <seg>" Actually, I do have vested interest in this." Chen Zixing interrupted her rejection and took a step forward. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3818,14 @@ If you want to move to another city, the first thing you have to do is to find t
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T143626Z" creationid="niz_ang" creationdate="20181212T040622Z">
         <seg>" Can I consider this?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我听说，这次的发布会，全都是你负责的，就连上心会答应盛达科技的代言，也是因为你。”陈子新目光灼灼的看着她，很温和的询问，“我想要请你吃饭，当作是感谢，不知道年主管有没有时间？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053505Z" creationid="niz_ang" creationdate="20181214T053505Z">
+        <seg>"I heard, you're responsible for this conference. Even Shangxin agreed to advertise for Shengda Technology because of you." Chen Zixing gave an intense gaze, and inquired gently," I would like to treat you to a meal as a form of appreciation. The Year Supervisor, are you free?"   </seg>
       </tuv>
     </tu>
     <tu>
@@ -8557,6 +8581,14 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180918T194511Z" creationid="Joey" creationdate="20180918T194511Z">
         <seg>He was well aware that if he wanted to come out of the Western Hills completely unscathed that day, he had no other option but to take down Jiang Ruhu and thereby deter the rest from attacking. He had already used up three wisps of his black essence forces. Once he completely consumed all of his black essence forces, he would have no other ending but be resigned to being hit to death. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他很高，站在年小慕面前，身影完全将她笼罩住了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053814Z" creationid="niz_ang" creationdate="20181214T053814Z">
+        <seg>He was very tall. Standing in front of Nian Xiaomu, his shadow had completely shrouded her. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13687,6 +13719,14 @@ Yet I’ll also lose my freedom, and even, be in a constant state of fear and an
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062510Z" creationid="USER" creationdate="20180809T103024Z">
         <seg>Evidently, the housekeeper must have seen Xiaonu and thought that, though she was skinny, weak and pale-faced, she still had exquisite and pretty facial features; as such, he was ready to groom her for a few years before using her to receive guests. Thus, he deliberately set up a trap to make her sell herself to this brothel, and in turn, help them earn dirty money after a few years. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>微微垂眸，很认真的看着她，神色看起来有点紧张，像是准备告白一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053931Z" creationid="niz_ang" creationdate="20181214T053931Z">
+        <seg>Slightly drooping, staring seriously at her, anxiety colored his countenance, as if he was preparing to confess.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19607,6 +19647,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T024649Z" creationid="Jeremy" creationdate="20181208T024649Z">
         <seg>There was no sawdust or excessive gluten mixed in, but it was unappetizing…  Zhou Mingrui was still feeling weak and he was starving. With the tea, he forced himself to swallow the bread while complaining inwardly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>没等他开口，年小慕眼角的余光突然瞥见拐弯处站在一个人，下意识的喊出声，“寒少。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T054050Z" creationid="niz_ang" creationdate="20181214T054050Z">
+        <seg>Without waiting for him to speak, Nian Xiaomu's peripheral vision glided to a person standing at the turning point, and subconsciously shouted, </seg>
       </tuv>
     </tu>
     <tu>
