@@ -3985,8 +3985,8 @@ If you want to move to another city, the first thing you have to do is to find t
       <tuv lang="ZH-CN">
         <seg>“戴莉，这是克莱恩.莫雷蒂，你试试能从他这里发现点什么。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T073456Z" creationid="wynixe" creationdate="20181213T073456Z">
-        <seg>“Darley, this is Klein Moretti. Try if you can get anything out of him.”</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T024306Z" creationid="wynixe" creationdate="20181213T073456Z">
+        <seg>“Darley, this is Klein Moretti. Try to see if you can get anything out of him.”</seg>
       </tuv>
     </tu>
     <tu>
