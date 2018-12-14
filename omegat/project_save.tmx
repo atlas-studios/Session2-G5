@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6909,6 +6909,14 @@ He then spoke,"Those boring knowledge always makes people want to sleep, even fo
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一双漂亮的眼睛，扑簌扑簌，很吸引人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053200Z" creationid="niz_ang" creationdate="20181214T053200Z">
+        <seg>A pair of beautiful-looking eyes, trickling and attractive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一名带着野猪面具的武者，立即起身朝练功房内走去，很快房门关闭，里面隐约响起打斗声，还有那少女的娇喝声。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152738Z" creationid="Joey" creationdate="20180911T211912Z">
@@ -6939,6 +6947,14 @@ He always felt that the greatest motivation for him—the reason why he could en
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T060927Z" creationid="Joey" creationdate="20180813T100406Z">
         <seg>A Man-tier superior-grade elixir pill was worth ten taels of silver. Ten pills were worth a hundred taels—or one tael of purple gold. If he could produce a hundred Man-tier superior-grade elixirs within a month's time, wouldn't he be able to easily return the enormous debt to the people of Fengyue Brothel? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一步步的通过自己的努力，短短几年，就成了那个部门的经理。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052110Z" creationid="niz_ang" creationdate="20181214T052110Z">
+        <seg>Step by step, he became the manager of that particular department through his own hard work, in the span of a few short years.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11773,6 +11789,14 @@ Even splitting entire mountains, flying freely in the sky, and becoming virtuall
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在所有人以为他要正式进入管理层，接手整个公司的时候，陈子新又突然辞职了，申请了出国留学。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052327Z" creationid="niz_ang" creationdate="20181214T052327Z">
+        <seg>Just when everyone thought he would officially enter the The Management, and took over the whole company, Chen ZIxin suddenly resigned and applied to study overseas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>在旁人耳中，这两者几乎表达一样的意思，但实际上截然不同。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181213T035158Z" creationid="wynixe" creationdate="20181213T035158Z">
@@ -12939,6 +12963,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>尤其提起自己宝贝儿子的时候，那双眼睛都快笑成了一条线，俨然一副好爸爸，以儿子为荣的感觉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T051400Z" creationid="niz_ang" creationdate="20181214T051400Z">
+        <seg>This was especially so when his dear son was mentioned, where he would smile till his both of his eyes almost become one narrow slit. Very much like a good father, proud of his son. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>就仿佛，这个谁也不知道姓名的人从来就没有出现在这天地间一般。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005958Z" creationid="USER" creationdate="20180804T040249Z">
@@ -13217,6 +13249,14 @@ This meant his essence force refining speed was an entire thirty times slower th
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>年小慕也因此听过一些关于陈子新的事情。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T051437Z" creationid="niz_ang" creationdate="20181214T051437Z">
+        <seg>Nian Xiaomu had therefore heard of matters relating to Chen Zixing. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>年小慕几乎要脱口而出，告诉她，今天去救了她的人，就是唐原斯。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181214T050529Z" creationid="wynixe" creationdate="20181214T050529Z">
@@ -13229,6 +13269,14 @@ This meant his essence force refining speed was an entire thirty times slower th
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T050716Z" creationid="niz_ang" creationdate="20181214T050716Z">
         <seg>Nian Xiaomu regained his senses, gave a smile and said," So, you're the younger Mr Chen. Nice to meet you. Why do you want to see me?"  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕握了一下他的手，很快就松开了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052804Z" creationid="niz_ang" creationdate="20181214T052652Z">
+        <seg>Nian Xiaomu shook his hands lightly, and let it go quickly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14172,6 +14220,14 @@ In other words, other people could beat you up as they fancied. You could always
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>打算到外面去进修，顺便学习更先进的企业管理理念。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052647Z" creationid="niz_ang" creationdate="20181214T052647Z">
+        <seg>He planned to advance his studies while conveniently acquiring greater knowledge on more advanced business management philosophy.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>扫了一眼，江逸很快就意味索然了，这武殿是在招收陪练武者。待遇倒是很诱人，铜牌陪练一天一两银子，银牌陪练一天十两，金牌陪练甚至达到了一两紫金一天。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T143647Z" creationid="USER" creationdate="20180816T062607Z">
@@ -14266,6 +14322,14 @@ In other words, other people could beat you up as they fancied. You could always
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T014153Z" creationid="USER" creationdate="20180807T080525Z">
         <seg>According to the Grand Elder, his mother bought Xiaonu as a maid to serve him when he was one years old. Although her status was just a maid in the household, Xiaonu was never treated like one—she grew up together with Jiang Yi like a sibling. After the disappearance of the Grand Elder, each depended on the other for survival. If not for Xiaonu's constant encouragement, it would have been hard for Jiang Yi to endure the difficult times. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>据说他刚成年，就被安排进盛达科技实习，原本是准备空降到某部门当副经理，最后他自己却找了陈总，要求从基层做起。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T051946Z" creationid="niz_ang" creationdate="20181214T051946Z">
+        <seg>It was said that when he just reached adulthood, he was arranged to work as an intern at Shengda Technology. By right, it was prepared for him to work as the deputy manager at some random department. Yet,in the end, he said he wanted to find Mr Chen and start from the most basic level.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -20022,6 +20086,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>直到今天才回来……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T052713Z" creationid="niz_ang" creationdate="20181214T052713Z">
+        <seg>He only came back today.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>直到这个时候，他才发现自己亚麻衬衣的背部不知什么时候全是汗水，冰凉湿腻。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181214T023717Z" creationid="niz_ang" creationdate="20181212T054559Z">
@@ -20427,6 +20499,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180815T093657Z" creationid="USER" creationdate="20180804T031930Z">
         <seg>Suddenly, a loud explosion sounded from the fire as Celestial Thearch's sword broke into tiny shards and shot out in all directions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>笑得像只小狐狸，是标准的公关式笑容，礼貌又疏离。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053002Z" creationid="niz_ang" creationdate="20181214T053002Z">
+        <seg>With a smile that resembled a fox, this was the standard smile used in public relations, courteous yet distant.  </seg>
       </tuv>
     </tu>
     <tu>
