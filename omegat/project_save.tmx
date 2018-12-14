@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6380,11 +6380,13 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
     </tu>
     <tu>
+      <note>Bad: can make dialogues more natural (seg 1139)
+</note>
       <tuv lang="ZH-CN">
         <seg>“重新认识一下，值夜者，邓恩.史密斯。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T193119Z" creationid="AoIeongFamily" creationdate="20181211T093033Z">
-        <seg>"Reintroducing myself, Night-Watchman, Dunn Smith."</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T022840Z" creationid="AoIeongFamily" creationdate="20181211T093033Z">
+        <seg>"Allow me to reintroducing myself, Night-Watchman, Dunn Smith."</seg>
       </tuv>
     </tu>
     <tu>
@@ -23582,8 +23584,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>那人影取下黑色礼帽，幅度很小地鞠了一躬，低沉微笑道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181211T092630Z" creationid="AoIeongFamily" creationdate="20181211T092503Z">
-        <seg>The silhouette took down his black top hat and bowed a little, and he said with a smile, </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T022549Z" creationid="AoIeongFamily" creationdate="20181211T092503Z">
+        <seg>The silhouette took down his black top hat and bowed slightly, and he said with a smile, </seg>
       </tuv>
     </tu>
     <tu>
