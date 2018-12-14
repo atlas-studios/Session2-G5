@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -591,8 +591,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“也就是说，只要成为你们的文职人员，就可以了解相关的秘密，弄清楚非凡者的隐患和可能遭遇的危险，之后再考虑是否成为非凡者的问题？”克莱恩边整理思路，边用自己的话语重新描述了一遍对方的意思。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T135348Z" creationid="niz_ang" creationdate="20181211T151836Z">
-        <seg>"In other words, as long as I become your civilian staff member, I will be able to understand the relevant secrets, figure out the hidden dangers of the Beyonders and the dangers that may be encountered, as well as consider whether I want to become the Beyonder or not later,"Klein reorganized his thoughts and re-described the meaning of the other party in his own words."
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T015100Z" creationid="niz_ang" creationdate="20181211T151836Z">
+        <seg>"In other words, as long as I become your civilian staff member, I will be able to understand the relevant secrets, figure out the hidden dangers of the Beyonders and the dangers that may be encountered, as well as consider if I want to become the Beyonder later," Klein reorganized his thoughts and re-described the meaning of the other party in his own words.
 
 </seg>
       </tuv>
@@ -797,8 +797,8 @@ Zhou Mingrui could not help but frown.</seg>
       <tuv lang="ZH-CN">
         <seg>“你大概误会了，我们的一员包括文职者。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T124816Z" creationid="niz_ang" creationdate="20181211T151702Z">
-        <seg>"You probably misunderstood. A member of us includes civilian staffs."</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T015025Z" creationid="niz_ang" creationdate="20181211T151702Z">
+        <seg>"You probably misunderstood it. Becoming a member of us includes civilian staffs."</seg>
       </tuv>
     </tu>
     <tu>
@@ -4260,8 +4260,8 @@ If you want to move to another city, the first thing you have to do is to find t
       <tuv lang="ZH-CN">
         <seg>“是这样，除了一点，那就是并非你考虑成为非凡者，就一定能成为，在这方面，各大教会都同样的严格。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T130247Z" creationid="niz_ang" creationdate="20181211T152921Z">
-        <seg>"Yes, this is the case. Except for one point, that is, you considering to become the Beyonder may not always be granted, because every church will be equally strict in this aspect."</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T015158Z" creationid="niz_ang" creationdate="20181211T152921Z">
+        <seg>"Yeah, that's the case. Except for one point. That is, you considering to become the Beyonder may not always be granted, because every church will be equally strict in this aspect."</seg>
       </tuv>
     </tu>
     <tu>
@@ -23327,8 +23327,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩.史密斯再次拿出烟斗，就这样放在鼻端吸了一口：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T124710Z" creationid="niz_ang" creationdate="20181211T151259Z">
-        <seg>Dunn Smith took out the pipe once again, placed it against his nose and took a breath.</seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T014919Z" creationid="niz_ang" creationdate="20181211T151259Z">
+        <seg>Dunn Smith took out the pipe again, placed it against his nose and took a breath.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23495,8 +23495,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩笑了笑道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181213T140544Z" creationid="niz_ang" creationdate="20181211T152714Z">
-        <seg>Dunn smiled and said,". </seg>
+      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T015106Z" creationid="niz_ang" creationdate="20181211T152714Z">
+        <seg>Dunn smiled and said,</seg>
       </tuv>
     </tu>
     <tu>
