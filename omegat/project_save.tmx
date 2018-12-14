@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7874,6 +7874,14 @@ As such, he decided to keep the fact that his power was improving by leaps and b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>人到中年，有些微胖，却很和蔼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T051034Z" creationid="niz_ang" creationdate="20181214T051034Z">
+        <seg>While the middle-aged Mr Chen was a little rotund, he was very harmonious-looking. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>人吓人，能吓死人！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063152Z" creationid="USER" creationdate="20180810T061103Z">
@@ -13125,6 +13133,14 @@ This meant his essence force refining speed was an entire thirty times slower th
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181214T050529Z" creationid="wynixe" creationdate="20181214T050529Z">
         <seg>Nian Xiaomu almost blurted out to her that the person who rescued her today was Tang Yuansi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕回过神，连忙扬起笑，“原来是小陈总，幸会幸会，不知道你找我，有什么事吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T050716Z" creationid="niz_ang" creationdate="20181214T050716Z">
+        <seg>Nian Xiaomu regained his senses, gave a smile and said," So, you're the younger Mr Chen. Nice to meet you. Why do you want to see me?"  </seg>
       </tuv>
     </tu>
     <tu>
@@ -19866,6 +19882,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T060451Z" creationid="Jeremy" creationdate="20181208T044124Z">
         <seg>The corridor in the day remained dim as limited sunlight shone in from the window situated at the end of the corridor. Zhou Mingrui quickly went down the stairs and left the apartment before taking in the brilliance and warmth of the sun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>盛达科技的陈总，年小慕见过一次。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T050853Z" creationid="niz_ang" creationdate="20181214T050853Z">
+        <seg>Nian Xiaomu had met Shengda Technology's Mr Chen once.</seg>
       </tuv>
     </tu>
     <tu>
