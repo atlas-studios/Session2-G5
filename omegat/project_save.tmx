@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7346,8 +7346,8 @@ If he had a large number of elixirs and continued relying on black essence force
       <tuv lang="ZH-CN">
         <seg>不多时，克莱恩跑到了街口，拐入了铁十字街，那里停着几辆可雇佣的马车。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T040135Z" creationid="wynixe" creationdate="20181213T040135Z">
-        <seg>Not long after, Klein arrived at a street and made a turn into Iron Cross Street. There were several chariots that could be hailed. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T021400Z" creationid="wynixe" creationdate="20181213T040135Z">
+        <seg>Not long after, Klein arrived at a street and made a turn into Iron Cross Street. There were several  that could be hailed. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15253,8 +15253,8 @@ With that thought, Zhou Mingrui went closer.</seg>
       <tuv lang="ZH-CN">
         <seg>正对大门的是可供两辆马车行驶的通路，铺着水泥，直通两层房屋。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T071047Z" creationid="wynixe" creationdate="20181213T071047Z">
-        <seg>Facing the main entrance was a cemented road that led straight to two stratum of houses. Two chariots could go at once. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T021400Z" creationid="wynixe" creationdate="20181213T071047Z">
+        <seg>Facing the main entrance was a cemented road that led straight to two stratum of houses. Two  could go at once. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22301,8 +22301,8 @@ Both his palms produced terrifying black discs, which he viciously unleashed on 
       <tuv lang="ZH-CN">
         <seg>踩着昏黄覆盖的道路，克莱恩和邓恩.史密斯通过半掩的铁门，进入了韦尔奇租住的地方。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T013909Z" creationid="wynixe" creationdate="20181213T071002Z">
-        <seg>Walking along the pathway covered by rays from the sunset, Klein and Dunn Smith entered Welch's rented residence through the metal gate that was left ajar.  </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T022054Z" creationid="wynixe" creationdate="20181213T071002Z">
+        <seg>Walking on the dimly-lit pathway, Klein and Dunn Smith entered Welch's rented residence through the metal gate that was left ajar.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -23516,8 +23516,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>邓恩轻笑了一声，灰色眼眸被马车阴影所遮掩：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T075504Z" creationid="wynixe" creationdate="20181213T075439Z">
-        <seg>Dunn laughed lightly, his gray eyes were hidden in the shadow of the chariots.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T021400Z" creationid="wynixe" creationdate="20181213T075439Z">
+        <seg>Dunn laughed lightly, his gray eyes were hidden in the shadow of the .</seg>
       </tuv>
     </tu>
     <tu>
@@ -24179,8 +24179,10 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>韦尔奇在廷根的住所是一幢有花园的独栋房屋，镂空的铁门外是能让四辆马车同时行驶的道路，道路两侧每隔五十米就有一个路灯，它们与克莱恩上辈子见过的不同，属于煤气灯，柱子高度略等于成年男子，方便点火照明。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T021321Z" creationid="wynixe" creationdate="20181213T070848Z">
-        <seg>Welch's residence in Tingen is a detached house with a garden. The road outside the fretwork gates could allow four chariots to go at once. Street lamps lined up both sides of the road every fifty metres. They looked different from the ones Klein had seen in his previous life. They were considered gas lamps and the height of every lamp was about that of an adult male. It was convenient to light up the lamps. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T021737Z" creationid="wynixe" creationdate="20181213T070848Z">
+        <seg>Welch's residence in Tingen is a detached house with a garden. The road outside the fretwork gates could allow four carriages to go at once. For every fifty meters on both side of the road,there would be one streetlight. 
+
+They looked different from the ones Klein had seen in his previous life. They were considered gas lamps and the height of every lamp was about that of an adult male, making it convenient to light up the lamps. </seg>
       </tuv>
     </tu>
     <tu>
@@ -24571,8 +24573,12 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>黑色的金属紧贴着玻璃，围出了栅格，铸造出一盏盏提灯似的古典“艺术品”，冰冷与温暖共舞，阴影和光明同在。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T013502Z" creationid="wynixe" creationdate="20181213T070956Z">
-        <seg>The black metal was closely appressed to the glass, forming a raster pattern, casting out classical paper lantern-like "artworks". Coldness and warmth intertwined. Darkness and light coexisted. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T021839Z" creationid="wynixe" creationdate="20181213T070956Z">
+        <seg>The black metal was closely appressed to the glass, forming a raster pattern, casting out classical paper lantern-like "artworks". 
+
+Coldness and warmth intertwined. 
+
+Darkness and light coexisted. </seg>
       </tuv>
     </tu>
     <tu>
