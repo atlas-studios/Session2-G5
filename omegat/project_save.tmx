@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12615,8 +12615,8 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>客厅吊灯没有被点亮，一主两副格局的皮制沙发环绕着大理石制成的茶几。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T072035Z" creationid="wynixe" creationdate="20181213T072035Z">
-        <seg>The chandelier in the living room was unlit. A set of two leather couches surrounded a marble coffee table. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T020005Z" creationid="wynixe" creationdate="20181213T072035Z">
+        <seg>The chandelier in the living room was unlit. A set of leather couch with two sets of designs surrounded a marble coffee table. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14590,8 +14590,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>有着妖异美感的“通灵者”戴莉，用闪烁碧绿的眼眸扫过克莱恩，望向邓恩.史密斯道：</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T014937Z" creationid="wynixe" creationdate="20181213T073223Z">
-        <seg>Darley, the "Psychic" with odd beauty, took a quick glance at Klein with her shining emerald eyes. She looked at Dunn Smith and said ,</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T020534Z" creationid="wynixe" creationdate="20181213T073223Z">
+        <seg>Darley, the "Psychic" with monstrous beauty, took a sweeping glance  at Klein with her shiny emerald eyes before looking at Dunn Smith and said ,</seg>
       </tuv>
     </tu>
     <tu>
@@ -19928,8 +19928,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>看到她的第一眼，克莱恩就有种莫名的感受：打扮得像个真正的通灵者……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T073140Z" creationid="wynixe" creationdate="20181213T073140Z">
-        <seg>From the first look of it, Klein had an unspeakable feeling: she dressed like a real psychic...</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T015837Z" creationid="wynixe" creationdate="20181213T073140Z">
+        <seg>At the first sight of her, Klein had an inexplicable feeling: she dressed like a real psychic...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21649,8 +21649,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>茶几之上燃着一根蜡烛，可灯焰却泛出艳蓝，将半开放式布局的客厅、餐厅和厨房都蒙上了一层摇曳诡异的色彩。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T131105Z" creationid="wynixe" creationdate="20181213T072052Z">
-        <seg>On the table was a lit candle, but the light emitted a cobalt blue glow. It covered the half enclosed living room, dining room and kitchen in a strange and eerie shade. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T020056Z" creationid="wynixe" creationdate="20181213T072052Z">
+        <seg>On the table was a lit candle, but the light emitted a cobalt blue glow. It covered the half enclosed living room, the dining room and the kitchen in a strange and eerie shade. </seg>
       </tuv>
     </tu>
     <tu>
@@ -23985,8 +23985,8 @@ People held wooden wine glasses and surrounded it, sometimes discussing loudly w
       <tuv lang="ZH-CN">
         <seg>长沙发正中坐有一位女士，她穿着戴兜帽的黑袍，涂抹着蓝色的眼影和腮红，露在外面的手腕处缠绕着挂有白水晶吊坠的银链。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181213T080155Z" creationid="wynixe" creationdate="20181213T072105Z">
-        <seg>In the middle of the sofa sat a lady in a hooded black robe who wore blue eyeshadow and blush. Revealed on her wrist, was a silver bracelet with a white crystal pendant. </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T020416Z" creationid="wynixe" creationdate="20181213T072105Z">
+        <seg>In the middle of the sofa sat a lady in a hooded black robe, wearing blue eyeshadow and blush. On her revealed wrist, worn a silver bracelet with a white crystal pendant. </seg>
       </tuv>
     </tu>
     <tu>
