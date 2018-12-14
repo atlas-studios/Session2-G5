@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7139,6 +7139,14 @@ He always felt that the greatest motivation for him—the reason why he could en
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一路上，空气都格外的安静。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T061251Z" creationid="AoIeongFamily" creationdate="20181214T061251Z">
+        <seg>On the way, even the air was exceptionally clean.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一路前行，当周围人群密度恢复正常后，周明瑞重新挺直腰背，抬高脑袋，看向街头。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181208T045238Z" creationid="Jeremy" creationdate="20181208T045238Z">
@@ -13539,10 +13547,26 @@ This meant his essence force refining speed was an entire thirty times slower th
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>年小慕一边在心里扎小人，一边爬到驾驶座。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T060943Z" creationid="AoIeongFamily" creationdate="20181214T060943Z">
+        <seg>Nian Xiaomu climbed onto the driver's seat as she grumbled internally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>年小慕也因此听过一些关于陈子新的事情。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="wynixe" changedate="20181214T060013Z" creationid="niz_ang" creationdate="20181214T051437Z">
         <seg>Nian Xiaomu had therefore heard of matters relating to Chen Zixing. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>年小慕偷偷从后视镜瞥了一眼坐在车后座的男人，见他没睡觉，只是冷着脸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T061517Z" creationid="AoIeongFamily" creationdate="20181214T061517Z">
+        <seg>Nian Xiaomu stole a glance at the man at the backseat through the rear window. He did not sleep, just with a cold face.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21704,6 +21728,14 @@ When she saw Jiang Yi enter, she hurriedly and nervously asked, "Young Master, w
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20181211T021958Z" creationid="Jeremy" creationdate="20181208T021808Z">
         <seg>There were many aspects he faced which were similar. Klein nearly gave his all and often stayed up late into the night and woke up early before barely managing to catch up to the others, eventually allowing him to graduate with average results.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>系好安全带，老实的当一个称职的司机，拉着他回余家别墅。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T061158Z" creationid="AoIeongFamily" creationdate="20181214T061158Z">
+        <seg>Put on the seatbelt, be an earnest and competent chauffeur, and pull him back to the Yu family villa.</seg>
       </tuv>
     </tu>
     <tu>
