@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8004,6 +8004,14 @@ As such, he decided to keep the fact that his power was improving by leaps and b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>于是，脑海里就浮现出了上心离开时，强打精神的样子，忍不住问道，“少爷，你跟唐原斯是不是认识？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T062015Z" creationid="AoIeongFamily" creationdate="20181214T062015Z">
+        <seg>Thus, the scene of Shangxin putting on a brave face as she left came up to her mind. She can't help but ask, "Young master, do you know Tang Yuansi?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>于是，这“星辰”也跟着大放光明。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T150220Z" creationid="jingh" creationdate="20181208T182932Z">
@@ -12488,6 +12496,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T144837Z" creationid="jingh" creationdate="20181208T064212Z">
         <seg>Then, she picked the third card and put it on the right side of Zhou Mingrui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她小脑袋瓜转了转，觉得应该想个别的话题，来转移注意力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T061817Z" creationid="AoIeongFamily" creationdate="20181214T061817Z">
+        <seg>Her thought quickly with her little brain, feeling that she should change the subject and divert the focus.</seg>
       </tuv>
     </tu>
     <tu>
