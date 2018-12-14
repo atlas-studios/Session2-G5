@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2775,8 +2775,10 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“好吧，你就当是一种幽默的说法，第二，你是霍伊大学历史系的毕业生，这是我们非常需要的，虽然卢尔弥这个风暴之主的信徒对女性的态度让人厌恶，但他在社会、人文、经济和政治上的观点依然犀利，他说过，人才是保持竞争优势和良好发展的关键因素，这一点，我很认同。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="wynixe" changedate="20181214T020150Z" creationid="niz_ang" creationdate="20181211T162621Z">
-        <seg>" Alright, just treat this as a humorous statement. Secondly, you're a graduate of the history department from Khoy University, this is what we really need. Although the believers under the Lord of the Storms(Lurmi) perceive women in a way that is loathsome, Lurmi's views regarding the society, humanities, economics and politics remain sharp. He had once said that talent is key to maintaining a competitive advantage and desirable development. On this, I very much agree with." </seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T042953Z" creationid="niz_ang" creationdate="20181211T162621Z">
+        <seg>" Alright, just treat this as a humorous statement. Secondly, you're a graduate of the history department from Khoy University, this is what we really need. 
+
+Although the believers under the Lord of the Storms(Lurmi) perceive women in a way that is loathsome, Lurmi's views regarding the society, humanities, economics and politics remain sharp. He had once said that talent is key to maintaining a competitive advantage and desirable development. On this, I very much agree with." </seg>
       </tuv>
     </tu>
     <tu>
