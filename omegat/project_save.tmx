@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3280,6 +3280,14 @@ If you want to move to another city, the first thing you have to do is to find t
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180909T111823Z" creationid="USER" creationdate="20180812T051554Z">
         <seg>"A young man? "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“少拿小六六当借口，你刚才发什么疯，那是盛达科技的太子爷，人家主动跟我说话，我一声招呼都没打，就没礼貌的跑了……”年小慕双手叉腰，气势汹汹的准备讨个说法。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T053256Z" creationid="AoIeongFamily" creationdate="20181214T053256Z">
+        <seg>"Quit using Xiao Liu Liu as an excuse. Why were you mad just now? That was Shengda Technology's next successor who initiated it, I didn't even greet him </seg>
       </tuv>
     </tu>
     <tu>
@@ -19603,6 +19611,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>淡漠的语气，仿佛刚才所有的不正常，都是因为关心女儿。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T052352Z" creationid="AoIeongFamily" creationdate="20181214T052352Z">
+        <seg>The tone was indifferent, as if all the unnatural reactions before are due to his concern for his daughter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>深吸口气，周明瑞来到房间中央，先平静了几分钟，接着才凝重迈步，逆时针走正方形。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181209T145458Z" creationid="jingh" creationdate="20181208T164622Z">
@@ -20305,6 +20321,14 @@ Zhou Mingrui, who was not unfamiliar with similar encounters, tried his best to 
       </tuv>
       <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T012954Z" creationid="wynixe" creationdate="20181213T070815Z">
         <seg>The real Psychic... Klein said inwardly, and never spoke again. He followed Dunn Smith down the chariot. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>眼前男人的脸，瞬间缓和下来，被骂了也不计较，声音依旧四平八稳，“管家说小六六不肯先吃饭，非要等你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T052107Z" creationid="AoIeongFamily" creationdate="20181214T052107Z">
+        <seg>The face of the man in front eased instantly. He disregarded the scolding and said with his steady voice, "The housekeeper said that Xiao Liu Liu insist on waiting for you before eating lunch."</seg>
       </tuv>
     </tu>
     <tu>
