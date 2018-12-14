@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14031,8 +14031,8 @@ Yet I’ll also lose my freedom, and even, be in a constant state of fear and an
       <tuv lang="ZH-CN">
         <seg>微微垂眸，很认真的看着她，神色看起来有点紧张，像是准备告白一样。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T053931Z" creationid="niz_ang" creationdate="20181214T053931Z">
-        <seg>Slightly drooping, staring seriously at her, anxiety colored his countenance, as if he was preparing to confess.</seg>
+      <tuv lang="EN-US" changeid="niz_ang" changedate="20181214T062338Z" creationid="niz_ang" creationdate="20181214T053931Z">
+        <seg>Staring seriously at her with slightly drooping eyes, anxiety colored his countenance, as if he was preparing to confess.</seg>
       </tuv>
     </tu>
     <tu>
