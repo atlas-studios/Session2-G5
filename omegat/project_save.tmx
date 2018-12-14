@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3352,8 +3352,8 @@ If you want to move to another city, the first thing you have to do is to find t
       <tuv lang="ZH-CN">
         <seg>“少拿小六六当借口，你刚才发什么疯，那是盛达科技的太子爷，人家主动跟我说话，我一声招呼都没打，就没礼貌的跑了……”年小慕双手叉腰，气势汹汹的准备讨个说法。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T053813Z" creationid="AoIeongFamily" creationdate="20181214T053256Z">
-        <seg>"Quit using Xiao Liu Liu as an excuse. Why were you mad just now? That was Shengda Technology's next successor who initiated it, I didn't even greet him and ran away rudely..." Nian Xiaomu stands akimbo and reasoned aggressively.</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T064220Z" creationid="AoIeongFamily" creationdate="20181214T053256Z">
+        <seg>"Quit using Xiao Liu Liu as an excuse. Why were you mad just now? That was the Shengda Technology's next successor who initiated it, I didn't even greet him and ran away rudely..." Nian Xiaomu stands akimbo and reasoned aggressively.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12630,8 +12630,8 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>她神经一凛，“没、没关系了，就当扯平，反正我跟那个小陈总也不熟。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T054703Z" creationid="AoIeongFamily" creationdate="20181214T054703Z">
-        <seg>She was startled and said, "Noth... nothing then, we're even now, anyway I don't even know that future CEO." </seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T064729Z" creationid="AoIeongFamily" creationdate="20181214T054703Z">
+        <seg>She was startled and said, "Noth... nothing then, we're even now, anyway I don't even know that future director." </seg>
       </tuv>
     </tu>
     <tu>
@@ -22647,8 +22647,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>见她愣着不动，凉飕飕的丢出一句，“我有病，不能开车。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T055947Z" creationid="AoIeongFamily" creationdate="20181214T055920Z">
-        <seg>Seeing her stunned, he coldly said, "I'm crazy, I can't drive."</seg>
+      <tuv lang="EN-US" changeid="AoIeongFamily" changedate="20181214T064659Z" creationid="AoIeongFamily" creationdate="20181214T055920Z">
+        <seg>Seeing her stunned, he said chilly, "I'm crazy, I can't drive."</seg>
       </tuv>
     </tu>
     <tu>
